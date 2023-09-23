@@ -1,0 +1,9 @@
+*.png
+*.vscode
+*.pyc
+
+__pychache__
+
+venv
+output
+computer_science_technologies.py
