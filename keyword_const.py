@@ -1,3 +1,8 @@
+"""
+`keyword_const.py` is a list of keywords that are used to 
+identify the computer science concepts in the text.
+"""
+
 COMPUTER_SCIENCE_KEYS = [
     "5g",
     "a-frame",
