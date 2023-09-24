@@ -1,6 +1,7 @@
 *.png
 *.vscode
 *.pyc
+*.json
 
 __pychache__
 

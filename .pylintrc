@@ -178,7 +178,7 @@ ignore-signatures=yes
 [VARIABLES]
 
 # Tells whether we should check for unused import in __init__ files.
-init-import=no
+init-import=yes
 
 # List of additional names supposed to be defined in builtins. Remember that
 # you should avoid defining new builtins when possible.
@@ -189,7 +189,7 @@ additional-builtins=
 callbacks=cb_,_cb
 
 # Tells whether unused global variables should be treated as a violation.
-allow-global-unused-variables=yes
+allow-global-unused-variables=no
 
 # List of names allowed to shadow builtins
 allowed-redefined-builtins=

@@ -3,7 +3,59 @@
 identify the computer science concepts in the text.
 """
 
-COMPUTER_SCIENCE_KEYS = [
+# create a list of job titles and cities to iterate over
+CITIES = [
+    # *** US cities
+    "Seattle",
+    "Houston",
+    "Phoenix",
+    "Austin",
+    "Dallas",
+    "San Jose",
+    "Raleigh",
+    "Miami",
+    "Baltimore",
+    "Denver",
+    "Portland",
+    "Minneapolis",
+    "Atlanta",
+    "Detroit",
+    "San Diego",
+    "Los Angeles",
+    "Philadelphia",
+    "Chicago",
+    "San Francisco",
+    "Washington DC",
+    "Boston",
+    "New York City",
+    "Miami",
+    # *** International cities
+    "Berlin",
+    "Tel Aviv",
+    "Montreal",
+    "Vancouver",
+    "Sydney",
+    "Tokyo",
+    "Toronto",
+    "Melbourne",
+    "Amsterdam",
+    "Oslo",
+    "Paris",
+    "Singapore",
+    "Taipei",
+    "Warsaw",
+    "London",
+    "Moscow",
+    "Sao Paulo",
+    "Seoul",
+    "Beijing",
+    "Hong Kong",
+    "Bangalore",
+    "Shanghai",
+]
+
+
+COMPUTER_SCIENCE_TERMS = [
     "5g",
     "a-frame",
     "abyss web server",
