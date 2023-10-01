@@ -6,16 +6,10 @@ import json
 from pathlib import Path
 from urllib.parse import quote
 
-# import nltk
-# from nltk.tokenize import word_tokenize
 from playwright.async_api import Locator, Page, Playwright, async_playwright
 from tqdm import tqdm
 
-from keyword_const import COMPUTER_SCIENCE_TERMS, CITIES
-
-# nltk.download("stopwords")
-# nltk.download("punkt")
-
+from keyword_const import CITIES, COMPUTER_SCIENCE_TERMS
 
 output_dir = Path.cwd().joinpath("output")
 output_dir.mkdir(exist_ok=True)
@@ -25,22 +19,6 @@ summary_file_path = str(output_dir.joinpath(f"keywords_data{dt}.json"))
 print(f"write into {json_file_path}")
 
 data = []
-
-
-# def word_list_to_freq_dict(word_list):
-#     word_freq = [word_list.count(p) for p in word_list]
-#     return dict(list(zip(word_list, word_freq)))
-
-
-# def remove_stopwords(tokens):
-#     stop_words = nltk.corpus.stopwords.words("english")
-#     return [token for token in tokens if token not in stop_words]
-
-
-# def remove_single_char(text, threshold=2):
-#     threshold = threshold
-#     words = word_tokenize(text)
-#     return " ".join([word for word in words if len(word) > threshold])
 
 
 def strip_non_computer_word(tokens: []):
@@ -56,9 +34,7 @@ def process_keyword():
             word_string = " ".join(
                 [job.get("job_description").lower(), job.get("job_highlights").lower()]
             )
-            # word_string = remove_single_char(word_string)
             word_list = word_string.split()
-            # word_list = remove_stopwords(word_list)
             word_list = strip_non_computer_word(word_list)
             rows.extend(set(word_list))
 
@@ -137,12 +113,6 @@ async def parse_listing_page(page: Page) -> None:
 
 
 async def run(playwright: Playwright, max_scroll: int, query: str) -> None:
-    """This is the main function to initialize the playwright browser
-    and create a page. Then do the initial navigations.
-    Args:
-        playwright (Playwright)
-    """
-
     # Initializing browser and opening a new page
     browser = await playwright.firefox.launch(headless=False)
     context = await browser.new_context()
