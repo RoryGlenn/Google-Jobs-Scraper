@@ -1,7 +1,7 @@
 *.png
 *.vscode
 *.pyc
-*.json
+# *.json
 *.pylintrc
 *.pytest_cache
 
