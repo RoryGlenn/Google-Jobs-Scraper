@@ -2,9 +2,11 @@
 *.vscode
 *.pyc
 *.json
+*.pylintrc
+*.pytest_cache
 
-__pychache__
 
+__pycache__
 venv
 output
 computer_science_technologies.py
