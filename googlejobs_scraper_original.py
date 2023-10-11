@@ -149,12 +149,6 @@ def parse_args():
     parser.add_argument(
         "--max_scroll", default=100, type=int, help="Maximum scrolling count"
     )
-    parser.add_argument(
-        "--all_cities",
-        default=False,
-        type=bool,
-        help="If true, it will search all cities in CITIES else, it will search only in your current location",
-    )
 
     return parser.parse_args()
 
@@ -162,17 +156,13 @@ def parse_args():
 async def main() -> None:
     args = parse_args()
 
-    if args.all_cities:
-        for city in CITIES:
-            async with async_playwright() as playwright:
-                await run(
-                    playwright,
-                    max_scroll=args.max_scroll,
-                    query=f"{args.term} in {city}",
-                )
-    else:
+    for city in CITIES:
         async with async_playwright() as playwright:
-            await run(playwright, max_scroll=args.max_scroll, query=args.term)
+            await run(
+                playwright,
+                max_scroll=args.max_scroll,
+                query=f"{args.term} in {city}",
+            )
 
 
 if __name__ == "__main__":
