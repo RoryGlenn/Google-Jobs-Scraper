@@ -13,7 +13,7 @@ from typing import Any
 from playwright.async_api import Locator, Page, Playwright, async_playwright
 from tqdm import tqdm
 
-from keyword_const import CITIES, COMPUTER_SCIENCE_TERMS
+from keyword_const import US_CITIES, COMPUTER_SCIENCE_TERMS
 from timing import TimeIt
 
 TIMEOUT = 2000

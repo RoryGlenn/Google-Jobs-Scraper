@@ -9,7 +9,7 @@ from urllib.parse import quote
 from playwright.async_api import Locator, Page, Playwright, async_playwright
 from tqdm import tqdm
 
-from keyword_const import CITIES, COMPUTER_SCIENCE_TERMS
+from keyword_const import US_CITIES, COMPUTER_SCIENCE_TERMS
 
 output_dir = Path.cwd().joinpath("output")
 output_dir.mkdir(exist_ok=True)
@@ -156,7 +156,7 @@ def parse_args():
 async def main() -> None:
     args = parse_args()
 
-    for city in CITIES:
+    for city in US_CITIES:
         async with async_playwright() as playwright:
             await run(
                 playwright,

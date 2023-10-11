@@ -19,11 +19,36 @@ logger.setLevel(logging.INFO)
 
 
 def get_raw_data(path: str) -> List[Dict]:
+    '''The function `get_raw_data` reads and returns the contents of a JSON file as a list of dictionaries.
+    
+    Parameters
+    ----------
+    path : str
+        The `path` parameter is a string that represents the file path of the JSON file that you want to
+    read.
+    
+    Returns
+    -------
+        a list of dictionaries.
+    
+    '''
     with open(path, "r", encoding="utf-8") as file:
         return json.load(file)
 
 
 def write_data(data, path) -> None:
+    '''The function `write_data` writes the given data to a file at the specified path in JSON format.
+    
+    Parameters
+    ----------
+    data
+        The `data` parameter is the data that you want to write to a file. It can be any valid JSON data,
+    such as a dictionary, list, or string.
+    path
+        The `path` parameter is a string that represents the file path where the data will be written to.
+    It should include the file name and extension. For example, "data.json" or "output.txt".
+    
+    '''
     with open(path, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)
 
@@ -175,13 +200,41 @@ def employer_keywords(data: List[Dict]):
 
 
 def all_job_title_occurrences(data: List[Dict], path: str) -> None:
+    '''The function `all_job_title_occurrences` takes a list of dictionaries `data` and a string `path` as
+    input, counts the occurrences of job titles in the `data` and writes the result to a file specified
+    by `path`.
+    
+    Parameters
+    ----------
+    data : List[Dict]
+        The `data` parameter is a list of dictionaries. Each dictionary represents a job and contains
+    information about the job, such as the job title, company, and location.
+    path : str
+        The `path` parameter is a string that represents the file path where the result will be written to.
+    It should include the file name and extension. For example, if you want to write the result to a
+    file named "job_titles.txt" in the current directory, you can set `path`
+    
+    '''
     job_titles = get_occurrences(data, "title")
     result = {elem[0]: elem[1] for elem in job_titles}
-
     write_data(result, path)
 
 
 def all_employer_keyword_occurrences(data: List[Dict], path: str) -> None:
+    '''The function `all_employer_keyword_occurrences` extracts the occurrences of keywords for each
+    employer from a given dataset, and writes the results to a specified file path.
+    
+    Parameters
+    ----------
+    data : List[Dict]
+        The `data` parameter is a list of dictionaries. Each dictionary represents a data entry and
+    contains information about an employer. The dictionaries have various keys, but one of the keys is
+    "employer" which contains the name of the employer.
+    path : str
+        The `path` parameter is a string that represents the file path where the result will be written to.
+    It should include the file name and extension. For example, "output.txt" or "results.csv".
+    
+    '''
     employers = get_occurrences(data, "employer")
     emp_keywords = employer_keywords(data)
     result = {emp_name: dict(emp_keywords[emp_name]) for (emp_name, count) in employers}
@@ -189,6 +242,19 @@ def all_employer_keyword_occurrences(data: List[Dict], path: str) -> None:
 
 
 def all_job_title_keyword_occurrences(data: List[Dict], path: str) -> None:
+    '''The function `all_job_title_keyword_occurrences` takes in a list of dictionaries representing job
+    data and a file path, and it calculates the occurrences of keywords in job titles and writes the
+    results to a file.
+    
+    Parameters
+    ----------
+    data : List[Dict]
+        The `data` parameter is a list of dictionaries. Each dictionary represents a job and contains
+    information such as the job title, description, and other relevant details.
+    path : str
+        The `path` parameter is a string that represents the file path where the result will be written to.
+    
+    '''
     job_titles = get_occurrences(data, "title")
     jt_keywords = job_title_keywords(data)
     result = {title: dict(jt_keywords[title]) for (title, count) in job_titles}
@@ -197,6 +263,22 @@ def all_job_title_keyword_occurrences(data: List[Dict], path: str) -> None:
 
 
 def all_employer_occurrences(data: List[Dict], path: str) -> None:
+    '''The function `all_employer_occurrences` takes a list of dictionaries `data` and a string `path` as
+    input, counts the occurrences of each employer in the data, and writes the result to a file
+    specified by the `path`.
+    
+    Parameters
+    ----------
+    data : List[Dict]
+        The `data` parameter is a list of dictionaries. Each dictionary represents a data entry and
+    contains information about an individual. The dictionaries have various keys, but one of the keys is
+    "employer" which stores the name of the employer for that individual.
+    path : str
+        The `path` parameter is a string that represents the file path where the result will be written to.
+    It should include the file name and extension. For example, if you want to write the result to a
+    file named "output.txt" in the current directory, you can pass the value "./output
+    
+    '''
     employers = get_occurrences(data, "employer")
     result = {elem[0]: elem[1] for elem in employers}
 
@@ -204,6 +286,18 @@ def all_employer_occurrences(data: List[Dict], path: str) -> None:
 
 
 def write_all_occurrences(data: List[Dict], path: str) -> None:
+    '''The function writes all occurrences of job titles, employer keywords, job title keywords, and
+    employers from a given data list to a specified file path.
+    
+    Parameters
+    ----------
+    data : List[Dict]
+        A list of dictionaries representing job data. Each dictionary contains information about a job,
+    such as job title, employer, and keywords.
+    path : str
+        The path parameter is a string that represents the file path where the occurrences will be written to.
+    
+    '''
     all_job_title_occurrences(data, path)
     all_employer_keyword_occurrences(data, path)
     all_job_title_keyword_occurrences(data, path)
