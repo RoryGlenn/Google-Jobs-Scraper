@@ -18,6 +18,16 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
+def get_raw_data(path: str) -> List[Dict]:
+    with open(path, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+def write_data(data, path) -> None:
+    with open(path, "w", encoding="utf-8") as file:
+        json.dump(data, file, indent=4)
+
+
 def strip_non_computer_word(tokens):
     """
     Filters out non-computer science terms from a list of tokens.
@@ -79,7 +89,7 @@ def get_keywords(data):
     return dict(sorted_by_freq)
 
 
-def get_keywords(job_dict):
+def get_keywords(job_dict: dict):
     """
     Extracts keywords from the job description and highlights of a job listing.
 
@@ -135,7 +145,7 @@ def job_title_keywords(data: List[Dict]) -> Dict[str, List[tuple]]:
     return result
 
 
-def employer_keywords(data):
+def employer_keywords(data: List[Dict]):
     """
     Extracts the keywords from the job descriptions in the given data and groups them by employer.
 
@@ -164,68 +174,46 @@ def employer_keywords(data):
     return result
 
 
-def all_job_title_occurrences(data) -> None:
+def all_job_title_occurrences(data: List[Dict], path: str) -> None:
     job_titles = get_occurrences(data, "title")
     result = {elem[0]: elem[1] for elem in job_titles}
 
-    with open(
-        "results/Software Engineer in 2023-10-08/All_Job_Title_Occurrences.json",
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(result, file, indent=4)
+    write_data(result, path)
 
 
-def all_employer_keyword_occurrences(data) -> None:
+def all_employer_keyword_occurrences(data: List[Dict], path: str) -> None:
     employers = get_occurrences(data, "employer")
     emp_keywords = employer_keywords(data)
     result = {emp_name: dict(emp_keywords[emp_name]) for (emp_name, count) in employers}
-
-    with open("All_Employer_Keyword_Occurrences.json", "w", encoding="utf-8") as file:
-        json.dump(result, file, indent=4)
+    write_data(result, path)
 
 
-def all_job_title_keyword_occurrences(data) -> None:
+def all_job_title_keyword_occurrences(data: List[Dict], path: str) -> None:
     job_titles = get_occurrences(data, "title")
     jt_keywords = job_title_keywords(data)
     result = {title: dict(jt_keywords[title]) for (title, count) in job_titles}
 
-    with open(
-        "results/Software Engineer in 2023-10-08/All_Job_Title_Keyword_Occurrences.json",
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(result, file, indent=4)
+    write_data(result, path)
 
 
-def all_employer_occurrences(data) -> None:
+def all_employer_occurrences(data: List[Dict], path: str) -> None:
     employers = get_occurrences(data, "employer")
     result = {elem[0]: elem[1] for elem in employers}
 
-    with open(
-        "results/Software Engineer in 2023-10-08/All_Employer_Occurrences.json",
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(result, file, indent=4)
+    write_data(result, path)
 
 
-def write_all_occurrences(data) -> None:
-    all_job_title_occurrences(data)
-    all_employer_keyword_occurrences(data)
-    all_job_title_keyword_occurrences(data)
-    all_employer_occurrences(data)
-
-
-def get_data(path: str) -> List[Dict]:
-    with open(path, "r", encoding="utf-8") as file:
-        return json.load(file)
+def write_all_occurrences(data: List[Dict], path: str) -> None:
+    all_job_title_occurrences(data, path)
+    all_employer_keyword_occurrences(data, path)
+    all_job_title_keyword_occurrences(data, path)
+    all_employer_occurrences(data, path)
 
 
 def main() -> None:
     path = "results/Software Engineer in 2023-10-08/google_jobs_Software Engineer in All Cities_2023-10-08.json"
-    data = get_data(path)
-    write_all_occurrences(data)
+    data = get_raw_data(path)
+    write_all_occurrences(data, path)
 
 
 if __name__ == "__main__":
