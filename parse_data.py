@@ -49,6 +49,7 @@ def write_data(data, path) -> None:
     It should include the file name and extension. For example, "data.json" or "output.txt".
     
     '''
+    
     with open(path, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)
 
@@ -286,6 +287,7 @@ def all_employer_occurrences(data: List[Dict], path: str) -> None:
 
 
 def write_all_occurrences(data: List[Dict], path: str) -> None:
+    # sourcery skip: use-fstring-for-concatenation
     '''The function writes all occurrences of job titles, employer keywords, job title keywords, and
     employers from a given data list to a specified file path.
     
@@ -298,15 +300,19 @@ def write_all_occurrences(data: List[Dict], path: str) -> None:
         The path parameter is a string that represents the file path where the occurrences will be written to.
     
     '''
-    all_job_title_occurrences(data, path)
-    all_employer_keyword_occurrences(data, path)
-    all_job_title_keyword_occurrences(data, path)
-    all_employer_occurrences(data, path)
+
+    all_job_title_occurrences(data, path+"/job_title_occurrences.json")
+    all_employer_keyword_occurrences(data, path + "/employer_keyword_occurrences.json")
+    all_job_title_keyword_occurrences(data, path + "/job_title_keyword_occurrences.json")
+    all_employer_occurrences(data, path + "/employer_occurrences.json")
 
 
 def main() -> None:
-    path = "results/Software Engineer in 2023-10-08/google_jobs_Software Engineer in All Cities_2023-10-08.json"
+    path = "results/Software Engineer in 2023-10-11/google_jobs_data_us_cities.json"
     data = get_raw_data(path)
+    
+    path = path.split('/')
+    path = '/'.join(path[:-1])
     write_all_occurrences(data, path)
 
 
