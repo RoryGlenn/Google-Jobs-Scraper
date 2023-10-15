@@ -28,17 +28,17 @@ The module also defines several variables, including `logger`, `output_dir`, `dt
 
 import argparse
 import asyncio
-import collections
 import datetime
 import json
 import logging
 from pathlib import Path
+import time
 from urllib.parse import quote
 
 from playwright.async_api import Locator, Page, Playwright, async_playwright
 from tqdm import tqdm
 
-from keyword_const import US_CITIES, COMPUTER_SCIENCE_TERMS
+from keyword_const import US_CITIES
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -47,54 +47,11 @@ logger = logging.getLogger(__name__)
 output_dir = Path.cwd().joinpath("output")
 output_dir.mkdir(exist_ok=True)
 dt = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-json_file_path = str(output_dir.joinpath(f"google_jobs_data{dt}.json"))
-summary_file_path = str(output_dir.joinpath(f"keywords_data{dt}.json"))
+json_file_path = str(output_dir.joinpath(f"google_jobs_data_{dt}.json"))
 
 logger.debug(f"Writing data into '{json_file_path}'")
 
 data = []
-
-
-def strip_non_computer_word(tokens: list) -> list[str]:
-    """The function `strip_non_computer_word` filters out non-computer science terms from a list of tokens.
-
-    Parameters
-    ----------
-    tokens : []
-        A list of tokens, where each token is a word or a string.
-
-    Returns
-    -------
-        a list of tokens that are computer science terms.
-
-    """
-    return [token for token in tokens if token in COMPUTER_SCIENCE_TERMS]
-
-
-def process_keyword() -> None:
-    """The function `process_keyword()` calculates the frequency of keywords in a JSON file containing job
-    descriptions and highlights, and saves the results in a summary file.
-
-    """
-    logger.debug("Calculating keywords")
-
-    rows = []
-    with open(json_file_path, "r", encoding="utf-8") as json_file:
-        _data = json.load(json_file)
-        for job in _data:
-            word_string = " ".join(
-                [job.get("job_description").lower(), job.get("job_highlights").lower()]
-            )
-            word_list = word_string.split()
-            word_list = strip_non_computer_word(word_list)
-            rows.extend(set(word_list))
-
-    word_freq = dict(collections.Counter(rows))
-    sorted_by_freq = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)
-    word_freq = dict(sorted_by_freq)
-
-    with open(f"{summary_file_path}", "w", encoding="utf-8") as outfile:
-        json.dump(word_freq, outfile, indent=4)
 
 
 def save_data() -> None:
@@ -250,9 +207,9 @@ async def run(playwright: Playwright, max_scroll: int, query: str) -> None:
         previousYBound = box3["y"]
 
     await parse_listing_page(page)
-    logger.debug(f"Finished Parsing {query}")
+    logger.debug(f"Finished Parsing `{query}`")
     save_data()
-    process_keyword()
+    # process_keyword()
     await context.close()
     await browser.close()
 
@@ -277,6 +234,7 @@ def parse_args():
 
 async def main() -> None:
     """The `main` function uses Playwright to run a search query for a given term in multiple US cities."""
+    start_time = time.perf_counter()
     args = parse_args()
 
     for city in US_CITIES:
@@ -286,6 +244,7 @@ async def main() -> None:
                 max_scroll=args.max_scroll,
                 query=f"{args.term} in {city}",
             )
+    logger.debug(f"Time elapsed: {round(time.perf_counter() - start_time)} seconds")
 
 
 if __name__ == "__main__":
