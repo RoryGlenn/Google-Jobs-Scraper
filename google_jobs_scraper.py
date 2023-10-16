@@ -184,7 +184,6 @@ async def run(playwright: Playwright, max_scroll: int, query: str) -> None:
 
     """
     # Initializing browser and opening a new page
-    # browser = await playwright.firefox.launch(headless=False)
     browser = await playwright.firefox.launch(headless=True)
     context = await browser.new_context()
     page = await context.new_page()
@@ -198,6 +197,7 @@ async def run(playwright: Playwright, max_scroll: int, query: str) -> None:
     job_tree = page.locator("//div[@role='tree']")
     await job_tree.click()
     previousYBound = 0
+
     for _ in tqdm(range(max_scroll), desc="Scroll"):
         await page.mouse.wheel(0, 5000)
         await asyncio.sleep(2)
@@ -244,7 +244,9 @@ async def main() -> None:
                 max_scroll=args.max_scroll,
                 query=f"{args.term} in {city}",
             )
-    logger.debug(f"Time elapsed: {round(time.perf_counter() - start_time)} seconds")
+
+    minutes = (time.perf_counter() - start_time) / 60
+    logger.debug(f"Time elapsed: {round(minutes, 1)} minutes")
 
 
 if __name__ == "__main__":

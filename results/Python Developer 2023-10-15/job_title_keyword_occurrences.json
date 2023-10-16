@@ -1,0 +1,8202 @@
+{
+    "python developer": {
+        "python": 1815,
+        "sql": 326,
+        "agile": 238,
+        "aws": 214,
+        "django": 209,
+        "linux": 118,
+        "rest": 98,
+        "devops": 87,
+        "flask": 86,
+        "javascript": 86,
+        "java": 80,
+        "git": 75,
+        "mysql": 60,
+        "hadoop": 60,
+        "shell": 58,
+        "react": 54,
+        "docker": 50,
+        "angular": 49,
+        "apache": 48,
+        "nosql": 47,
+        "unix": 41,
+        "scrum": 38,
+        "sdlc": 37,
+        "spring": 35,
+        "ui": 33,
+        "pandas": 33,
+        "html": 30,
+        "jenkins": 29,
+        "github": 27,
+        "windows": 26,
+        "xml": 25,
+        "css3": 24,
+        "scala": 24,
+        "css": 23,
+        "bash": 23,
+        "go": 22,
+        "tableau": 22,
+        "kubernetes": 22,
+        "perl": 21,
+        "postgresql": 20,
+        "json": 20,
+        "soap": 20,
+        "foundation": 19,
+        "mongodb": 19,
+        "numpy": 19,
+        "jira": 18,
+        "jquery": 17,
+        "c#": 17,
+        "line": 16,
+        "cassandra": 15,
+        "oop": 14,
+        "c++": 13,
+        "gitlab": 13,
+        "ansible": 13,
+        "php": 12,
+        "elasticsearch": 12,
+        "c": 12,
+        "graphql": 11,
+        "r": 11,
+        "jupyter": 11,
+        "svn": 10,
+        "openshift": 10,
+        "pl/sql": 10,
+        "cvs": 10,
+        "zoom": 9,
+        "less": 9,
+        "html5": 9,
+        "puppet": 8,
+        "batch": 8,
+        "safe": 8,
+        "5g": 7,
+        "box": 6,
+        "couchbase": 6,
+        "ruby": 6,
+        "android": 6,
+        "ios": 6,
+        "terraform": 6,
+        "scipy": 6,
+        "t-sql": 6,
+        "plotly": 6,
+        "clustering": 6,
+        "grunt": 5,
+        "bootstrap": 5,
+        "metal": 5,
+        "encryption": 5,
+        "skype": 5,
+        "selenium": 5,
+        "wire": 5,
+        "dask": 5,
+        "tomcat": 4,
+        "mercurial": 4,
+        "xamarin": 4,
+        "splunk": 4,
+        "tornado": 4,
+        "swift": 4,
+        "routing": 4,
+        "mvc": 4,
+        "waterfall": 3,
+        "cuda": 3,
+        "hibernate": 3,
+        "bitbucket": 3,
+        "fastapi": 3,
+        "powershell": 3,
+        "jasmine": 3,
+        "cucumber": 3,
+        "gradle": 3,
+        "matplotlib": 3,
+        "latency": 3,
+        "behave": 3,
+        "accuracy": 3,
+        "lean": 3,
+        "dash": 3,
+        "dns": 3,
+        "nagios": 3,
+        "yaml": 3,
+        "node.js": 3,
+        "bower": 2,
+        "grafana": 2,
+        "sonarqube": 2,
+        "typescript": 2,
+        "bottle": 2,
+        "firewall": 2,
+        "postman": 2,
+        "switching": 2,
+        "ionic": 2,
+        "kotlin": 2,
+        "emacs": 2,
+        "cisco": 2,
+        "twisted": 2,
+        "jboss": 2,
+        "trace": 2,
+        "debian": 2,
+        "ubuntu": 2,
+        "kanban": 2,
+        "nginx": 2,
+        "neo4j": 2,
+        "fossil": 2,
+        "http": 1,
+        "pytorch": 1,
+        "cloudformation": 1,
+        "pyramid": 1,
+        "uwsgi": 1,
+        "signal": 1,
+        "tensorflow": 1,
+        "web2py": 1,
+        "render": 1,
+        "openstack": 1,
+        "throughput": 1,
+        "sed": 1,
+        "chef": 1,
+        "hudson": 1,
+        "tfs": 1,
+        "erlang": 1,
+        "mqtt": 1,
+        "rust": 1
+    },
+    "senior python developer": {
+        "python": 338,
+        "django": 296,
+        "rest": 289,
+        "postgresql": 103,
+        "agile": 45,
+        "scrum": 34,
+        "aws": 23,
+        "sql": 15,
+        "http": 12,
+        "flask": 10,
+        "nosql": 9,
+        "go": 7,
+        "linux": 7,
+        "java": 7,
+        "devops": 6,
+        "react": 6,
+        "ruby": 6,
+        "pandas": 6,
+        "git": 5,
+        "docker": 5,
+        "sdlc": 5,
+        "c": 4,
+        "kubernetes": 4,
+        "unix": 4,
+        "github": 4,
+        "fastapi": 4,
+        "gcp": 3,
+        "ubuntu": 3,
+        "hadoop": 3,
+        "shell": 3,
+        "jenkins": 3,
+        "scheme": 3,
+        "soap": 3,
+        "datadog": 2,
+        "jira": 2,
+        "css": 2,
+        "javascript": 2,
+        "angular": 2,
+        "dns": 2,
+        "c++": 2,
+        "perl": 2,
+        "ios": 1,
+        "redis": 1,
+        "cassandra": 1,
+        "html": 1,
+        "signal": 1,
+        "routing": 1,
+        "gitlab": 1,
+        "phishing": 1,
+        "sentry": 1,
+        "ansible": 1,
+        "c#": 1,
+        "numpy": 1
+    },
+    "python developer (internship)": {
+        "django": 138,
+        "rest": 138,
+        "sql": 138,
+        "python": 88
+    },
+    "python": {
+        "python": 79,
+        "aws": 6,
+        "sql": 4,
+        "c#": 3,
+        "java": 3,
+        "devops": 3,
+        "hadoop": 3,
+        "c": 3,
+        "jenkins": 3,
+        "agile": 3,
+        "scala": 2,
+        "git": 1
+    },
+    "python developers": {
+        "python": 203,
+        "aws": 64,
+        "sql": 47,
+        "devops": 14,
+        "java": 12,
+        "soc": 11,
+        "linux": 10,
+        "django": 10,
+        "agile": 10,
+        "angular": 10,
+        "apache": 9,
+        "batch": 8,
+        "jenkins": 8,
+        "mysql": 8,
+        "sdlc": 8,
+        "javascript": 7,
+        "fastapi": 7,
+        "windows": 6,
+        "react": 6,
+        "rest": 6,
+        "pl/sql": 6,
+        "gitlab": 5,
+        "accuracy": 5,
+        "git": 4,
+        "scrum": 4,
+        "css": 4,
+        "mongodb": 4,
+        "ansible": 4,
+        "tcp/ip": 3,
+        "php": 3,
+        "ui": 3,
+        "couchbase": 3,
+        "terraform": 3,
+        "typescript": 3,
+        "lean": 3,
+        "pandas": 3,
+        "hadoop": 3,
+        "t-sql": 3,
+        "unix": 3,
+        "less": 2,
+        "switching": 2,
+        "line": 2,
+        "cloudwatch": 2,
+        "http": 2,
+        "postman": 2,
+        "swagger": 2,
+        "json": 2,
+        "yaml": 2,
+        "splunk": 2,
+        "jira": 2,
+        "html": 2,
+        "nosql": 2,
+        "flask": 2,
+        "c": 2,
+        "c++": 1,
+        "scala": 1,
+        "r": 1
+    },
+    "python engineer - data center hardware integration (greater boston area)": {
+        "python": 277,
+        "ubuntu": 83,
+        "metal": 83,
+        "linux": 83,
+        "accuracy": 55
+    },
+    "python engineer (top secret clearance)": {
+        "python": 226,
+        "rest": 170,
+        "safe": 83
+    },
+    "experienced associate, software engineer (python/sql)": {},
+    "sr. python developer": {
+        "python": 158,
+        "java": 28,
+        "linux": 21,
+        "c": 21,
+        "aws": 18,
+        "agile": 17,
+        "sql": 13,
+        "django": 11,
+        "flask": 10,
+        "git": 7,
+        "devops": 7,
+        "spring": 7,
+        "docker": 6,
+        "javascript": 5,
+        "ios": 4,
+        "android": 4,
+        "go": 4,
+        "rest": 4,
+        "jenkins": 4,
+        "maven": 4,
+        "scrum": 3,
+        "svn": 3,
+        "html": 3,
+        "css": 3,
+        "bash": 3,
+        "shell": 3,
+        "apache": 3,
+        "elasticsearch": 3,
+        "oop": 3,
+        "pandas": 3,
+        "github": 3,
+        "mysql": 2,
+        "mongodb": 2,
+        "nosql": 2,
+        "c#": 2,
+        "gitlab": 2,
+        "soap": 2,
+        "cassandra": 1,
+        "node.js": 1,
+        "json": 1,
+        "skype": 1,
+        "cucumber": 1
+    },
+    "python software engineers": {
+        "python": 127,
+        "fortran": 30,
+        "agile": 26,
+        "ui": 23,
+        "sql": 12,
+        "numpy": 9,
+        "scheme": 9,
+        "shell": 9,
+        "scipy": 8,
+        "jenkins": 6,
+        "selenium": 4,
+        "javascript": 4,
+        "linux": 4,
+        "aws": 3,
+        "typescript": 3,
+        "r": 3,
+        "react": 3,
+        "ruby": 3,
+        "django": 3,
+        "github": 3,
+        "rest": 3,
+        "docker": 2,
+        "accuracy": 1,
+        "git": 1,
+        "devops": 1
+    },
+    "entry level python developer": {
+        "python": 60,
+        "java": 54,
+        "django": 51,
+        "scala": 19,
+        "c++": 11,
+        "spring": 10,
+        "rest": 10,
+        "javascript": 9,
+        "go": 4,
+        "jenkins": 2,
+        "scrum": 2,
+        "agile": 2,
+        "css3": 2,
+        "git": 2,
+        "sql": 2
+    },
+    "lead python developers": {
+        "python": 159,
+        "aws": 63,
+        "terraform": 24,
+        "sql": 21,
+        "react": 13,
+        "mongodb": 11,
+        "c": 11,
+        "graphql": 10,
+        "git": 10,
+        "kubernetes": 9,
+        "fastapi": 9,
+        "java": 8,
+        "agile": 6,
+        "docker": 5,
+        "rancher": 4,
+        "nosql": 4,
+        "shell": 3,
+        "routing": 3,
+        "switching": 3,
+        "json": 3,
+        "devops": 3,
+        "node.js": 3,
+        "jupyter": 2,
+        "c#": 2,
+        "scala": 2,
+        "tableau": 1,
+        "clustering": 1,
+        "jira": 1
+    },
+    "insight global": {
+        "python": 36,
+        "sql": 11,
+        "java": 7,
+        "scrum": 7,
+        "aws": 5,
+        "agile": 5,
+        "django": 3,
+        "fastapi": 3,
+        "pandas": 3,
+        "docker": 3,
+        "gcp": 3,
+        "line": 3,
+        "linux": 2,
+        "flask": 2,
+        "swarm": 1,
+        "unix": 1,
+        "shell": 1,
+        "hadoop": 1
+    },
+    "sr. python developer- 100% remote only w2": {
+        "python": 264,
+        "rest": 121,
+        "batch": 70,
+        "git": 35
+    },
+    "python developer | healthcare | remote | $50/hr. w2": {
+        "python": 90
+    },
+    "data engineer sql/python": {
+        "aws": 39,
+        "sql": 32,
+        "python": 16,
+        "java": 7,
+        "elasticsearch": 6,
+        "c#": 6,
+        "batch": 5,
+        "agile": 4,
+        "rest": 4,
+        "devops": 3,
+        "shell": 3,
+        "safe": 3,
+        "scala": 3,
+        "gitlab": 3,
+        "apache": 2,
+        "gcp": 2,
+        "nosql": 2,
+        "hadoop": 1,
+        "line": 1,
+        "launchpad": 1
+    },
+    "lead software developer - python, azure, sql": {
+        "sql": 62,
+        "python": 45,
+        "line": 15,
+        "go": 12
+    },
+    "lead python developer": {
+        "python": 71,
+        "aws": 42,
+        "sql": 22,
+        "agile": 15,
+        "kubernetes": 7,
+        "graphql": 7,
+        "nosql": 7,
+        "terraform": 6,
+        "rest": 5,
+        "java": 5,
+        "cloudformation": 3,
+        "cloudwatch": 3,
+        "node.js": 3,
+        "react": 2,
+        "docker": 2,
+        "angular": 2,
+        "sdlc": 2,
+        "go": 2,
+        "r": 1,
+        "c": 1,
+        "unix": 1,
+        "javascript": 1,
+        "linux": 1,
+        "devops": 1
+    },
+    "junior python developer": {
+        "python": 111,
+        "aws": 17,
+        "sql": 15,
+        "django": 13,
+        "git": 10,
+        "flask": 10,
+        "agile": 7,
+        "linux": 5,
+        "bash": 3,
+        "jenkins": 3,
+        "jira": 3,
+        "javascript": 3,
+        "css": 3,
+        "pandas": 3,
+        "c#": 3,
+        "oop": 3,
+        "fastapi": 3,
+        "waterfall": 3,
+        "mvc": 3,
+        "mongodb": 3,
+        "ui": 3,
+        "java": 2,
+        "mysql": 2,
+        "json": 2,
+        "rest": 1,
+        "devops": 1,
+        "objective-c": 1,
+        "go": 1,
+        "scala": 1
+    },
+    "python engineer": {
+        "python": 40,
+        "sql": 15,
+        "aws": 15,
+        "apache": 8,
+        "docker": 6,
+        "accuracy": 5,
+        "postgresql": 4,
+        "linux": 4,
+        "kubernetes": 3,
+        "graphql": 3,
+        "rest": 2,
+        "nginx": 2,
+        "pandas": 2,
+        "numpy": 2,
+        "php": 2,
+        "laravel": 2,
+        "encryption": 2,
+        "rust": 2,
+        "css": 2,
+        "django": 1,
+        "flask": 1,
+        "grpc": 1,
+        "rackspace": 1,
+        "elasticsearch": 1,
+        "agile": 1,
+        "jenkins": 1,
+        "terraform": 1
+    },
+    "python developer (entry level)": {
+        "java": 72,
+        "python": 34,
+        "javascript": 22,
+        "c++": 19,
+        "spring": 19,
+        "jenkins": 19,
+        "rest": 19,
+        "django": 7,
+        "scala": 4,
+        "flask": 3,
+        "agile": 2,
+        "ui": 2,
+        "sql": 2
+    },
+    "python programmer": {
+        "python": 64,
+        "django": 34,
+        "r": 10,
+        "scala": 9,
+        "agile": 8,
+        "jenkins": 8,
+        "javascript": 7,
+        "flask": 6,
+        "rest": 5,
+        "devops": 4,
+        "scikit-learn": 4,
+        "css": 4,
+        "c++": 3,
+        "soap": 3,
+        "redis": 3,
+        "java": 3,
+        "go": 3,
+        "opencv": 3,
+        "html": 3,
+        "kubernetes": 2,
+        "sql": 2,
+        "sonarqube": 1,
+        "jira": 1
+    },
+    "python developer-location open": {
+        "hadoop": 22,
+        "scala": 11,
+        "python": 11,
+        "nosql": 11,
+        "mongodb": 11,
+        "github": 11,
+        "aws": 11,
+        "agile": 11
+    },
+    "tableau developer with python": {
+        "tableau": 65,
+        "python": 16,
+        "sql": 10,
+        "ada": 5,
+        "javascript": 4,
+        "nosql": 3,
+        "agile": 3,
+        "lean": 1,
+        "skype": 1,
+        "go": 1,
+        "assembly": 1,
+        "aws": 1
+    },
+    "senior python engineer": {
+        "python": 51,
+        "aws": 22,
+        "docker": 8,
+        "sql": 7,
+        "flask": 6,
+        "kubernetes": 5,
+        "agile": 5,
+        "devops": 3,
+        "rest": 3,
+        "apache": 2,
+        "linux": 2,
+        "c++": 2,
+        "git": 2,
+        "fastapi": 2,
+        "postgresql": 2,
+        "redis": 2
+    },
+    "python developer with sql": {
+        "python": 68,
+        "sql": 13,
+        "agile": 8,
+        "apache": 6,
+        "nosql": 3,
+        "cassandra": 3,
+        "pandas": 3,
+        "linux": 3,
+        "django": 3,
+        "encryption": 3,
+        "mvc": 3,
+        "git": 3,
+        "css3": 3,
+        "html5": 3,
+        "angular": 3,
+        "docker": 3,
+        "rest": 2,
+        "java": 2,
+        "devops": 2,
+        "javascript": 1
+    },
+    "python developer with .net": {
+        "python": 80,
+        "hadoop": 24,
+        "github": 24
+    },
+    "tech lead (python)": {
+        "python": 56,
+        "aws": 52,
+        "terraform": 16,
+        "cloudformation": 16,
+        "github": 12,
+        "fairness": 4
+    },
+    "sr. back-end developer (python)": {
+        "python": 20,
+        "php": 20,
+        "mysql": 20,
+        "postgresql": 20,
+        "subversion": 13,
+        "git": 13,
+        "aws": 13,
+        "linux": 13,
+        "java": 13,
+        "django": 13,
+        "css": 13
+    },
+    "python developer with java": {
+        "python": 70,
+        "java": 42,
+        "hadoop": 21,
+        "github": 21
+    },
+    "senior python software engineer": {
+        "python": 39,
+        "aws": 9,
+        "django": 8,
+        "linux": 4,
+        "mongodb": 4,
+        "react": 3,
+        "devops": 2,
+        "git": 2,
+        "pyramid": 1,
+        "gcp": 1,
+        "rest": 1
+    },
+    "full stack python developers": {
+        "python": 51,
+        "sql": 11,
+        "aws": 10,
+        "react": 9,
+        "spring": 8,
+        "java": 8,
+        "angular": 6,
+        "nosql": 4,
+        "docker": 1
+    },
+    "remote - financial data modeler (python/java)": {
+        "c++": 18,
+        "sql": 12,
+        "c#": 12,
+        "c": 12,
+        "agile": 12,
+        "java": 6,
+        "aws": 4,
+        "fairness": 4,
+        "linux": 3,
+        "kubernetes": 3,
+        "cassandra": 3,
+        "git": 1,
+        "devops": 1
+    },
+    "software engineer - python and k8s": {
+        "python": 54,
+        "linux": 54,
+        "kubernetes": 48,
+        "docker": 18,
+        "agile": 12,
+        "line": 12,
+        "ubuntu": 6
+    },
+    "full stack python developer": {
+        "python": 29,
+        "aws": 11,
+        "angular": 10,
+        "rest": 7,
+        "ui": 7,
+        "nosql": 6,
+        "sql": 5,
+        "devops": 4,
+        "gitlab": 3,
+        "css": 3,
+        "java": 3,
+        "batch": 3,
+        "linux": 3,
+        "terraform": 3,
+        "agile": 2,
+        "mongodb": 2,
+        "kubernetes": 2,
+        "github": 1
+    },
+    "senior software engineer (python)": {
+        "python": 38,
+        "django": 6,
+        "aws": 4,
+        "docker": 3,
+        "sdlc": 3,
+        "agile": 3,
+        "flask": 3,
+        "sql": 3,
+        "mysql": 3,
+        "react": 2,
+        "devops": 2,
+        "less": 2,
+        "ping": 2,
+        "slack": 1,
+        "safe": 1
+    },
+    "senior software engineer - python": {
+        "python": 25,
+        "aws": 13,
+        "xml": 7,
+        "rest": 6,
+        "java": 4,
+        "sql": 3,
+        "linux": 3,
+        "go": 3,
+        "json": 3,
+        "agile": 3,
+        "scala": 3,
+        "signal": 3,
+        "throughput": 2,
+        "gcp": 2,
+        "ruby": 2,
+        "datadog": 1,
+        "github": 1,
+        "react": 1
+    },
+    "software engineer (python)": {
+        "python": 23,
+        "rest": 6,
+        "nosql": 6,
+        "sql": 3,
+        "javascript": 1,
+        "html": 1,
+        "git": 1,
+        "aws": 1
+    },
+    "python data engineers": {
+        "python": 18,
+        "aws": 13,
+        "sql": 11,
+        "apache": 6,
+        "cvs": 5,
+        "shell": 3,
+        "agile": 3,
+        "r": 3,
+        "bitbucket": 3,
+        "eks": 1,
+        "mysql": 1
+    },
+    "python developer with aws": {
+        "python": 32,
+        "aws": 25,
+        "java": 12,
+        "pandas": 6,
+        "devops": 4,
+        "terraform": 3,
+        "agile": 3,
+        "scrum": 2
+    },
+    "python data engineer": {
+        "python": 31,
+        "pandas": 13,
+        "sql": 13,
+        "aws": 8,
+        "django": 6,
+        "flask": 6,
+        "numpy": 4,
+        "devops": 3,
+        "gcp": 2,
+        "agile": 2,
+        "docker": 1,
+        "react": 1,
+        "pyramid": 1
+    },
+    "engineering manager - python and k8s": {
+        "python": 40,
+        "agile": 20,
+        "docker": 15,
+        "kubernetes": 15,
+        "line": 10,
+        "ubuntu": 5,
+        "devops": 5
+    },
+    "python software engineer": {
+        "python": 25,
+        "linux": 6,
+        "rest": 5,
+        "django": 5,
+        "flask": 5,
+        "json": 4,
+        "sql": 3,
+        "postgresql": 3,
+        "ui": 3,
+        "c++": 3,
+        "mongodb": 2,
+        "github": 2,
+        "aws": 1,
+        "apache": 1,
+        "devops": 1,
+        "swagger": 1,
+        "docker": 1,
+        "xml": 1,
+        "jira": 1,
+        "git": 1,
+        "agile": 1
+    },
+    "aws python developer": {
+        "aws": 45,
+        "python": 17,
+        "rest": 3,
+        "pandas": 3,
+        "go": 2,
+        "sql": 1,
+        "scrum": 1,
+        "java": 1,
+        "less": 1
+    },
+    "remote - full stack engineer - python/javascript": {
+        "agile": 18,
+        "aws": 17,
+        "scrum": 10,
+        "python": 9,
+        "spring": 7,
+        "javascript": 7,
+        "java": 6,
+        "rest": 6,
+        "angular": 4,
+        "html": 3,
+        "css": 3,
+        "node.js": 3,
+        "mysql": 3,
+        "nosql": 3,
+        "mongodb": 3,
+        "openshift": 2,
+        "ant": 2,
+        "terraform": 2,
+        "safe": 2,
+        "jira": 2,
+        "sdlc": 2,
+        "scikit-learn": 2,
+        "git": 1,
+        "batch": 1,
+        "gradle": 1,
+        "sql": 1,
+        "php": 1,
+        "react": 1,
+        "c#": 1,
+        "laravel": 1
+    },
+    "entry level python programmer": {
+        "python": 17,
+        "django": 14,
+        "java": 8,
+        "c++": 3,
+        "scala": 3,
+        "spring": 1
+    },
+    "python (data science)": {
+        "linux": 11,
+        "shell": 11,
+        "python": 11
+    },
+    "java/python developer": {
+        "java": 12,
+        "python": 12,
+        "dynatrace": 3,
+        "docker": 3,
+        "kubernetes": 3,
+        "nosql": 3,
+        "mongodb": 3,
+        "scrum": 3,
+        "sdlc": 3,
+        "sql": 3,
+        "openshift": 2,
+        "cvs": 1,
+        "less": 1
+    },
+    "remote python developer, cyber security": {
+        "python": 23,
+        "rest": 10,
+        "elasticsearch": 9,
+        "soap": 9,
+        "aws": 9,
+        "kubernetes": 6,
+        "splunk": 6,
+        "mongodb": 6,
+        "linux": 6,
+        "django": 2
+    },
+    "python expert": {
+        "python": 13,
+        "lean": 3
+    },
+    "full stack developer (python) - networks, vp": {
+        "sdlc": 16,
+        "scrum": 16,
+        "agile": 16,
+        "json": 12,
+        "xml": 12,
+        "javascript": 12,
+        "react": 8,
+        "django": 4,
+        "python": 4
+    },
+    "full stack developer (python) - networks": {
+        "java": 12,
+        "devops": 4,
+        "git": 4,
+        "agile": 4
+    },
+    "jr. python developer": {
+        "python": 26,
+        "aws": 6,
+        "git": 5,
+        "jira": 3,
+        "agile": 3,
+        "devops": 3,
+        "maven": 2,
+        "jenkins": 2,
+        "flask": 2,
+        "java": 1
+    },
+    "remote python developer": {
+        "python": 32,
+        "flask": 6,
+        "ui": 5,
+        "nosql": 3,
+        "sql": 3,
+        "shell": 3,
+        "gcp": 3,
+        "javascript": 3,
+        "rest": 2,
+        "linux": 2,
+        "yarn": 2,
+        "safe": 1,
+        "aws": 1
+    },
+    "django developer": {
+        "django": 21,
+        "python": 6,
+        "rest": 3,
+        "sql": 3,
+        "ember.js": 3,
+        "postgresql": 1,
+        "bootstrap": 1,
+        "css": 1
+    },
+    "senior python developer for music royalties": {
+        "sql": 20,
+        "matplotlib": 12,
+        "scikit-learn": 12,
+        "json": 8,
+        "python": 4,
+        "sdlc": 4
+    },
+    "full stack software developer": {
+        "python": 12,
+        "css": 8,
+        "javascript": 8,
+        "jquery": 6,
+        "crystal": 5,
+        "laravel": 5,
+        "java": 4,
+        "spring": 4,
+        "agile": 3,
+        "line": 2
+    },
+    "python engineers": {
+        "aws": 40,
+        "python": 23,
+        "agile": 12,
+        "devops": 4,
+        "scrum": 4,
+        "kubernetes": 3,
+        "encryption": 3,
+        "shell": 3,
+        "windows": 2,
+        "spring": 2,
+        "sql": 2,
+        "jenkins": 1,
+        "java": 1
+    },
+    "software engineer (python/linux/packaging)": {
+        "python": 20,
+        "kubernetes": 12,
+        "windows": 4,
+        "ubuntu": 4,
+        "linux": 4
+    },
+    "need c++ python programmer": {
+        "linux": 8,
+        "r": 7,
+        "python": 7,
+        "javascript": 3,
+        "throughput": 3,
+        "agile": 3,
+        "foundation": 3,
+        "sql": 2,
+        "aws": 1,
+        "signal": 1,
+        "c": 1,
+        "php": 1
+    },
+    "entry/junior level data scientist/python programmer": {
+        "java": 32,
+        "spring": 8,
+        "rest": 8,
+        "javascript": 6,
+        "c++": 6,
+        "jenkins": 6,
+        "python": 3,
+        "django": 1,
+        "go": 1
+    },
+    "python automation": {
+        "linux": 7,
+        "kubernetes": 7,
+        "shell": 3,
+        "ubuntu": 3,
+        "dhcp": 3,
+        "routing": 3,
+        "openshift": 3,
+        "agile": 3,
+        "aws": 2,
+        "splunk": 2,
+        "ruby": 2,
+        "bash": 2,
+        "unix": 2,
+        "jenkins": 2,
+        "mysql": 2,
+        "docker": 2,
+        "python": 2,
+        "rest": 1,
+        "rust": 1,
+        "gcp": 1,
+        "postgresql": 1,
+        "swarm": 1,
+        "prometheus": 1
+    },
+    "python/quartz developer": {
+        "python": 16,
+        "javascript": 3,
+        "ui": 3,
+        "agile": 2,
+        "java": 1,
+        "sdlc": 1
+    },
+    "software engineer, python": {
+        "python": 10,
+        "c++": 5,
+        "aws": 5,
+        "javascript": 3,
+        "rest": 3,
+        "docker": 3,
+        "mongodb": 3,
+        "render": 3,
+        "git": 2,
+        "agile": 2,
+        "pandas": 1,
+        "devops": 1
+    },
+    "senior full stack engineer (python)": {
+        "swift": 6,
+        "agile": 3,
+        "sql": 3,
+        "kubernetes": 3,
+        "gcp": 3
+    },
+    "entry level python developer (remote)": {
+        "java": 33,
+        "c++": 10,
+        "spring": 8,
+        "javascript": 7,
+        "rest": 7,
+        "jenkins": 3,
+        "go": 1,
+        "python": 1
+    },
+    "100% remote senior python developer": {
+        "python": 21,
+        "aws": 13,
+        "react": 10,
+        "terraform": 9,
+        "fastapi": 8,
+        "mongodb": 5,
+        "graphql": 3
+    },
+    "implement social login and 2fa for python/django web application": {
+        "next.js": 3,
+        "react": 3
+    },
+    "data scientist python": {
+        "python": 9,
+        "django": 3,
+        "scala": 2
+    },
+    "entry level python programmer/data scientist/analyst": {
+        "java": 12,
+        "python": 5,
+        "javascript": 3,
+        "c++": 3,
+        "spring": 3,
+        "jenkins": 3,
+        "rest": 3,
+        "scala": 1,
+        "django": 1
+    },
+    "python full stack developer": {
+        "python": 16,
+        "html5": 6,
+        "react": 4,
+        "angular": 4,
+        "accuracy": 3,
+        "apache": 3,
+        "sql": 3,
+        "javascript": 3,
+        "agile": 2,
+        "scikit-learn": 2,
+        "rest": 1
+    },
+    "software engineer, cybersecurity, python, remote": {
+        "python": 21
+    },
+    "devops engineer/python/automation": {
+        "devops": 11,
+        "line": 3,
+        "aws": 3,
+        "github": 3,
+        "mongodb": 3,
+        "signal": 2,
+        "foundation": 1
+    },
+    "python developer with azure - remote - usa": {
+        "python": 12,
+        "accuracy": 9,
+        "agile": 6
+    },
+    "manager, data engineering (python, aws, airflow, snowflake) (hybrid). job in...": {
+        "hadoop": 9,
+        "nosql": 9,
+        "agile": 9,
+        "angular": 6,
+        "shell": 3
+    },
+    "python/ data engineer": {
+        "aws": 6,
+        "sql": 6,
+        "python": 6,
+        "line": 1
+    },
+    "data scientist with nlp & python exp": {
+        "python": 15,
+        "accuracy": 15,
+        "tableau": 6,
+        "apache": 6
+    },
+    "experienced software engineer java / python (full stack or back end)": {
+        "java": 13,
+        "python": 13,
+        "agile": 10
+    },
+    "software engineer, c++, python": {
+        "c++": 9,
+        "agile": 9,
+        "python": 6,
+        "windows": 4,
+        "javascript": 4,
+        "git": 2,
+        "react": 2,
+        "docker": 1,
+        "kubernetes": 1,
+        "ansible": 1,
+        "wsdl": 1,
+        "apache": 1,
+        "java": 1,
+        "sql": 1
+    },
+    "remote data engineer with python pyspark experience and secret clearance": {
+        "python": 18
+    },
+    "mid level python developer": {
+        "python": 15,
+        "agile": 12,
+        "angular": 12,
+        "aws": 9,
+        "firewall": 6,
+        "eks": 6,
+        "splunk": 3,
+        "kubernetes": 3,
+        "sql": 2,
+        "linux": 2
+    },
+    "python developer/data scientist": {
+        "python": 22,
+        "agile": 11,
+        "aws": 9,
+        "devops": 4,
+        "kubernetes": 3,
+        "git": 3,
+        "numpy": 3,
+        "rest": 2
+    },
+    "python lead developer": {
+        "python": 15,
+        "rest": 3,
+        "sql": 3,
+        "bitbucket": 2,
+        "graphql": 2,
+        "kubernetes": 2,
+        "javascript": 1
+    },
+    "sr.python developer": {
+        "python": 16,
+        "aws": 7,
+        "shell": 3,
+        "devops": 3,
+        "git": 3,
+        "bash": 3,
+        "metal": 3,
+        "linux": 3,
+        "erlang": 3,
+        "sql": 2,
+        "javascript": 2,
+        "rest": 1
+    },
+    "backend developer": {
+        "git": 8,
+        "line": 2,
+        "python": 2
+    },
+    "fullstack developer react + django/python": {
+        "javascript": 6,
+        "docker": 3,
+        "gcp": 3,
+        "heroku": 3,
+        "python": 2,
+        "sqlite": 2,
+        "postgresql": 2,
+        "ui": 1,
+        "bootstrap": 1,
+        "nexus": 1,
+        "go": 1,
+        "github": 1,
+        "react": 1,
+        "flutter": 1
+    },
+    "software engineer - python": {
+        "python": 14,
+        "c++": 3,
+        "c#": 3,
+        "javascript": 3,
+        "react": 3,
+        "aws": 3,
+        "docker": 2,
+        "terraform": 2,
+        "agile": 2,
+        "git": 1
+    },
+    "spark/scala/python developer- consultant virtual": {
+        "hadoop": 6,
+        "python": 3,
+        "nosql": 3,
+        "mongodb": 3,
+        "sdlc": 3,
+        "aws": 3,
+        "agile": 3
+    },
+    "senior application developer \u2013 python / django / angular": {
+        "angular": 12,
+        "django": 6,
+        "python": 3,
+        "android": 3,
+        "ios": 3,
+        "postgresql": 3,
+        "openstack": 3,
+        "kubernetes": 3
+    },
+    "python developer (w2 only)": {
+        "python": 6,
+        "git": 3,
+        "sql": 3,
+        "xml": 3,
+        "devops": 3,
+        "linux": 3,
+        "apache": 1,
+        "java": 1
+    },
+    "python developer (cyber security)": {
+        "python": 33,
+        "django": 27,
+        "plotly": 27,
+        "agile": 9,
+        "javascript": 9,
+        "sql": 6,
+        "dash": 6,
+        "foundation": 1
+    },
+    "full-stack python developer": {
+        "git": 6,
+        "agile": 6,
+        "docker": 4,
+        "kubernetes": 4,
+        "postgresql": 3,
+        "aws": 3
+    },
+    "python software engineer - networking/telco": {
+        "python": 12,
+        "kubernetes": 12,
+        "linux": 3,
+        "ubuntu": 3
+    },
+    "python fullstack engineer (python, react, node)": {
+        "react": 18,
+        "javascript": 9
+    },
+    "python fullstack engineer": {
+        "javascript": 9,
+        "react": 9
+    },
+    "python private tutoring jobs": {},
+    "python django engineer": {
+        "django": 15,
+        "python": 5,
+        "json": 3,
+        "jquery": 3,
+        "karma": 3,
+        "flask": 3,
+        "twisted": 3,
+        "agile": 3,
+        "aws": 2,
+        "docker": 1
+    },
+    "java developer": {
+        "java": 7,
+        "python": 3,
+        "devops": 3
+    },
+    "senior big data engineer hadoop python spark": {
+        "hadoop": 12,
+        "scala": 6,
+        "python": 6,
+        "mongodb": 6,
+        "aws": 6,
+        "agile": 4,
+        "nosql": 4,
+        "cassandra": 4,
+        "sql": 4,
+        "github": 2
+    },
+    "software engineer python": {
+        "python": 7,
+        "java": 2,
+        "shell": 2,
+        "sql": 2
+    },
+    "python developer with react": {
+        "react": 7,
+        "python": 6,
+        "django": 6,
+        "rest": 6,
+        "kubernetes": 4,
+        "apache": 4,
+        "node.js": 4,
+        "terraform": 2,
+        "aws": 2,
+        "cypress": 2
+    },
+    "senior fullstack engineer - python": {
+        "react": 8,
+        "python": 6,
+        "django": 6,
+        "javascript": 4
+    },
+    "django/python engineer": {
+        "python": 5,
+        "react": 5,
+        "django": 4,
+        "rest": 3,
+        "kubernetes": 1,
+        "terraform": 1,
+        "apache": 1,
+        "node.js": 1,
+        "aws": 1,
+        "cypress": 1,
+        "angular": 1,
+        "sql": 1
+    },
+    "junior level python developer": {
+        "python": 14,
+        "java": 3,
+        "ui": 2,
+        "django": 1
+    },
+    "backend python developer (w2 only)": {
+        "python": 4,
+        "oop": 3,
+        "aws": 3,
+        "sql": 3,
+        "windows": 3
+    },
+    "remote - java developer with python, scala and aws": {
+        "aws": 8,
+        "python": 6,
+        "java": 2,
+        "devops": 2
+    },
+    "python backend developer": {
+        "python": 9,
+        "sql": 6,
+        "unix": 3,
+        "shell": 3,
+        "aws": 3,
+        "postgresql": 2,
+        "rest": 2,
+        "nosql": 1,
+        "mongodb": 1,
+        "docker": 1,
+        "jest": 1,
+        "nginx": 1
+    },
+    "python technical lead": {
+        "python": 10,
+        "hadoop": 4,
+        "html/css": 2,
+        "aws": 2,
+        "devops": 2,
+        "docker": 1
+    },
+    "ruby on rails developer with python": {
+        "python": 9,
+        "react": 6,
+        "postgresql": 6,
+        "rest": 4,
+        "ruby": 2
+    },
+    "python / django developer (full time)": {
+        "django": 18,
+        "python": 15,
+        "mysql": 15,
+        "android": 9,
+        "mongodb": 9,
+        "foundation": 4,
+        "c": 3,
+        "swift": 3,
+        "rest": 3,
+        "ui": 3,
+        "selenium": 3,
+        "phonegap": 1,
+        "jquery": 1
+    },
+    "java with python": {
+        "python": 14,
+        "java": 10,
+        "agile": 5,
+        "angular": 3,
+        "less": 3,
+        "docker": 3,
+        "javascript": 2,
+        "devops": 2,
+        "kubernetes": 2
+    },
+    "software engineer, computer science, python": {
+        "aws": 3,
+        "bash": 3,
+        "linux": 3,
+        "line": 3,
+        "python": 2,
+        "shell": 2,
+        "agile": 1
+    },
+    "python / jpython developer": {
+        "kubernetes": 10,
+        "java": 6,
+        "docker": 6,
+        "rancher": 6,
+        "python": 1
+    },
+    "wi-fi network engineer - python development": {
+        "ui": 6,
+        "switching": 6,
+        "routing": 6
+    },
+    "python architect": {
+        "python": 12,
+        "rest": 5,
+        "agile": 3,
+        "pandas": 3,
+        "numpy": 3,
+        "ansible": 2,
+        "linux": 2,
+        "soap": 2,
+        "sql": 2
+    },
+    "remote full stack python developer": {
+        "aws": 9,
+        "agile": 8,
+        "python": 6,
+        "javascript": 4,
+        "sql": 3,
+        "github": 3,
+        "react": 3,
+        "angular": 3,
+        "r": 2,
+        "waterfall": 2,
+        "css": 1,
+        "django": 1
+    },
+    "aws/python developer": {
+        "aws": 24,
+        "python": 13,
+        "rest": 5,
+        "terraform": 5,
+        "cloudwatch": 3,
+        "http": 3,
+        "postman": 3,
+        "swagger": 3,
+        "json": 3,
+        "yaml": 3,
+        "batch": 3,
+        "splunk": 3,
+        "jenkins": 3,
+        "agile": 3,
+        "javascript": 1,
+        "git": 1,
+        "jira": 1
+    },
+    "data engineer: python developer with sql": {
+        "aws": 6,
+        "sql": 5,
+        "python": 5
+    },
+    "java/python with aws software engineer iii": {
+        "java": 6,
+        "python": 6,
+        "javascript": 6,
+        "react": 6,
+        "sql": 6,
+        "scrum": 5,
+        "aws": 2,
+        "agile": 2
+    },
+    "lead data engineer, (python, java or scala)": {
+        "batch": 12,
+        "agile": 8,
+        "nosql": 6,
+        "java": 4,
+        "python": 4,
+        "shell": 2
+    },
+    "senior python data engineer": {
+        "aws": 10,
+        "python": 5,
+        "sql": 5,
+        "batch": 2
+    },
+    "senior software engineer - java/python/aws": {
+        "python": 2,
+        "java": 2,
+        "aws": 2,
+        "linux": 2,
+        "docker": 2,
+        "git": 2,
+        "apache": 2,
+        "cloudformation": 2,
+        "soap": 2,
+        "rest": 2,
+        "sql": 2,
+        "nosql": 2
+    },
+    "python web developer": {
+        "python": 6,
+        "react": 6,
+        "javascript": 3,
+        "mocha": 3,
+        "jest": 2,
+        "go": 1
+    },
+    "remote - python developer": {
+        "python": 10,
+        "kubernetes": 3,
+        "rest": 3,
+        "django": 3,
+        "unix": 3,
+        "nosql": 3,
+        "json": 3,
+        "mysql": 2,
+        "react": 1
+    },
+    "python backend developer.(python)": {
+        "aws": 20,
+        "typescript": 6,
+        "graphql": 6,
+        "sql": 2,
+        "github": 2,
+        "docker": 2,
+        "apache": 2,
+        "python": 2
+    },
+    "junior python programmer data analyst /data scientist/jr java developer/full...": {
+        "java": 22,
+        "javascript": 6,
+        "c++": 6,
+        "jenkins": 6,
+        "rest": 6,
+        "spring": 5,
+        "tensorflow": 1
+    },
+    "software engineer, cybersecurity, python, remote information technology...": {
+        "python": 14
+    },
+    "python developer/python engineer": {
+        "hadoop": 3,
+        "python": 2
+    },
+    "tech lead (spark and python expertise)---mclean, va. (day-1 onsite| 3 days...": {
+        "python": 14,
+        "aws": 14,
+        "java": 6,
+        "apache": 6,
+        "hadoop": 6,
+        "logstash": 4,
+        "cloudwatch": 4,
+        "rest": 4,
+        "graphql": 4,
+        "nosql": 4,
+        "hibernate": 4,
+        "devops": 4,
+        "ping": 4,
+        "batch": 4,
+        "unix": 4
+    },
+    "python developer with react - remote / telecommute": {
+        "box": 6,
+        "typescript": 6,
+        "javascript": 6,
+        "devops": 4,
+        "agile": 4
+    },
+    "senior software engineer, python": {
+        "aws": 10,
+        "python": 9,
+        "xml": 7,
+        "java": 4,
+        "json": 3,
+        "rest": 3,
+        "scala": 3,
+        "throughput": 2,
+        "agile": 2,
+        "gcp": 2,
+        "go": 1
+    },
+    "python software developer": {
+        "python": 8,
+        "aws": 3,
+        "github": 3,
+        "devops": 1,
+        "agile": 1
+    },
+    "python aws developer": {
+        "aws": 30,
+        "python": 11,
+        "sql": 5,
+        "linux": 4,
+        "eclipse": 3,
+        "shell": 3,
+        "agile": 1
+    },
+    "python developer (remote)": {
+        "agile": 6,
+        "python": 4,
+        "foundation": 3,
+        "linux": 3,
+        "shell": 3,
+        "aws": 3,
+        "sql": 3,
+        "batch": 1,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "sas with python developer": {
+        "python": 9,
+        "aws": 8,
+        "shell": 8,
+        "sql": 6,
+        "numpy": 6,
+        "batch": 4
+    },
+    "sr python developer": {
+        "python": 12,
+        "numpy": 3,
+        "aws": 3,
+        "react": 3,
+        "agile": 3,
+        "line": 2,
+        "rest": 1
+    },
+    "java, javascript, python, nodejs software engineer": {
+        "spring": 7,
+        "wire": 3,
+        "java": 3,
+        "docker": 3,
+        "rest": 3,
+        "mockito": 3,
+        "jenkins": 2,
+        "openstack": 1,
+        "line": 1
+    },
+    "computer vision engineer (python developer)": {
+        "python": 12,
+        "flask": 6
+    },
+    "software engineer(python/c++/linux)": {
+        "c++": 11,
+        "latency": 2,
+        "bash": 2,
+        "shell": 2,
+        "linux": 2
+    },
+    "senior django": {
+        "python": 10,
+        "agile": 3,
+        "sql": 3,
+        "c++": 3
+    },
+    "python developer (fullstack)": {},
+    "senior backend engineer (remote, javascript/tscript, python req.)": {
+        "python": 18,
+        "git": 4
+    },
+    "software engineer, python, java": {
+        "rest": 12,
+        "git": 6,
+        "selenium": 6,
+        "appium": 6
+    },
+    "remote senior python engineer-event driven architecture, python3, kafka at...": {
+        "agile": 8,
+        "python": 8,
+        "batch": 6,
+        "sql": 6
+    },
+    "software engineering manager - identity management (python/go)": {
+        "kubernetes": 12,
+        "python": 6,
+        "go": 6,
+        "ubuntu": 2
+    },
+    "data engineer (aws, python) at american century companies, inc. in kansas...": {
+        "aws": 22,
+        "agile": 10,
+        "sdlc": 6,
+        "devops": 4,
+        "python": 2
+    },
+    "senior data analyst python tableau mode and power bi": {
+        "sql": 2
+    },
+    "cybersecurity python developer": {
+        "python": 8,
+        "splunk": 8,
+        "rest": 6,
+        "soap": 6,
+        "linux": 6,
+        "git": 4,
+        "docker": 4,
+        "kubernetes": 4
+    },
+    "c / python software engineer": {
+        "signal": 6,
+        "python": 2
+    },
+    "java/python developer - top secret/sci clearance with a full scope polygraph...": {
+        "java": 8,
+        "python": 8,
+        "spring": 6,
+        "sql": 6,
+        "bash": 6,
+        "git": 5,
+        "splunk": 2,
+        "ui": 2,
+        "saltstack": 2,
+        "apache": 2,
+        "agile": 2,
+        "jira": 2
+    },
+    "remote-full stack software engineer- python-javascript- cloud": {
+        "android": 9,
+        "java": 8,
+        "css": 6,
+        "python": 4,
+        "javascript": 3,
+        "sass": 3,
+        "less": 3,
+        "react": 3,
+        "elasticsearch": 3,
+        "postgresql": 3,
+        "sql": 3,
+        "nosql": 3,
+        "kotlin": 3,
+        "xml": 3,
+        "relay": 1,
+        "aws": 1,
+        "devops": 1
+    },
+    "mid level software engineer (c++/python)": {
+        "c++": 8,
+        "python": 8,
+        "agile": 6,
+        "linux": 6
+    },
+    "python/django developer": {
+        "android": 9,
+        "python": 7,
+        "django": 6,
+        "c": 3,
+        "swift": 3,
+        "foundation": 3,
+        "rest": 3,
+        "ui": 3,
+        "selenium": 3,
+        "phonegap": 1,
+        "jquery": 1,
+        "agile": 1
+    },
+    "python automation /aws systems engineer": {
+        "aws": 26,
+        "linux": 20,
+        "windows": 10,
+        "python": 6,
+        "cloudwatch": 6,
+        "ansible": 6,
+        "shell": 6,
+        "tcp/ip": 4,
+        "subnetting": 4,
+        "cloudformation": 4,
+        "java": 2
+    },
+    ")python developer": {
+        "python": 7,
+        "mysql": 5,
+        "linux": 4,
+        "php": 3,
+        "ui": 3,
+        "couchbase": 3,
+        "react": 3,
+        "laravel": 2,
+        "scrum": 2,
+        "sql": 2,
+        "apache": 2,
+        "line": 2
+    },
+    "backend engineer (python)": {
+        "python": 8,
+        "aws": 6,
+        "redis": 6,
+        "docker": 3,
+        "fastapi": 3,
+        "postgresql": 3,
+        "less": 1
+    },
+    "data engineer - python": {
+        "python": 14,
+        "teamcity": 10,
+        "sql": 6,
+        "aws": 6,
+        "agile": 4,
+        "scrum": 4,
+        "datadog": 4,
+        "cloudformation": 4,
+        "docker": 4,
+        "batch": 2
+    },
+    "senior software engineer (python development)": {
+        "aws": 6,
+        "unix": 6,
+        "apache": 6,
+        "nosql": 4,
+        "jenkins": 4,
+        "agile": 4
+    },
+    "senior software engineer (python) - parametric": {
+        "aws": 6,
+        "terraform": 2,
+        "sentry": 2,
+        "foundation": 2
+    },
+    "senior backend engineer, python (seed startup)": {
+        "python": 10
+    },
+    "python lead": {
+        "python": 15,
+        "css3": 3,
+        "hadoop": 3
+    },
+    "python software intern": {},
+    "manager, data engineering (python, aws, airflow, snowflake) (hybrid)": {
+        "hadoop": 6,
+        "nosql": 6,
+        "agile": 6,
+        "angular": 4,
+        "shell": 2
+    },
+    "senior software engineer, back end (spark, python, sql)": {
+        "nosql": 10,
+        "agile": 8,
+        "docker": 4,
+        "aws": 4,
+        "sql": 2,
+        "shell": 2
+    },
+    "software engineer - python developer": {
+        "python": 4,
+        "aws": 2
+    },
+    "python developer + sas": {
+        "python": 4,
+        "r": 2
+    },
+    ".net or java or python": {
+        "java": 12,
+        "python": 11,
+        "agile": 5,
+        "sql": 3,
+        "windows": 3
+    },
+    "tigergraph admin \u2013 python scripting \u2013 remote work 44002": {
+        "python": 6,
+        "powershell": 6
+    },
+    "software engineer python, aws saint paul, mn (hybrid) 44771": {
+        "python": 18
+    },
+    "sr. python admin": {
+        "python": 26,
+        "r": 12
+    },
+    "java python developer": {
+        "python": 12,
+        "aws": 8,
+        "typescript": 6,
+        "java": 2,
+        "rest": 2,
+        "spring": 2
+    },
+    "python developer (tg)": {
+        "sql": 3,
+        "python": 1
+    },
+    "senior full stack python": {
+        "aws": 6
+    },
+    "python developer :: alpharetta, ga": {
+        "python": 2
+    },
+    "remote - python developer - contract to hire": {
+        "python": 18,
+        "sql": 6,
+        "grpc": 6,
+        "aws": 4,
+        "devops": 4,
+        "linux": 4
+    },
+    "java/python web developer": {},
+    "python software developers": {
+        "python": 11,
+        "mysql": 3,
+        "postgresql": 3,
+        "javascript": 2
+    },
+    "python developer, new york": {
+        "python": 30,
+        "agile": 8,
+        "django": 3,
+        "java": 1
+    },
+    "senior fullstack python developer": {
+        "python": 10,
+        "angular": 8
+    },
+    "full stack engineer (python)": {
+        "sql": 7,
+        "ui": 3,
+        "angular": 3,
+        "nosql": 3,
+        "agile": 2,
+        "python": 2
+    },
+    "senior software engineer (nodejs / python)": {
+        "javascript": 6,
+        "react": 2
+    },
+    "principal python engineer": {
+        "python": 13,
+        "gcp": 10,
+        "kubernetes": 6,
+        "github": 6,
+        "devops": 5,
+        "gke": 4,
+        "terraform": 4
+    },
+    "senior python developer .....remote": {
+        "python": 22,
+        "pandas": 4,
+        "numpy": 4
+    },
+    "senior python full stack developer": {
+        "python": 19,
+        "agile": 9,
+        "react": 4,
+        "java": 4,
+        "aws": 2,
+        "sql": 2,
+        "redis": 2,
+        "css": 2,
+        "ui": 1,
+        "postgresql": 1
+    },
+    "java developer with python": {
+        "python": 10,
+        "java": 7,
+        "agile": 3,
+        "perl": 2,
+        "pl/sql": 1,
+        "spring": 1,
+        "sdlc": 1,
+        "t-sql": 1
+    },
+    "full stack software engineer (python/javascript)": {
+        "sql": 6,
+        "oop": 4
+    },
+    "senior sql/ python engineer contractor": {
+        "python": 10,
+        "sql": 8,
+        "pandas": 6,
+        "agile": 4,
+        "scrum": 4,
+        "sdlc": 4
+    },
+    "lead python engineer": {
+        "python": 15,
+        "rest": 3,
+        "agile": 3,
+        "aws": 3,
+        "shell": 2,
+        "devops": 2,
+        "sdlc": 2
+    },
+    "python developer - rt jobs in new york, ny at top level consultancy": {
+        "python": 16,
+        "flask": 3,
+        "django": 3
+    },
+    "senior full stack python developer": {
+        "python": 8,
+        "dash": 6,
+        "javascript": 6,
+        "devops": 6,
+        "git": 4,
+        "aws": 2
+    },
+    "python developer (w2)": {
+        "python": 6,
+        "hadoop": 4,
+        "sql": 3,
+        "java": 1,
+        "agile": 1,
+        "sdlc": 1,
+        "unix": 1
+    },
+    "sql/python engineer": {
+        "python": 12,
+        "sql": 6,
+        "pandas": 6
+    },
+    "lead full-stack python developer -139673": {
+        "python": 7,
+        "sql": 2,
+        "aws": 1
+    },
+    "python developer - w2 only": {
+        "python": 7,
+        "hadoop": 3,
+        "sql": 3,
+        "java": 3,
+        "agile": 2
+    },
+    "python developer (only w2)": {
+        "python": 9,
+        "aws": 9,
+        "mysql": 7,
+        "sql": 3,
+        "agile": 2,
+        "django": 2,
+        "numpy": 2,
+        "rest": 2,
+        "json": 2,
+        "devops": 1
+    },
+    "mid level full stack python engineer 100% remote": {
+        "sql": 12,
+        "typescript": 6,
+        "javascript": 6
+    },
+    "software engineer iii - python/devops": {
+        "python": 11,
+        "devops": 11,
+        "agile": 8,
+        "selenium": 6,
+        "jenkins": 6,
+        "splunk": 6,
+        "scrum": 6,
+        "sql": 6,
+        "sdlc": 5,
+        "django": 4,
+        "mysql": 4,
+        "react": 2,
+        "line": 1
+    },
+    "engineering manager - public cloud, python, golang": {
+        "ubuntu": 10,
+        "python": 10,
+        "agile": 10,
+        "line": 4,
+        "aws": 4
+    },
+    "data engineer - spark, python, aws": {},
+    "sap/python integration consultant": {
+        "agile": 3,
+        "jira": 3,
+        "eclipse": 3,
+        "python": 2,
+        "less": 1
+    },
+    "senior software engineer - python api": {
+        "python": 12,
+        "devops": 6,
+        "docker": 6,
+        "sql": 6,
+        "json": 4,
+        "aws": 4,
+        "eks": 4,
+        "http": 4,
+        "less": 2
+    },
+    "backend python developer": {
+        "python": 9,
+        "mysql": 5,
+        "react": 3,
+        "javascript": 3,
+        "flask": 3,
+        "devops": 3,
+        "dns": 3,
+        "scikit-learn": 2,
+        "elasticsearch": 1
+    },
+    "coding instructor": {
+        "python": 10,
+        "sql": 4
+    },
+    "data engineer (aws, sql, python)": {
+        "mysql": 12,
+        "aws": 8
+    },
+    "data engineer": {
+        "python": 3
+    },
+    "front end dev with python and fast api": {
+        "python": 4,
+        "javascript": 3,
+        "fastapi": 3,
+        "terraform": 3,
+        "vault": 3,
+        "git": 2,
+        "github": 2,
+        "windows": 2,
+        "linux": 2,
+        "shell": 2,
+        "webex": 1
+    },
+    "junior level python programmer": {
+        "python": 13,
+        "ui": 2,
+        "scala": 1,
+        "django": 1
+    },
+    "junior python developer - us": {
+        "python": 17,
+        "django": 3,
+        "aws": 2,
+        "agile": 2,
+        "flask": 2,
+        "git": 2,
+        "mongodb": 1
+    },
+    "big data & python developer": {
+        "shell": 3,
+        "python": 1
+    },
+    "big data developer with python": {
+        "sql": 5,
+        "python": 5
+    },
+    "python developer full time opportunity - jf jobs in phoenix, az at top level...": {
+        "python": 5
+    },
+    "java/python software engineer": {
+        "java": 3
+    },
+    "sr. python developer - remote": {
+        "python": 7,
+        "sql": 3
+    },
+    "junior python operational coder": {
+        "python": 3,
+        "encryption": 2,
+        "linux": 1,
+        "windows": 1
+    },
+    "python developer lead - 3887808 at accenture in phoenix, az": {
+        "python": 6,
+        "ux": 3,
+        "ui": 3
+    },
+    "google cloud big-data & python engineer": {
+        "spring": 8,
+        "java": 6,
+        "hadoop": 6,
+        "python": 3,
+        "gcp": 3,
+        "batch": 3,
+        "jboss": 2
+    },
+    "python developer at irving tx": {
+        "python": 6,
+        "linux": 3,
+        "scrum": 2
+    },
+    "senior python / aws developer / programmer must be onsite in phoenix, az or...": {
+        "aws": 6,
+        "python": 3,
+        "c": 3,
+        "cloudwatch": 3
+    },
+    "full stack / back-end engineer - java / python / golang": {
+        "agile": 4,
+        "rest": 2,
+        "javascript": 2,
+        "kotlin": 1,
+        "ui": 1,
+        "nosql": 1,
+        "safe": 1
+    },
+    "full stack python (django) developer at skilljar in phoenix, az": {
+        "mvc": 3,
+        "python": 1,
+        "agile": 1,
+        "heroku": 1,
+        "aws": 1
+    },
+    "sas / python": {
+        "sql": 3,
+        "accuracy": 3,
+        "python": 2,
+        "tableau": 1
+    },
+    "python/icinga developer with networking skills": {
+        "python": 6,
+        "git": 5,
+        "puppet": 3,
+        "icinga": 3,
+        "github": 2,
+        "devops": 2,
+        "java": 2,
+        "redis": 1
+    },
+    "python airflow admin/developer": {
+        "python": 9,
+        "apache": 5,
+        "linux": 3,
+        "shell": 3
+    },
+    "remote application support developer (java/python)": {
+        "sql": 9,
+        "java": 4,
+        "python": 3,
+        "bamboo": 3
+    },
+    "java developer with pyspark, python, hive": {},
+    "lead python programmer with aws onsite": {
+        "aws": 22,
+        "python": 14,
+        "django": 3,
+        "terraform": 3,
+        "shell": 3,
+        "css3": 3
+    },
+    "core goland engineer + python": {
+        "python": 3
+    },
+    "data reliability engineer -python, kafka, redis": {
+        "redis": 8,
+        "python": 6,
+        "sql": 5,
+        "grafana": 3,
+        "postgresql": 3,
+        "ansible": 3,
+        "terraform": 3,
+        "django": 2,
+        "devops": 1
+    },
+    "100 remote-sdet engineer (python,selenium,sql) - ns-sdetd-ns_46528583812_2-4658": {
+        "python": 15,
+        "selenium": 3,
+        "sql": 2,
+        "agile": 2,
+        "ui": 2
+    },
+    "infrastructure automation engineer-django and python": {
+        "linux": 6,
+        "switching": 3,
+        "react": 3,
+        "ansible": 3,
+        "go": 2
+    },
+    "java developer with bigdata and python": {
+        "soap": 4,
+        "java": 3,
+        "spring": 3,
+        "nosql": 3,
+        "python": 3,
+        "sql": 2,
+        "render": 1,
+        "ui": 1,
+        "sdlc": 1,
+        "waterfall": 1,
+        "agile": 1
+    },
+    "sr python developer/engineer (phoenix, az)": {
+        "sql": 9,
+        "python": 7,
+        "apache": 4,
+        "postgresql": 3
+    },
+    "sr. devops engineer": {
+        "bash": 3,
+        "python": 3,
+        "ansible": 3,
+        "openshift": 3,
+        "puppet": 2
+    },
+    "integration engineer (java or python)": {
+        "java": 3,
+        "postgresql": 3,
+        "unix": 2,
+        "aws": 1
+    },
+    "devops architect": {
+        "java": 3,
+        "python": 3,
+        "linux": 3,
+        "terraform": 3,
+        "aks": 2,
+        "aws": 2
+    },
+    "senior data engineer - (python, sql) -remote at renaissance learning in remote": {
+        "sql": 6,
+        "python": 3,
+        "aws": 2,
+        "apache": 2,
+        "docker": 2,
+        "agile": 2,
+        "devops": 2
+    },
+    "python full stack engineer iii": {
+        "react": 3,
+        "typescript": 3,
+        "postgresql": 3
+    },
+    "python/go software engineer (identity)": {
+        "kubernetes": 7,
+        "go": 4,
+        "python": 3,
+        "ubuntu": 1
+    },
+    "pension benefits actuary sr. consultant - python experience": {
+        "python": 1,
+        "accuracy": 1
+    },
+    "entry level data analyst / data scientist/python / java full stack...": {
+        "java": 10,
+        "javascript": 3,
+        "c++": 3,
+        "spring": 3,
+        "jenkins": 3,
+        "rest": 3,
+        "tensorflow": 1
+    },
+    "python tech lead": {
+        "python": 5,
+        "rest": 3,
+        "nosql": 3
+    },
+    "entry level phython devloper": {
+        "java": 7,
+        "javascript": 3,
+        "c++": 3,
+        "spring": 2,
+        "rest": 2,
+        "go": 1
+    },
+    "entry-level python django developer": {
+        "django": 18,
+        "python": 16,
+        "mysql": 5,
+        "rest": 3
+    },
+    "entry-level full stack developer react/python": {
+        "react": 7,
+        "python": 4,
+        "aws": 1
+    },
+    "junior python engineer, database": {
+        "python": 7,
+        "github": 3
+    },
+    "junior python developer - us/canada": {
+        "python": 17,
+        "django": 3,
+        "aws": 2,
+        "agile": 2,
+        "flask": 2,
+        "git": 2,
+        "mongodb": 1
+    },
+    "frontend python developer": {
+        "python": 10,
+        "dash": 6,
+        "plotly": 5,
+        "sql": 5
+    },
+    "senior data engineer (aws, python)": {
+        "aws": 9,
+        "python": 4,
+        "apache": 3,
+        "sql": 3,
+        "ui": 2
+    },
+    "big data python developer": {
+        "python": 5,
+        "fastapi": 3,
+        "agile": 3,
+        "gcp": 3,
+        "rest": 3,
+        "soap": 2
+    },
+    "fullstack senior python django developer": {
+        "mvc": 3,
+        "agile": 2,
+        "python": 1,
+        "foundation": 1
+    },
+    "python training": {
+        "shell": 1,
+        "linux": 1
+    },
+    "jr. python developer at kibo in remote": {
+        "django": 6,
+        "python": 4,
+        "agile": 4,
+        "rest": 3
+    },
+    "scientist, computer science, python": {
+        "box": 1
+    },
+    "junior software developer (python) (hybrid) (no work experience required)": {
+        "python": 3,
+        "pandas": 1
+    },
+    "senior full-stack engineer, python (remote) \u2013 4011": {
+        "python": 9,
+        "gcp": 3,
+        "latency": 3,
+        "mongodb": 3
+    },
+    "c# with python programmer": {
+        "c#": 4,
+        "python": 1,
+        "c++": 1,
+        "ui": 1,
+        "javascript": 1,
+        "line": 1
+    },
+    "private python tutor - remote | wfh": {
+        "python": 6,
+        "zoom": 2
+    },
+    "senior python software engineer (data pipelines) (remote) \u2013 4043": {
+        "python": 6,
+        "gcp": 3,
+        "latency": 3,
+        "mongodb": 3
+    },
+    "senior data engineer, python (remote) \u2013 3988": {
+        "apache": 9,
+        "python": 3,
+        "elasticsearch": 3
+    },
+    "lead python / django developer": {
+        "python": 3,
+        "nosql": 3,
+        "javascript": 2,
+        "rest": 2,
+        "devops": 2,
+        "aws": 2,
+        "hadoop": 2,
+        "html": 2,
+        "django": 2
+    },
+    "sr java python devops la ca": {
+        "java": 8,
+        "spring": 6,
+        "python": 5,
+        "devops": 4
+    },
+    "python developer for network-intensive project": {
+        "firebase": 5,
+        "python": 4,
+        "linux": 3,
+        "webrtc": 3,
+        "json": 2
+    },
+    "test automation engineer with java or python experienc": {
+        "agile": 9,
+        "devops": 5,
+        "java": 4,
+        "html": 3,
+        "soap": 3,
+        "git": 3,
+        "angular": 3,
+        "sql": 3,
+        "nosql": 3,
+        "selenium": 2,
+        "python": 1
+    },
+    "junior software engineer (backend, python) at datapeople in los angeles, ca": {
+        "python": 4,
+        "sql": 3,
+        "aws": 3,
+        "docker": 3
+    },
+    "remote sr. devops engineer - aws, python": {
+        "terraform": 5,
+        "devops": 4,
+        "python": 3,
+        "aws": 3,
+        "sql": 2,
+        "java": 2,
+        "circleci": 2,
+        "github": 2,
+        "line": 2
+    },
+    "senior data engineer - $180k-$200k (snowflake, python)": {
+        "python": 4,
+        "rest": 2
+    },
+    "principal software python engineer": {
+        "python": 4
+    },
+    "remote data scientist(python)": {
+        "python": 2
+    },
+    "senior fullstack/ vue, python/ remote": {
+        "aws": 4,
+        "python": 3,
+        "react": 1
+    },
+    "senior full stack python (django) developer": {
+        "agile": 3,
+        "mvc": 2,
+        "python": 1
+    },
+    "python developer permanent position in san francisco, ca (relocation)": {
+        "python": 2,
+        "nosql": 2,
+        "aws": 1
+    },
+    "software engineer - python - san francisco": {
+        "python": 4,
+        "line": 3,
+        "chef": 3
+    },
+    "full stack developer with react js and python(hybrid)": {
+        "react": 5,
+        "devops": 4,
+        "typescript": 3,
+        "python": 3,
+        "aws": 3,
+        "django": 3,
+        "latency": 3,
+        "jira": 2
+    },
+    "python engineer (remote)": {
+        "python": 4,
+        "aws": 3,
+        "nosql": 3
+    },
+    "sdet (python)": {
+        "agile": 4,
+        "python": 4,
+        "sql": 2
+    },
+    "python engineer [need azure, python exp]": {
+        "python": 5
+    },
+    "software developer (with python ,sql)": {
+        "sql": 6,
+        "python": 4,
+        "aws": 4,
+        "agile": 4,
+        "scrum": 3,
+        "rest": 1,
+        "javascript": 1
+    },
+    "software engineer/c++ and python": {
+        "c++": 6,
+        "python": 3,
+        "tensorflow": 1,
+        "docker": 1,
+        "aws": 1
+    },
+    "python/django developer - usa citizens & green card - holders only": {
+        "python": 10,
+        "flask": 3,
+        "javascript": 3
+    },
+    "full time position for python developer_mysql/postgres": {
+        "python": 4,
+        "docker": 3
+    },
+    "python backend engineer": {
+        "agile": 3,
+        "scala": 3,
+        "rest": 3,
+        "elasticsearch": 3,
+        "cassandra": 3,
+        "linux": 2
+    },
+    "python engineer - computer vision / neural network": {
+        "python": 4,
+        "foundation": 1
+    },
+    "golang/python developer - remote need to work for pst hours": {
+        "kubernetes": 8,
+        "python": 6,
+        "devops": 4,
+        "terraform": 4,
+        "shell": 4,
+        "gitlab": 2
+    },
+    "python back end developer - predictive analytics startup": {
+        "python": 6,
+        "mongodb": 3,
+        "nosql": 2,
+        "sql": 2,
+        "nginx": 1,
+        "gunicorn": 1
+    },
+    "sr. backend python engineer": {
+        "sql": 3,
+        "numpy": 2,
+        "scikit-learn": 2,
+        "django": 2,
+        "python": 1
+    },
+    "sr. python software engineer": {
+        "rest": 5,
+        "linux": 2,
+        "sql": 2,
+        "mysql": 2,
+        "python": 1,
+        "devops": 1
+    },
+    "python developer for technical writing (remote) at assemblyai in san...": {
+        "python": 4,
+        "zoom": 1,
+        "nat": 1,
+        "batch": 1
+    },
+    "python developer at span.io in san francisco, ca": {
+        "python": 2,
+        "flask": 1,
+        "django": 1,
+        "shell": 1,
+        "react": 1,
+        "angular": 1,
+        "mqtt": 1,
+        "rust": 1
+    },
+    "backend software engineer- python/aws": {
+        "python": 3,
+        "aws": 3
+    },
+    "blockchain developer (python-focused)": {},
+    "python developer with sdet and big data": {
+        "python": 7,
+        "sql": 4,
+        "aws": 2,
+        "cloudformation": 2,
+        "agile": 2
+    },
+    "python developer (10+ years)": {
+        "python": 4,
+        "django": 3,
+        "pyramid": 3,
+        "json": 3,
+        "mysql": 3,
+        "encryption": 3,
+        "flask": 2
+    },
+    "software test automation engineer (python / hil)": {
+        "python": 3,
+        "linux": 3,
+        "github": 3,
+        "jenkins": 1,
+        "docker": 1,
+        "c": 1,
+        "c++": 1
+    },
+    "full-stack software engineer (django/python)": {
+        "html": 3,
+        "html5": 3,
+        "css": 3,
+        "sql": 2,
+        "unix": 2,
+        "shell": 2,
+        "agile": 2,
+        "javascript": 2,
+        "git": 2,
+        "aws": 2,
+        "rest": 2
+    },
+    "automation/devops engineer (solid python & go experience) - only w2/ic": {
+        "devops": 3,
+        "python": 3,
+        "shell": 3,
+        "terraform": 2
+    },
+    "master python engineer": {
+        "python": 9,
+        "sql": 3
+    },
+    "senior python developer (back-end)": {
+        "python": 3
+    },
+    "python developer data engineer django pandas - in-person interview must in...": {
+        "sql": 7,
+        "numpy": 3,
+        "opencv": 3,
+        "scipy": 3,
+        "matplotlib": 3,
+        "pl/sql": 3,
+        "t-sql": 3,
+        "python": 1
+    },
+    "full stack python (django) developer at skilljar in san francisco, ca": {
+        "mvc": 3,
+        "python": 1,
+        "agile": 1,
+        "heroku": 1,
+        "aws": 1
+    },
+    "senior python engine / san francisco /": {
+        "python": 3,
+        "docker": 3,
+        "redis": 3,
+        "mysql": 3
+    },
+    "data engineer (hadoop / python)": {
+        "hadoop": 3,
+        "linux": 3,
+        "shell": 3,
+        "python": 3,
+        "sql": 3
+    },
+    "software engineer ( c++, python)": {
+        "c++": 9,
+        "python": 8,
+        "sql": 2,
+        "xml": 2
+    },
+    "emote backend engineer - python, django, postgressql": {
+        "django": 6,
+        "rest": 3,
+        "git": 3,
+        "line": 2,
+        "postgresql": 1
+    },
+    "senior full-stack python developer versafeed , ago": {
+        "python": 3,
+        "aws": 3
+    },
+    "fullstack ui react js python": {
+        "ruby": 3,
+        "css": 3,
+        "javascript": 3,
+        "react": 2,
+        "ui": 1,
+        "python": 1,
+        "django": 1,
+        "java": 1,
+        "rest": 1,
+        "ember.js": 1
+    },
+    "python / java /.net /php/web developer/android/business analyst": {
+        "python": 6,
+        "aws": 6,
+        "java": 6,
+        "php": 6,
+        "android": 6,
+        "linux": 3,
+        "shell": 3,
+        "sql": 3,
+        "ui": 3,
+        "ios": 3,
+        "angular": 3
+    },
+    "research engineer/sr. python developer": {
+        "python": 10,
+        "linux": 6,
+        "windows": 2
+    },
+    "c++ developer - python, data processing, mathematical software, sql - now hiring": {
+        "c": 9,
+        "python": 2
+    },
+    "python developer_ mysql/ post gres": {
+        "python": 5,
+        "git": 3,
+        "redis": 3,
+        "docker": 2,
+        "kubernetes": 1,
+        "swarm": 1
+    },
+    "senior devops engineer- google cloud platform + python": {
+        "devops": 4,
+        "agile": 3,
+        "python": 3,
+        "shell": 3,
+        "kubernetes": 3,
+        "terraform": 3,
+        "jenkins": 3,
+        "postgresql": 2,
+        "scrum": 2,
+        "aws": 1,
+        "java": 1
+    },
+    "robotics w/ python": {
+        "python": 11,
+        "postgresql": 3,
+        "sql": 3
+    },
+    "sr. principal python development engineer": {
+        "python": 8,
+        "linux": 6,
+        "flask": 3,
+        "ruby": 3,
+        "rest": 3,
+        "bash": 2,
+        "shell": 2,
+        "line": 2,
+        "jira": 2
+    },
+    "python developer expert (work from home)": {
+        "python": 3,
+        "canvas": 2
+    },
+    "senior software engineer - fullstack engineer": {
+        "python": 14,
+        "react": 14,
+        "django": 5,
+        "javascript": 3,
+        "css": 3,
+        "sass": 3,
+        "sql": 2,
+        "docker": 2,
+        "ruby": 2,
+        "ui": 2,
+        "git": 2
+    },
+    "contract to hire job for full stack developer (on w2) (python & django...": {
+        "android": 9,
+        "c": 3,
+        "swift": 3,
+        "python": 3,
+        "django": 3,
+        "javascript": 3,
+        "phonegap": 1,
+        "jquery": 1
+    },
+    "python developer expert": {
+        "python": 3,
+        "canvas": 2
+    },
+    "software test engineer/ python": {
+        "python": 5,
+        "jira": 4,
+        "agile": 2,
+        "bash": 2,
+        "linux": 2
+    },
+    "python and workflow engineer": {
+        "python": 4,
+        "r": 3,
+        "aws": 3
+    },
+    "missile modeling engineer 2/3 python \ud83c\udfc6": {
+        "python": 7,
+        "matlab": 3,
+        "agile": 3,
+        "kanban": 3,
+        "scrum": 3
+    },
+    "principal software engineer: c++, python, game development gamedev \ud83c\udfc6": {
+        "agile": 6,
+        "python": 3,
+        "devops": 3,
+        "ux": 1,
+        "ui": 1,
+        "qt": 1
+    },
+    "lead back end developer - node.js sql or python": {
+        "python": 1,
+        "sql": 1,
+        "agile": 1
+    },
+    "sr. / principal software engineer: c++, python, game development (top...": {
+        "agile": 8,
+        "devops": 4,
+        "python": 4,
+        "qt": 1
+    },
+    "python developer - no c2c": {},
+    "python developer - denver, co 44783": {
+        "python": 7,
+        "kubernetes": 7,
+        "rest": 3,
+        "docker": 3,
+        "github": 3,
+        "circleci": 2
+    },
+    "python developer at sapphire digital in remote": {
+        "agile": 6,
+        "accuracy": 3,
+        "python": 3,
+        "django": 3,
+        "tornado": 3,
+        "sql": 3,
+        "javascript": 3,
+        "git": 3,
+        "shell": 3,
+        "unix": 3,
+        "aws": 3
+    },
+    "onsite senior python developer in denver, co": {
+        "foundation": 3,
+        "python": 3,
+        "angular": 3,
+        "sql": 3
+    },
+    "python/jpython developer": {
+        "kubernetes": 5,
+        "java": 3,
+        "docker": 3,
+        "rancher": 3
+    },
+    "wi-fi network engineer with python development": {
+        "voip": 3,
+        "routing": 3,
+        "switching": 3,
+        "box": 3,
+        "jira": 3,
+        "java": 1,
+        "selenium": 1,
+        "jenkins": 1
+    },
+    "sr. software developer, python": {
+        "agile": 1,
+        "devops": 1,
+        "elasticsearch": 1,
+        "sql": 1,
+        "tableau": 1
+    },
+    "software (python) developer, denver civil programs at stellar solutions...": {
+        "python": 8,
+        "django": 5,
+        "sql": 3,
+        "javascript": 2
+    },
+    "python developer full time position - jf jobs in denver, co by top level...": {
+        "python": 5,
+        "django": 3,
+        "linux": 3,
+        "ansible": 3
+    },
+    "direct client: senior python developer ( need 10+ years) hybrid model": {
+        "python": 9,
+        "accuracy": 3,
+        "sql": 3,
+        "gitlab": 3,
+        "apache": 2,
+        "snmp": 2,
+        "websocket": 2,
+        "skype": 1,
+        "django": 1,
+        "nosql": 1,
+        "centos": 1,
+        "git": 1,
+        "aws": 1,
+        "ansible": 1
+    },
+    "java or python developer with wireline backend experience": {
+        "java": 6,
+        "python": 3
+    },
+    "remote aws python engineer": {
+        "aws": 18,
+        "python": 9,
+        "cloudformation": 3,
+        "terraform": 3,
+        "sql": 3,
+        "powershell": 3,
+        "json": 3
+    },
+    "junior full stack developer react/python - us": {
+        "react": 9,
+        "python": 6,
+        "aws": 3
+    },
+    "sdet (java, javascript, python)": {
+        "javascript": 3,
+        "python": 3
+    },
+    "direct client: python full stack developer/denver, co(need locals only...": {
+        "python": 6,
+        "accuracy": 3,
+        "sql": 3,
+        "gitlab": 3,
+        "apache": 2,
+        "snmp": 2,
+        "websocket": 2,
+        "django": 1,
+        "nosql": 1,
+        "centos": 1,
+        "git": 1,
+        "aws": 1,
+        "ansible": 1
+    },
+    "python developer - military veterans": {
+        "python": 8,
+        "agile": 3,
+        "git": 2
+    },
+    "junior python developer ( day 1 onsite in englewood,co )": {
+        "python": 13,
+        "git": 3,
+        "docker": 2,
+        "kubernetes": 2,
+        "gitlab": 2,
+        "go": 1
+    },
+    "software engineer (python/java) level 3- remote": {
+        "nosql": 3,
+        "devops": 3,
+        "java": 2,
+        "scala": 1,
+        "aws": 1
+    },
+    "wireline adapter developers - python experience": {
+        "kubernetes": 5,
+        "java": 3,
+        "docker": 3,
+        "rancher": 3,
+        "python": 1
+    },
+    "python developer with shell scripting": {
+        "shell": 5,
+        "python": 3,
+        "bash": 3,
+        "aws": 2,
+        "pl/sql": 1
+    },
+    "python coding instructor - after school program": {
+        "python": 9
+    },
+    "senior python developer- coding dojo hiring partner": {
+        "python": 8,
+        "json": 3,
+        "kotlin": 3,
+        "kibana": 1,
+        "cloudwatch": 1
+    },
+    "data scientist - python": {
+        "python": 1,
+        "tableau": 1,
+        "devops": 1,
+        "elasticsearch": 1,
+        "sql": 1
+    },
+    "devops engineer - ansible, python, git - denver, co (hybrid) 44785": {
+        "devops": 2,
+        "windows": 1
+    },
+    "python developer with postgre sql": {
+        "postgresql": 9,
+        "python": 6,
+        "json": 5,
+        "sql": 4,
+        "agile": 3,
+        "docker": 1,
+        "aws": 1
+    },
+    "python developer telecom - and data models - related": {
+        "kubernetes": 5,
+        "python": 4,
+        "java": 3,
+        "docker": 3,
+        "rancher": 3
+    },
+    "python scala developer-denver colorado (onsite)": {
+        "nosql": 3,
+        "devops": 2,
+        "shell": 2,
+        "python": 1,
+        "scala": 1,
+        "aws": 1
+    },
+    "automation engineer-python/robot framwork-denver": {},
+    "react engineer with python": {
+        "jenkins": 6,
+        "python": 4,
+        "react": 1
+    },
+    "c++ developer - remote / telecommute": {
+        "c++": 3,
+        "mongodb": 2,
+        "sqlite": 2,
+        "c#": 2
+    },
+    "sr data scientist": {
+        "python": 3,
+        "scikit-learn": 3,
+        "sql": 3,
+        "agile": 2,
+        "line": 2,
+        "hadoop": 1,
+        "aws": 1
+    },
+    "python developer with aws, terraform": {
+        "aws": 13,
+        "python": 10,
+        "terraform": 8,
+        "shell": 4,
+        "jenkins": 3,
+        "devops": 3,
+        "agile": 3,
+        "puppet": 1
+    },
+    "big data developers / python developers": {
+        "python": 3,
+        "jenkins": 3,
+        "devops": 3,
+        "soap": 3,
+        "agile": 2,
+        "mongodb": 1
+    },
+    "remote python architect": {
+        "servicenow": 23,
+        "ui": 3,
+        "angular": 3
+    },
+    "python and django developer": {
+        "python": 7,
+        "django": 4,
+        "git": 3,
+        "github": 3,
+        "linux": 1,
+        "snmp": 1,
+        "aws": 1
+    },
+    "senior application developer (java, python)": {
+        "cvs": 13,
+        "java": 3,
+        "sql": 3,
+        "linux": 3,
+        "servicenow": 1,
+        "relay": 1
+    },
+    "python developer with pyspark(hybrid)": {
+        "pl/sql": 4,
+        "agile": 3,
+        "jupyter": 3,
+        "sql": 3,
+        "python": 2,
+        "aws": 2
+    },
+    "iac engineer with python": {
+        "docker": 3,
+        "line": 2,
+        "python": 1,
+        "java": 1
+    },
+    "python developer - bravens": {
+        "python": 3,
+        "devops": 3,
+        "soap": 3,
+        "aws": 1,
+        "jenkins": 1,
+        "mongodb": 1
+    },
+    "lead python/ tech lead - remote": {
+        "python": 10,
+        "java": 4,
+        "aws": 3,
+        "c#": 3,
+        "git": 3,
+        "rest": 2,
+        "devops": 1,
+        "c": 1
+    },
+    "pyhton engineer at cognizant in hartford, ct": {
+        "python": 2,
+        "agile": 1,
+        "aws": 1,
+        "numpy": 1,
+        "linux": 1,
+        "angular": 1,
+        "react": 1,
+        "devops": 1
+    },
+    "hybrid python engineer": {
+        "python": 2,
+        "aws": 2,
+        "docker": 1,
+        "terraform": 1
+    },
+    "senior python": {
+        "aws": 6,
+        "python": 3,
+        "c": 3,
+        "cloudwatch": 3
+    },
+    "we have a urgent requirement for sr python developer with aws @bloomfield...": {
+        "aws": 21,
+        "python": 13,
+        "django": 3,
+        "shell": 3,
+        "terraform": 2,
+        "css3": 2
+    },
+    "cognos, python data engineer": {
+        "agile": 6,
+        "sql": 2
+    },
+    "aws python data engineer": {
+        "aws": 13,
+        "python": 7,
+        "sql": 2
+    },
+    "data engineer ii ( python, aws, etl ) at the travelers companies, inc in...": {
+        "sql": 2,
+        "safe": 2,
+        "mongodb": 1
+    },
+    "specialist cloud engineering (aws, python, data)": {
+        "aws": 7,
+        "agile": 4,
+        "python": 3,
+        "node.js": 3,
+        "devops": 3,
+        "kanban": 2,
+        "less": 1
+    },
+    "senior software engineer, full stack (python, aws)": {
+        "agile": 4,
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2,
+        "go": 1
+    },
+    "full time job opportuity - sr python developer / data engineer - wilmington...": {
+        "python": 4,
+        "aws": 3,
+        "sql": 3
+    },
+    "sr. python/data engineer": {
+        "aws": 3,
+        "sql": 3,
+        "python": 3
+    },
+    "full stack developer with python": {
+        "python": 3,
+        "rest": 3,
+        "docker": 3
+    },
+    "python developer/aws automation": {
+        "python": 6,
+        "aws": 3,
+        "docker": 2
+    },
+    "ai\u200b/ml java\u200b/python software engineer iii": {
+        "python": 3,
+        "java": 3,
+        "scikit-learn": 3,
+        "aws": 3,
+        "agile": 1
+    },
+    "java / c++ / python developers": {
+        "r": 3,
+        "python": 1
+    },
+    "senior software engineer, back end (python, postgresql)": {
+        "agile": 4,
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2,
+        "node.js": 1
+    },
+    "python data software engineer iii": {
+        "agile": 3,
+        "aws": 3,
+        "sql": 3,
+        "python": 3
+    },
+    "python with pyspark software engineer iii": {
+        "python": 5,
+        "mongodb": 3,
+        "aws": 3,
+        "agile": 3,
+        "pandas": 1,
+        "numpy": 1
+    },
+    "python data engineer (delaware)": {
+        "aws": 3,
+        "sql": 3,
+        "python": 3
+    },
+    "sr java-aws-python-data streaming software engineer": {
+        "typescript": 3,
+        "python": 2,
+        "java": 1
+    },
+    "python / spark software engineer ii": {
+        "python": 4,
+        "agile": 4,
+        "hadoop": 3,
+        "aws": 3,
+        "sql": 2
+    },
+    "full time position open for python/ data engineer at wilmington, de ...": {
+        "aws": 3,
+        "sql": 3,
+        "python": 3
+    },
+    "avp, model monitoring and analytics data scientist (sas, r, python) - hybrid": {
+        "c": 3,
+        "unix": 2
+    },
+    "risk data scientist": {
+        "tableau": 6,
+        "hadoop": 3,
+        "sql": 3,
+        "line": 2
+    },
+    "macos vice technical support engineer": {
+        "macos": 9,
+        "ios": 3,
+        "vpn": 2,
+        "bash": 1,
+        "python": 1
+    },
+    "python back end developer": {
+        "aws": 12,
+        "typescript": 3,
+        "graphql": 3,
+        "github": 3,
+        "apache": 3,
+        "sql": 1,
+        "docker": 1
+    },
+    "python engineer - commodities technology": {
+        "aws": 9,
+        "python": 6,
+        "devops": 4,
+        "agile": 3,
+        "pandas": 3,
+        "numpy": 3,
+        "django": 3,
+        "sql": 3,
+        "docker": 2,
+        "kubernetes": 1
+    },
+    "quant developer python": {
+        "python": 3,
+        "git": 2,
+        "java": 1,
+        "c++": 1,
+        "spring": 1,
+        "nosql": 1,
+        "linux": 1
+    },
+    "python engineer, database (entry level)": {
+        "python": 7,
+        "github": 3
+    },
+    "(remote)entry level python programmer/data scientist/analyst": {
+        "java": 12,
+        "javascript": 3,
+        "c++": 3,
+        "spring": 3,
+        "jenkins": 3,
+        "rest": 3
+    },
+    "senior software engineer, backend python": {
+        "agile": 7,
+        "scrum": 2,
+        "go": 2,
+        "python": 2,
+        "javascript": 2,
+        "pandas": 1,
+        "mysql": 1
+    },
+    "software dataops engineer - python, sql": {
+        "python": 3,
+        "sql": 3,
+        "line": 2,
+        "devops": 1,
+        "linux": 1
+    },
+    "senior data engineer with python development": {
+        "python": 3,
+        "aws": 3,
+        "postgresql": 3,
+        "avro": 2
+    },
+    "data engineer - python, sql, big data, spark": {
+        "sql": 5,
+        "python": 5,
+        "agile": 3,
+        "apache": 3
+    },
+    "senior business intelligence developer (sql, etl, python) at chenmed, llc in...": {
+        "sql": 4
+    },
+    "staff security software engineer | python": {
+        "servicenow": 8,
+        "python": 3,
+        "linux": 3,
+        "docker": 3,
+        "kubernetes": 3,
+        "agile": 2,
+        "devops": 2,
+        "gitlab": 2,
+        "c#": 2,
+        "react": 2
+    },
+    "senior software engineer- python": {
+        "python": 1,
+        "pandas": 1,
+        "go": 1
+    },
+    "odoo / python developer": {
+        "python": 11
+    },
+    "full stack python (django) developer": {
+        "mvc": 3,
+        "python": 1,
+        "agile": 1,
+        "heroku": 1,
+        "aws": 1,
+        "foundation": 1
+    },
+    "entry level hadoop developer": {
+        "html": 3,
+        "java": 2,
+        "python": 1
+    },
+    "python developer (ansible)": {
+        "python": 7
+    },
+    "python senior developer": {
+        "hadoop": 2,
+        "scala": 1,
+        "python": 1,
+        "mongodb": 1,
+        "github": 1,
+        "aws": 1,
+        "agile": 1
+    },
+    "python (engineering) internship at legal tech law firm": {
+        "python": 5,
+        "docker": 3,
+        "aws": 3,
+        "github": 3,
+        "optics": 3,
+        "django": 2,
+        "dash": 2
+    },
+    "online python, coding, coding & programming teacher needed in orlando": {},
+    "python developer (angular, react js, sql, oracle, mongodb, ci-cd...": {
+        "python": 3,
+        "angular": 2,
+        "react": 2,
+        "mongodb": 2,
+        "devops": 2
+    },
+    "senior technical customer consultant (python, sql, aws)": {
+        "python": 6,
+        "aws": 4,
+        "jira": 3,
+        "mysql": 3,
+        "cloudwatch": 2,
+        "ubuntu": 2,
+        "shell": 2
+    },
+    "python developer(junior level)": {
+        "python": 13,
+        "ui": 2,
+        "scala": 1,
+        "django": 1
+    },
+    "remote devops engineer (python)": {
+        "devops": 5,
+        "jenkins": 5,
+        "bitbucket": 5,
+        "docker": 4,
+        "java": 3,
+        "slack": 3,
+        "python": 3,
+        "terraform": 2,
+        "agile": 2,
+        "swarm": 2,
+        "kubernetes": 2,
+        "servicenow": 2,
+        "postgresql": 1,
+        "sql": 1,
+        "splunk": 1,
+        "ansible": 1
+    },
+    "python developer|full time/remote": {
+        "aws": 5,
+        "python": 2,
+        "unix": 2,
+        "go": 2
+    },
+    "kafka admin & python \u2013 advance": {
+        "python": 13,
+        "docker": 4,
+        "aks": 4,
+        "kubernetes": 4,
+        "grafana": 4,
+        "latency": 3,
+        "openshift": 3,
+        "prometheus": 3
+    },
+    "python + sql server developer": {
+        "python": 4,
+        "sql": 4
+    },
+    "looking for python developer with aws - atlanta, ga (onsite) - full time": {
+        "python": 5,
+        "aws": 5,
+        "pandas": 3,
+        "java": 1
+    },
+    "python and sql developers": {
+        "python": 15,
+        "sql": 9,
+        "django": 3,
+        "flask": 3
+    },
+    "lead data engineer (python) with aws - atlanta ga - hybrid": {
+        "aws": 9,
+        "python": 6,
+        "cloudwatch": 1
+    },
+    "ga tech django/python web application developer": {
+        "python": 7,
+        "django": 5,
+        "devops": 4,
+        "aws": 4,
+        "scheme": 3,
+        "sql": 2,
+        "rest": 2,
+        "css3": 2
+    },
+    "data analyst, java developer, python developer,": {
+        "java": 1,
+        "python": 1,
+        "devops": 1,
+        "aws": 1
+    },
+    "engineer, python": {
+        "html": 3,
+        "sql": 3,
+        "less": 2
+    },
+    "web developer (django/python)- hybrid": {
+        "python": 5,
+        "devops": 4,
+        "aws": 4,
+        "django": 3,
+        "css3": 2
+    },
+    "python/ui developer": {
+        "python": 12,
+        "angular": 3,
+        "javascript": 3
+    },
+    "python developer [job id 20231006]": {
+        "python": 7,
+        "elasticsearch": 3,
+        "rest": 3,
+        "soap": 3,
+        "aws": 3,
+        "kubernetes": 2,
+        "splunk": 2,
+        "mongodb": 2,
+        "linux": 2,
+        "go": 1
+    },
+    "senior python / aws developer": {
+        "aws": 7,
+        "python": 4,
+        "pl/sql": 3,
+        "rest": 3,
+        "scrum": 3
+    },
+    "sr. python developer | w2 only (9+ exp)": {
+        "python": 16,
+        "aws": 4,
+        "devops": 3
+    },
+    "python, snowflake, aws etl developer": {
+        "aws": 13,
+        "sql": 6,
+        "agile": 4,
+        "apache": 3,
+        "unix": 3,
+        "github": 3,
+        "python": 3,
+        "batch": 2,
+        "devops": 1
+    },
+    "informatica developer with python": {
+        "python": 5,
+        "aws": 4,
+        "sql": 3,
+        "rest": 1
+    },
+    "python developer, sdlc": {
+        "python": 6
+    },
+    "hiring :: network automation engineer with python :: atlanta, ga": {
+        "python": 5,
+        "cisco": 5,
+        "devops": 4,
+        "terraform": 3,
+        "agile": 2,
+        "github": 2,
+        "django": 1
+    },
+    "consultant, python, it\u200b/tech": {
+        "elasticsearch": 7,
+        "ruby": 3,
+        "git": 3,
+        "kibana": 2
+    },
+    "staff sw engineer - python": {
+        "python": 4,
+        "mysql": 3,
+        "shell": 2
+    },
+    "sr. python developer (with angular)": {
+        "angular": 9,
+        "java": 6,
+        "python": 4,
+        "ui": 3,
+        "jenkins": 3,
+        "spring": 2,
+        "nosql": 2
+    },
+    "senior full stack engineer, python": {
+        "react": 3,
+        "typescript": 3,
+        "python": 3,
+        "docker": 2
+    },
+    "data engineer with python": {
+        "aws": 4,
+        "ui": 3,
+        "devops": 3,
+        "java": 1
+    },
+    "java backend developer (java, angular, analytics, python)": {
+        "java": 7,
+        "angular": 5,
+        "spring": 3,
+        "devops": 2
+    },
+    "python developer | healthcare rev cycle - w2 only": {
+        "python": 8
+    },
+    "python, sql server": {
+        "sql": 6
+    },
+    "angular python aws - fullstack developer - remote atl": {
+        "ui": 6,
+        "agile": 3,
+        "aws": 3,
+        "rest": 3,
+        "go": 2
+    },
+    "data scientist(machine learning,deep learning,python,r)- usc/ gc (tx,ga,ny)": {
+        "boosting": 5,
+        "python": 4,
+        "clustering": 3,
+        "tensorflow": 3,
+        "bootstrap": 3,
+        "nosql": 2,
+        "matplotlib": 2,
+        "pandas": 2,
+        "r": 2,
+        "scipy": 2,
+        "scikit-learn": 2,
+        "regularization": 2
+    },
+    "python developer mid-level": {
+        "python": 4,
+        "linux": 3,
+        "windows": 3,
+        "aws": 3,
+        "rest": 3,
+        "postgresql": 2,
+        "sql": 1
+    },
+    "it architect / devops engineer [python]": {
+        "python": 9,
+        "saltstack": 3,
+        "github": 3,
+        "linux": 3,
+        "git": 2,
+        "devops": 1
+    },
+    "neo4j consultant": {
+        "neo4j": 3,
+        "sql": 3,
+        "python": 3,
+        "java": 2
+    },
+    "developer i": {
+        "agile": 6,
+        "python": 4,
+        "angular": 3,
+        "aws": 2,
+        "pyramid": 1,
+        "sql": 1
+    },
+    "lead python consultant with strong aws": {
+        "python": 2,
+        "terraform": 2
+    },
+    "python /software developer": {
+        "python": 5,
+        "linux": 4
+    },
+    "python programmer (remote)": {
+        "django": 4,
+        "python": 2,
+        "scala": 2
+    },
+    "elasticsearch - senior python engineer (performanc": {
+        "elasticsearch": 9,
+        "python": 3,
+        "java": 3,
+        "kibana": 3,
+        "kubernetes": 2,
+        "linux": 1,
+        "less": 1
+    },
+    "100% remote senior python developer - ns-pydhd-ns_46528583812_11-4658": {
+        "python": 6,
+        "terraform": 3,
+        "aws": 3,
+        "react": 3,
+        "fastapi": 3,
+        "mongodb": 2,
+        "graphql": 1
+    },
+    "python instructor": {
+        "spring": 1,
+        "python": 1,
+        "line": 1
+    },
+    "sql database developer": {
+        "python": 5,
+        "sql": 5
+    },
+    "python developer - data engineer": {
+        "python": 9,
+        "rest": 3,
+        "unix": 3,
+        "aws": 2,
+        "docker": 2,
+        "kubernetes": 2
+    },
+    "python developer// hybrid in il, nc, nj// w2 role": {
+        "python": 6,
+        "sql": 6,
+        "hadoop": 3
+    },
+    "python programmer(entry level)": {
+        "python": 15,
+        "ui": 2,
+        "scala": 1,
+        "django": 1
+    },
+    "lead python api developer/software architect - empower aaas (remote/us-based)": {
+        "python": 9,
+        "fastapi": 3,
+        "devops": 2,
+        "react": 1,
+        "angular": 1
+    },
+    "lead python fullstack developer": {
+        "python": 5,
+        "angular": 3,
+        "django": 3,
+        "fastapi": 3,
+        "pandas": 2,
+        "linux": 2,
+        "docker": 2
+    },
+    "machine learning engineer c++/ python": {
+        "c++": 6,
+        "numpy": 2,
+        "python": 2
+    },
+    "python developer -20202": {
+        "aws": 6,
+        "jenkins": 2,
+        "devops": 2
+    },
+    "junior developer - python": {
+        "latency": 1,
+        "python": 1
+    },
+    "python developer (only for w2)": {},
+    "entry level python programmer/data scientist/analyst (remote)": {
+        "java": 12,
+        "javascript": 3,
+        "c++": 3,
+        "spring": 3,
+        "jenkins": 3,
+        "rest": 3
+    },
+    "python ml developer": {
+        "aws": 4,
+        "python": 1
+    },
+    "python developer (offshore)": {
+        "python": 4
+    },
+    "python developer / data engineer": {
+        "linux": 3,
+        "python": 1,
+        "pandas": 1,
+        "sql": 1
+    },
+    "python developer (w2/contract role)": {},
+    "contract job opportunity -python developer at chicago, il": {
+        "python": 4,
+        "postgresql": 3,
+        "tableau": 3
+    },
+    "remote - java / python developer": {
+        "c++": 1,
+        "python": 1
+    },
+    "software development associate, python": {
+        "gcp": 3,
+        "python": 3,
+        "sql": 3,
+        "git": 3,
+        "jenkins": 3,
+        "shell": 3
+    },
+    "python developer l chicago, il": {
+        "python": 4,
+        "java": 3,
+        "sql": 3
+    },
+    "python strategy implementation developer": {
+        "routing": 3,
+        "c++": 3,
+        "python": 1
+    },
+    "fulltime python / pyspark developer (remote till pandemic) chicago, il": {
+        "python": 4,
+        "aws": 4,
+        "hadoop": 3,
+        "sql": 3
+    },
+    "software engineer (python, sql, c#)": {
+        "fly": 6,
+        "c#": 3,
+        "angular": 1,
+        "react": 1
+    },
+    "python database developer": {
+        "python": 6,
+        "matlab": 4,
+        "numpy": 3,
+        "sql": 3,
+        "scipy": 2
+    },
+    "perl / python developer": {
+        "unix": 2
+    },
+    "senior research software engineer (python) (chicago, il)": {
+        "python": 8,
+        "linux": 4
+    },
+    "python developer iii | chiicago il | houston tx (hybrid)": {
+        "python": 4
+    },
+    "senior python engineer - (aws/docker/kubernetes)": {
+        "python": 12,
+        "aws": 4,
+        "docker": 4,
+        "kubernetes": 4,
+        "django": 3,
+        "devops": 1
+    },
+    "sr. python developer \u00e2\u20ac\u201c cybersecurity authentication": {
+        "python": 6,
+        "sql": 5,
+        "agile": 3,
+        "waterfall": 3
+    },
+    "fullstack software engineer (c#, python, react).": {
+        "c#": 3,
+        "python": 2,
+        "react": 1,
+        "html": 1
+    },
+    "snowflake developer with python": {},
+    "senior python developer with w2 and opt": {
+        "python": 14,
+        "less": 6,
+        "django": 2
+    },
+    "python java engineering": {
+        "java": 3,
+        "python": 3,
+        "sql": 3,
+        "docker": 3,
+        "kubernetes": 2
+    },
+    "compliance python developer": {
+        "c++": 1,
+        "linux": 1,
+        "windows": 1
+    },
+    "manager, software engineering, full stack (angular, python, spark) (chicago, il)": {
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2,
+        "node.js": 1,
+        "agile": 1
+    },
+    "python data analyst": {
+        "python": 3,
+        "pandas": 3
+    },
+    "senior software engineer, python (django)": {
+        "python": 6,
+        "git": 3,
+        "rest": 1
+    },
+    "developer (c/c++), linux, python": {
+        "python": 4,
+        "shell": 3,
+        "aws": 3
+    },
+    "c++ python developer": {
+        "linux": 6,
+        "windows": 3
+    },
+    "python web credit developer": {
+        "http": 3,
+        "html/css": 2,
+        "javascript": 2,
+        "mvc": 2
+    },
+    "python developer with computer vision experience (remote, global)": {
+        "python": 7,
+        "flask": 3,
+        "foundation": 1
+    },
+    "senior software engineer - data payments services (python)": {
+        "python": 3,
+        "box": 1
+    },
+    "senior python aws developer": {
+        "aws": 10,
+        "python": 8,
+        "nosql": 2
+    },
+    "java aws developer with python": {
+        "aws": 7,
+        "spring": 7,
+        "java": 5,
+        "python": 5,
+        "maven": 3,
+        "json": 3,
+        "xml": 3,
+        "nosql": 1,
+        "docker": 1
+    },
+    "java developer w/ python or perl": {
+        "python": 5,
+        "java": 4,
+        "perl": 3,
+        "linux": 3,
+        "ansible": 2,
+        "go": 2,
+        "hadoop": 1,
+        "github": 1,
+        "tornado": 1,
+        "jenkins": 1,
+        "git": 1,
+        "c": 1
+    },
+    "sr. cloud engineer (aws /python/automation)": {
+        "aws": 20,
+        "windows": 3,
+        "linux": 3,
+        "powershell": 3,
+        "bash": 3,
+        "java": 3,
+        "eks": 2,
+        "foundation": 1,
+        "devops": 1
+    },
+    "bhjob15656_20170 - python developer (django)": {
+        "python": 7,
+        "django": 7,
+        "sql": 3,
+        "mysql": 2
+    },
+    "data scientist - 3478 - python, sql, api": {
+        "python": 4,
+        "less": 3,
+        "sql": 3,
+        "aws": 3
+    },
+    "remote marketing data analyst (sas or python)": {},
+    "java developer w/ sql and c++ / python": {
+        "python": 6,
+        "sql": 4,
+        "java": 1,
+        "c++": 1
+    },
+    "snowflake with python & aws": {
+        "apache": 3,
+        "circleci": 3,
+        "sql": 3,
+        "github": 2,
+        "python": 1,
+        "aws": 1
+    },
+    "software engineer (aws/ google cloud and scala and python)": {
+        "scala": 8,
+        "python": 4,
+        "aws": 3
+    },
+    "lead python api developer/software architect": {
+        "python": 9,
+        "fastapi": 3,
+        "devops": 2,
+        "react": 1,
+        "angular": 1
+    },
+    "principle software engineer - full- stack": {
+        "angular": 6,
+        "react": 6,
+        "python": 5,
+        "agile": 5,
+        "less": 3,
+        "devops": 2
+    },
+    "data scientist(sql,python,machine learning,nlp)(phd)": {
+        "python": 3,
+        "perl": 2,
+        "r": 2,
+        "sql": 1
+    },
+    "quant research platform developer": {
+        "linux": 3
+    },
+    "senior python platform engineer": {
+        "python": 3,
+        "rest": 3,
+        "agile": 1
+    },
+    "python market data development engineer": {
+        "python": 3,
+        "c#": 3,
+        "mysql": 3,
+        "sql": 2,
+        "linux": 1
+    },
+    "python application developer | ts/sci": {
+        "agile": 6,
+        "scrum": 5,
+        "sql": 3,
+        "svn": 3,
+        "mysql": 2,
+        "go": 1,
+        "python": 1,
+        "postgresql": 1,
+        "linux": 1
+    },
+    "100% remote senior python developer - ns-pydhd-ns_46528583812_12-4658": {
+        "python": 6,
+        "terraform": 3,
+        "aws": 3,
+        "react": 3,
+        "fastapi": 3,
+        "mongodb": 2,
+        "graphql": 1
+    },
+    "powershell/python automation engineer": {
+        "powershell": 18,
+        "sql": 3,
+        "cisco": 2,
+        "routing": 2,
+        "switching": 2,
+        "firewall": 2,
+        "windows": 1
+    },
+    "senior embedded systems engineer - c++, python, labview": {
+        "linux": 3,
+        "metal": 1
+    },
+    "remote - python programmer/data analyst(entry level)": {
+        "python": 15,
+        "ui": 2,
+        "scala": 1,
+        "django": 1
+    },
+    "python programmers": {
+        "python": 13,
+        "ui": 2,
+        "scala": 1,
+        "django": 1
+    },
+    "sr/lead python developer": {
+        "python": 9
+    },
+    "data engineer, python/sql, senior consultant": {
+        "python": 3,
+        "sql": 3,
+        "aws": 2
+    },
+    "data engineer analyst - analytics amp cognitive python sql": {
+        "python": 1
+    },
+    "associate software engineer": {
+        "c++": 1
+    },
+    "apache spark mongodb": {
+        "apache": 1,
+        "heroku": 1
+    },
+    "senior python developer at raytheon technologies in cedar rapids, ia": {
+        "python": 3,
+        "agile": 1,
+        "rest": 1,
+        "nosql": 1
+    },
+    "software engineer": {
+        "python": 5,
+        "linux": 3
+    },
+    "senior python developers with 9-10 years of experience.": {
+        "sql": 6,
+        "python": 5,
+        "javascript": 3,
+        "windows": 3
+    },
+    "python developer (cloud aws experience)": {
+        "aws": 11,
+        "python": 5,
+        "agile": 3,
+        "scrum": 3,
+        "less": 2,
+        "devops": 1
+    },
+    "lead python engineer data engineer python developer": {
+        "python": 24,
+        "aws": 8,
+        "sql": 7,
+        "go": 1
+    },
+    "python dev lead": {
+        "python": 11,
+        "sdlc": 3,
+        "less": 2,
+        "postgresql": 1,
+        "agile": 1
+    },
+    "python / sas developer": {
+        "sql": 3
+    },
+    "python/django developers": {
+        "django": 5,
+        "chef": 3
+    },
+    "software engineer \u00e2\u20ac\u201c python developer": {
+        "python": 3,
+        "json": 3,
+        "docker": 3,
+        "git": 3,
+        "linux": 3,
+        "rest": 2,
+        "cassandra": 1,
+        "apache": 1,
+        "teamcity": 1
+    },
+    "python machine automation engineer": {
+        "python": 18,
+        "react": 6,
+        "json": 4,
+        "flask": 2,
+        "git": 2,
+        "sql": 2,
+        "jquery": 1,
+        "agile": 1
+    },
+    "charu sharma:: need:: sr python software developer west des moines, ia": {
+        "aws": 5,
+        "python": 4,
+        "agile": 3,
+        "scrum": 3,
+        "line": 1
+    },
+    "virtual environment developer": {
+        "python": 4,
+        "c++": 1,
+        "unity": 1
+    },
+    "etl developer & python automation \ud83c\udfc6": {
+        "python": 8,
+        "sql": 4
+    },
+    "python /go developer at turing in remote": {},
+    "remote backend software engineer (python/django/aws)": {
+        "agile": 3,
+        "python": 3,
+        "django": 3,
+        "rest": 3,
+        "less": 2,
+        "aws": 1,
+        "apache": 1,
+        "scrum": 1
+    },
+    "data engineer python": {
+        "sql": 2,
+        "c": 2
+    },
+    "software engineer, java, python": {},
+    "python software developer (tkodna-sw3-03.021723": {
+        "python": 4,
+        "redis": 1,
+        "nginx": 1
+    },
+    "devops with python": {
+        "agile": 5,
+        "devops": 4,
+        "linux": 3,
+        "java": 2,
+        "docker": 2,
+        "kubernetes": 2,
+        "sql": 2,
+        "scrum": 2,
+        "jira": 2
+    },
+    "software engineer, python, software project manager": {
+        "shell": 5,
+        "java": 4,
+        "unix": 4,
+        "agile": 3,
+        "git": 2,
+        "spring": 2,
+        "eclipse": 2
+    },
+    "software engineer - python / c++ / perl (2022-0159)": {
+        "ats": 3,
+        "c++": 1
+    },
+    "sr. application engineer - python": {
+        "python": 6,
+        "rest": 6,
+        "docker": 3,
+        "agile": 3,
+        "git": 3,
+        "devops": 1
+    },
+    "769 - software engineer (python)": {
+        "python": 1,
+        "linux": 1
+    },
+    "agile developer - 2 (java, java script, python, ansible)": {
+        "swagger": 3,
+        "java": 3,
+        "ansible": 3
+    },
+    "hpc - senior software engineer - python, kubernetes, helm junction, md bra": {
+        "kubernetes": 5,
+        "linux": 3,
+        "python": 3,
+        "prometheus": 2,
+        "grafana": 2,
+        "line": 2,
+        "go": 1
+    },
+    "python developer with security clearance": {
+        "agile": 8,
+        "python": 6,
+        "java": 4,
+        "scrum": 3,
+        "devops": 2,
+        "sql": 2,
+        "mvc": 2,
+        "crystal": 2,
+        "shell": 1
+    },
+    "principal python software engineer with network protocol experience \u2013 active...": {
+        "signal": 4,
+        "tcp/ip": 4,
+        "python": 2,
+        "ansible": 1,
+        "javascript": 1,
+        "git": 1
+    },
+    "python software engineer (et-3)": {
+        "python": 6,
+        "django": 4,
+        "rest": 4
+    },
+    "java/python developer, ts/sci with a full scope polygraph security clearance...": {
+        "java": 5,
+        "python": 5,
+        "spring": 4,
+        "bash": 4,
+        "sql": 3,
+        "git": 2,
+        "splunk": 2,
+        "ui": 2,
+        "apache": 2,
+        "saltstack": 1,
+        "agile": 1,
+        "jira": 1
+    },
+    "cyber python developer": {
+        "splunk": 5,
+        "rest": 3,
+        "soap": 3,
+        "linux": 2,
+        "kibana": 2,
+        "kubernetes": 2,
+        "python": 1
+    },
+    "software engineer (java, python, ml libs) with security clearance": {
+        "java": 6,
+        "python": 6,
+        "kubernetes": 3,
+        "hibernate": 3,
+        "mongodb": 2
+    },
+    "python developer, ts/sci with full scope polygraph": {
+        "python": 11,
+        "perl": 6,
+        "git": 5,
+        "java": 4,
+        "linux": 3,
+        "unix": 3,
+        "spring": 2,
+        "eclipse": 2,
+        "shell": 2
+    },
+    "lj22swe3 - sr. software engineer - cleared": {
+        "python": 8,
+        "java": 6,
+        "xml": 4,
+        "jupyter": 2,
+        "javascript": 2,
+        "sql": 2,
+        "perl": 2
+    },
+    "senior-level software engineer (unix, git, python) (id-01)": {
+        "java": 6,
+        "shell": 5,
+        "unix": 4,
+        "linux": 4,
+        "javascript": 4,
+        "aws": 3,
+        "agile": 2,
+        "eclipse": 2,
+        "python": 2,
+        "css": 2,
+        "node.js": 2,
+        "gitlab": 2,
+        "docker": 2,
+        "git": 2,
+        "spring": 1,
+        "sql": 1,
+        "postgresql": 1
+    },
+    "senior systems engineer (python, scripting, docker)": {
+        "jira": 3,
+        "thread": 3,
+        "python": 2,
+        "selenium": 2,
+        "java": 2,
+        "aws": 1,
+        "spring": 1,
+        "mongodb": 1,
+        "docker": 1,
+        "kubernetes": 1,
+        "git": 1,
+        "maven": 1
+    },
+    "software engineer- python/django/devops": {
+        "django": 6,
+        "flask": 6,
+        "json": 5,
+        "python": 4,
+        "rest": 3,
+        "postgresql": 3,
+        "ui": 3,
+        "mongodb": 3,
+        "xml": 2,
+        "git": 2,
+        "agile": 2,
+        "devops": 1
+    },
+    "systems engineer - 1 (bash/python)": {
+        "linux": 6,
+        "git": 1
+    },
+    "enterprise - senior software engineer - bash, python, ruby junction, md br": {
+        "ruby": 4,
+        "linux": 2,
+        "line": 2
+    },
+    "enterprise - database engineer - mongo, python, django": {
+        "mongodb": 3,
+        "line": 2,
+        "python": 1,
+        "django": 1,
+        "flask": 1,
+        "rest": 1,
+        "swagger": 1,
+        "aws": 1,
+        "docker": 1,
+        "json": 1,
+        "xml": 1,
+        "jira": 1,
+        "git": 1,
+        "agile": 1
+    },
+    "system administrator - 3 (linux/bash/python)": {
+        "linux": 10,
+        "windows": 5,
+        "unix": 2,
+        "ansible": 2,
+        "saltstack": 2,
+        "jira": 1
+    },
+    "enterprise - data scientist - modeling, python, r": {
+        "bandwidth": 3,
+        "line": 2,
+        "linux": 1
+    },
+    "software engineer 2 - linux/python/kubernetes/helm/git/pytorch": {
+        "linux": 3,
+        "python": 3,
+        "kubernetes": 3,
+        "go": 1,
+        "pytorch": 1,
+        "prometheus": 1,
+        "grafana": 1
+    },
+    "software integration engineer 3 - linux/bash/python/iac/kubernetes/docker": {
+        "linux": 4,
+        "kubernetes": 3,
+        "ansible": 2,
+        "docker": 2,
+        "git": 2,
+        "rook": 1,
+        "devops": 1,
+        "gitlab": 1
+    },
+    "software engineer 2 (hybrid) - linux/bash/python/java/spring/nosql/mongodb": {
+        "spring": 12,
+        "linux": 6,
+        "java": 3,
+        "nosql": 2,
+        "mongodb": 2,
+        "docker": 2,
+        "git": 2,
+        "apache": 2,
+        "canvas": 2,
+        "gitlab": 2,
+        "jenkins": 2,
+        "kubernetes": 1,
+        "ansible": 1,
+        "jira": 1
+    },
+    "ml - mid software engineer - angular, javascript, python": {
+        "ui": 6,
+        "angular": 3,
+        "npm": 2,
+        "rest": 2,
+        "python": 2,
+        "docker": 2,
+        "line": 2,
+        "rancher": 1,
+        "kubernetes": 1
+    },
+    "software engineer - 2 (kubernetes/python/atlassian)": {
+        "shell": 5,
+        "java": 4,
+        "unix": 4,
+        "agile": 2,
+        "spring": 2,
+        "eclipse": 2,
+        "linux": 2,
+        "python": 2,
+        "kubernetes": 2,
+        "go": 1,
+        "pytorch": 1,
+        "prometheus": 1,
+        "grafana": 1,
+        "git": 1
+    },
+    "software engineer 0 - linux/python/docker/kubernetes/nosql": {
+        "python": 6,
+        "docker": 6,
+        "kubernetes": 5,
+        "linux": 3,
+        "nosql": 2,
+        "elasticsearch": 2,
+        "kibana": 2,
+        "apache": 2,
+        "influxdb": 2
+    },
+    "dev opps python, java, c+, matlab ci/di - dod clearable": {
+        "linux": 5,
+        "devops": 3,
+        "ansible": 3,
+        "gitlab": 3,
+        "shell": 3,
+        "batch": 3,
+        "agile": 2,
+        "less": 1,
+        "docker": 1,
+        "python": 1,
+        "openshift": 1,
+        "kanban": 1
+    },
+    "sr. application engineer - python at applied insight limited in annapolis...": {
+        "python": 6,
+        "rest": 6,
+        "docker": 3,
+        "agile": 3,
+        "git": 3
+    },
+    "software engineer, python, big data": {
+        "javascript": 2,
+        "python": 2,
+        "linux": 2,
+        "git": 1
+    },
+    "python automation/aws engineer": {
+        "aws": 12,
+        "linux": 11,
+        "windows": 7,
+        "shell": 6,
+        "python": 5,
+        "cloudwatch": 3,
+        "ansible": 3,
+        "tcp/ip": 2,
+        "subnetting": 2,
+        "cloudformation": 2,
+        "java": 1
+    },
+    "python developer w/ fixed income": {
+        "python": 4,
+        "linux": 2,
+        "sql": 2,
+        "kotlin": 1
+    },
+    "full stack python software developer": {
+        "ui": 6,
+        "python": 3,
+        "django": 3,
+        "javascript": 3,
+        "aws": 3,
+        "agile": 3
+    },
+    "python software engineer level 3": {
+        "python": 7,
+        "linux": 5,
+        "docker": 4
+    },
+    "sr. software engineer (python) - insights": {
+        "python": 2,
+        "kotlin": 1,
+        "scala": 1
+    },
+    "thriving it company looking for python and reporting expert": {
+        "python": 3,
+        "powershell": 3
+    },
+    "urgent python developer- remote": {
+        "python": 3,
+        "sdlc": 3,
+        "sql": 3,
+        "agile": 3
+    },
+    "remote - urgent need | python developer | hybrid in owings mills, md": {
+        "agile": 3,
+        "sdlc": 2,
+        "python": 1
+    },
+    "data scientist- python/r": {
+        "sql": 2,
+        "matlab": 2,
+        "less": 1
+    },
+    "sr software engineer (python/aws)": {
+        "python": 7,
+        "aws": 3
+    },
+    "full stack developer - react / python": {
+        "react": 1,
+        "javascript": 1,
+        "java": 1,
+        "django": 1,
+        "flask": 1,
+        "python": 1,
+        "agile": 1
+    },
+    "devops engineer python, ci/cd, k8, linux": {
+        "linux": 7,
+        "shell": 3,
+        "batch": 3,
+        "docker": 2,
+        "agile": 2,
+        "less": 1,
+        "ansible": 1,
+        "gitlab": 1,
+        "python": 1,
+        "openshift": 1,
+        "kanban": 1
+    },
+    "senior software engineer": {
+        "python": 1
+    },
+    "database developer with custom etl scripting skills, unix shell scripting...": {
+        "shell": 5,
+        "jira": 5,
+        "unix": 3,
+        "ansible": 3,
+        "sql": 3,
+        "python": 3,
+        "devops": 3,
+        "aws": 2
+    },
+    "python/ javascript software developer (hybrid baltimore)": {
+        "python": 2,
+        "sdlc": 2,
+        "harbor": 1,
+        "go": 1,
+        "aws": 1,
+        "linux": 1,
+        "sql": 1
+    },
+    "software engineer- python/java": {
+        "python": 6,
+        "sql": 5,
+        "java": 4,
+        "c#": 4,
+        "pandas": 2,
+        "linux": 2,
+        "windows": 2,
+        "go": 2,
+        "less": 1
+    },
+    "python developer with pypark": {
+        "python": 4,
+        "java": 3,
+        "aws": 3,
+        "pl/sql": 3,
+        "sql": 1
+    },
+    "python pandas developer": {
+        "python": 12,
+        "pandas": 6,
+        "sql": 4,
+        "linux": 3
+    },
+    "urgent need | python developer | hybrid-boston, ma": {
+        "aws": 5,
+        "python": 4,
+        "sql": 3,
+        "react": 3
+    },
+    "senior python developer - remote | wfh": {
+        "python": 9,
+        "rest": 3,
+        "datadog": 3,
+        "sentry": 3,
+        "http": 3,
+        "dns": 1,
+        "foundation": 1
+    },
+    "senior software engineer (python) - emerging technology": {
+        "python": 6,
+        "sql": 3,
+        "nosql": 2,
+        "linux": 2,
+        "devops": 1
+    },
+    "programmer analyst - python": {
+        "python": 4,
+        "tableau": 3,
+        "sql": 1
+    },
+    "sr. python developer (remote)": {
+        "flask": 6,
+        "aws": 6,
+        "python": 5,
+        "docker": 3,
+        "rest": 3,
+        "agile": 2
+    },
+    "senior developer- databricks & python": {
+        "devops": 4,
+        "batch": 3,
+        "sdlc": 3,
+        "agile": 3
+    },
+    "algorithms python developer/engineer": {
+        "python": 2,
+        "nexus": 1
+    },
+    "remote python engineer": {
+        "python": 3
+    },
+    "java/python/pl/sql": {
+        "pl/sql": 3
+    },
+    "java/sql/python": {
+        "sql": 4,
+        "agile": 4,
+        "sdlc": 3,
+        "lean": 3,
+        "java": 1,
+        "python": 1
+    },
+    "senior software developer(python)": {
+        "agile": 3,
+        "python": 1
+    },
+    "python & snowflake developer": {
+        "python": 7,
+        "sql": 4
+    },
+    "python developer alternatives platform": {
+        "python": 6,
+        "linux": 3,
+        "pandas": 3,
+        "jenkins": 2
+    },
+    "\u200b senior python developer": {
+        "python": 10,
+        "rest": 6,
+        "raml": 3,
+        "swagger": 3,
+        "openapi": 3,
+        "nosql": 2,
+        "redis": 2,
+        "java": 2
+    },
+    "programmer - python,javascript": {
+        "throughput": 3,
+        "python": 3,
+        "javascript": 2
+    },
+    "principal, full-stack python developer": {
+        "python": 3,
+        "java": 1,
+        "c++": 1,
+        "redis": 1,
+        "grpc": 1,
+        "ux": 1,
+        "react": 1,
+        "agile": 1,
+        "javascript": 1
+    },
+    "sr c & python developers": {
+        "c": 7,
+        "python": 4
+    },
+    "spark/python/databricks": {
+        "python": 7,
+        "agile": 2,
+        "sql": 2
+    },
+    "python software engineer senior - 100% remote": {
+        "nosql": 5,
+        "python": 3,
+        "sql": 3,
+        "unix": 2,
+        "ubuntu": 2,
+        "ada": 2
+    },
+    "data engineer (aws, python, sql)": {
+        "nosql": 3,
+        "hadoop": 3,
+        "unix": 3,
+        "agile": 2
+    },
+    "software engineer - python and javascript pyxai": {
+        "javascript": 3,
+        "agile": 2,
+        "mysql": 2
+    },
+    "java python fullstack developer": {
+        "angular": 3
+    },
+    "senior engineer- javascript, python": {
+        "splunk": 10
+    },
+    "senior specialist python developer / senior python full stack develo": {
+        "sql": 11,
+        "python": 7,
+        "git": 5,
+        "pandas": 4,
+        "ui": 4,
+        "jira": 3,
+        "devops": 2,
+        "java": 2,
+        "graphql": 1,
+        "numpy": 1,
+        "angular": 1
+    },
+    "senior python microservices & networking software engineer": {
+        "devops": 5,
+        "linux": 4,
+        "python": 3,
+        "docker": 3,
+        "sdlc": 2,
+        "agile": 2
+    },
+    "software developer - python, qt": {
+        "python": 8,
+        "ui": 3,
+        "line": 1
+    },
+    "senior/lead python engineer": {
+        "aws": 6,
+        "python": 3
+    },
+    "direct client - sr \"c & python\" developers -boston ma hybrid": {
+        "c": 4,
+        "python": 4
+    },
+    "backend architect (python)": {
+        "python": 2,
+        "aws": 2
+    },
+    "full stack python engineers": {
+        "python": 6,
+        "sql": 4,
+        "aws": 4,
+        "jupyter": 3,
+        "flask": 3,
+        "django": 3,
+        "nosql": 3,
+        "gitlab": 2,
+        "gcp": 2,
+        "kubernetes": 2,
+        "unix": 2,
+        "shell": 2
+    },
+    "strong sr python developer with iam/aws -remote": {
+        "aws": 29,
+        "python": 12,
+        "cloudformation": 8,
+        "rest": 6,
+        "json": 6,
+        "devops": 2,
+        "jenkins": 2,
+        "ansible": 2,
+        "git": 2,
+        "github": 1
+    },
+    "python development": {
+        "agile": 6,
+        "python": 2
+    },
+    "sr. engineer: django & python": {
+        "django": 4,
+        "agile": 3,
+        "python": 1,
+        "react": 1,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "ab initio developer with python and sql": {
+        "sql": 4,
+        "python": 1
+    },
+    "software engineer \u2013 python": {
+        "python": 3,
+        "css3": 3,
+        "javascript": 3,
+        "sql": 3,
+        "linux": 3,
+        "line": 3,
+        "soap": 3
+    },
+    "rpa developer python": {
+        "python": 6,
+        "sql": 3
+    },
+    "software engineer (python, kubernetes, terraform)- boston dynamics ai institute": {
+        "kubernetes": 3,
+        "c++": 3,
+        "python": 3,
+        "grafana": 3,
+        "prometheus": 3
+    },
+    "senior performance engineer (java/python)": {
+        "java": 6,
+        "python": 6,
+        "aws": 4,
+        "jmeter": 3,
+        "agile": 2
+    },
+    "strong sr python developer with iam/aws": {
+        "aws": 29,
+        "python": 12,
+        "cloudformation": 8,
+        "rest": 6,
+        "json": 6,
+        "devops": 2,
+        "jenkins": 2,
+        "ansible": 2,
+        "git": 2,
+        "github": 1
+    },
+    "it datawarehouse architect": {
+        "sql": 4,
+        "python": 3
+    },
+    "python developer with c++": {
+        "python": 17,
+        "numpy": 4,
+        "c": 3,
+        "c++": 2
+    },
+    "python ii/ full stack developer - boston, ma (usc, gc/pr, tn, ead)": {
+        "python": 4,
+        "java": 2,
+        "c++": 2,
+        "redis": 2,
+        "grpc": 2,
+        "react": 2,
+        "ux": 1,
+        "agile": 1
+    },
+    "full stack engineer - typescript/python": {
+        "python": 4,
+        "metal": 1,
+        "docker": 1,
+        "5g": 1
+    },
+    "aws cloud developer / engineer - python": {
+        "aws": 4,
+        "python": 3,
+        "less": 2,
+        "c#": 1
+    },
+    "python development engineer - amazon robotics - n reading or westborough, ma": {
+        "python": 3
+    },
+    "python/c++ software engineer (robotics)": {
+        "python": 3,
+        "c++": 3,
+        "fly": 2,
+        "linux": 2,
+        "android": 1
+    },
+    "python developer w/qdirect": {
+        "java": 6,
+        "postscript": 3,
+        "python": 2
+    },
+    "innovative c++/python software developer": {
+        "c++": 6,
+        "python": 4,
+        "linux": 4,
+        "rtos": 2,
+        "agile": 2,
+        "android": 1,
+        "fly": 1
+    },
+    "full stack developer(typescript/javascript,r,python,web app,pharma)": {
+        "plotly": 3,
+        "python": 3,
+        "throughput": 2,
+        "javascript": 2,
+        "r": 1
+    },
+    "software engineer python/django (remote - $140k)": {
+        "python": 3,
+        "flask": 3,
+        "javascript": 3,
+        "react": 3,
+        "sql": 3
+    },
+    "python \u2013 full stack developer": {
+        "python": 3,
+        "javascript": 3
+    },
+    "python developer at comerica incorporated in detroit, mi": {
+        "aws": 1
+    },
+    "python developer at galaxe.solutions, inc. in remote": {
+        "python": 3,
+        "mongodb": 1,
+        "css3": 1
+    },
+    "senior software engineer (python & pyspark)": {
+        "aws": 5,
+        "python": 1
+    },
+    "remote - software developer / python": {
+        "python": 7,
+        "pandas": 3,
+        "numpy": 3,
+        "flask": 3,
+        "sql": 3,
+        "git": 2,
+        "agile": 2,
+        "ui": 1,
+        "angular": 1
+    },
+    "hadoop/cloud/python analytics developer": {
+        "sql": 8,
+        "hadoop": 7,
+        "linux": 4,
+        "nosql": 3,
+        "batch": 2,
+        "r": 2,
+        "aws": 2,
+        "shell": 2,
+        "cassandra": 2,
+        "java": 1,
+        "accuracy": 1
+    },
+    "senior qe automation consultant selenium python - location open": {
+        "ui": 1,
+        "python": 1,
+        "cucumber": 1,
+        "agile": 1,
+        "scrum": 1,
+        "jira": 1,
+        "sdlc": 1
+    },
+    "sr. python developer - grand rapids, michigan": {
+        "python": 7,
+        "agile": 7,
+        "graphql": 3,
+        "apollo": 3,
+        "relay": 3,
+        "sql": 2,
+        "docker": 2,
+        "jest": 2,
+        "aws": 2,
+        "angular": 1,
+        "vue.js": 1
+    },
+    "full stack developer (python/react) at burnalong in remote": {
+        "python": 5,
+        "react": 2,
+        "aws": 2,
+        "django": 1,
+        "flask": 1,
+        "javascript": 1
+    },
+    "python - cybersecurity developer \ud83c\udfc6": {
+        "python": 16,
+        "django": 5
+    },
+    ".net developer (with python & java experience)": {
+        "java": 6,
+        "agile": 6,
+        "python": 5,
+        "sql": 3,
+        "windows": 3
+    },
+    "python automation tester": {
+        "python": 10,
+        "agile": 4,
+        "perl": 3,
+        "linux": 3,
+        "kanban": 2
+    },
+    "data engineer (aws/python engineer)": {
+        "sql": 4,
+        "agile": 3,
+        "python": 3,
+        "scala": 3,
+        "nosql": 3,
+        "kubernetes": 3,
+        "docker": 3,
+        "java": 1
+    },
+    "program analyst (data, python/r, sql)": {
+        "hadoop": 3
+    },
+    "remote python developer at insight global in eden prairie, mn": {
+        "python": 7,
+        "c#": 3,
+        "sql": 3,
+        "github": 3,
+        "docker": 3,
+        "agile": 3,
+        "accuracy": 2,
+        "apache": 2,
+        "devops": 2,
+        "grafana": 1
+    },
+    "aws cloud devops with expert level python skills": {
+        "aws": 9,
+        "python": 6,
+        "cloudformation": 3,
+        "devops": 2
+    },
+    "support engineer (python)": {
+        "python": 5,
+        "ui": 3,
+        "agile": 3,
+        "jenkins": 3
+    },
+    "sr. staff python developer": {
+        "agile": 3,
+        "python": 3,
+        "go": 3
+    },
+    "azure cloud data with python exp": {
+        "python": 1
+    },
+    "sr engineer \u2013 soar development (go, python)": {
+        "go": 3,
+        "typescript": 3,
+        "linux": 2
+    },
+    "golden valley python tutor": {
+        "python": 4
+    },
+    "us_east | software developer - client server_l2": {
+        "python": 11,
+        "agile": 3,
+        "ethernet": 2,
+        "teamcity": 1,
+        "jenkins": 1,
+        "uml": 1
+    },
+    "python migration contractor": {
+        "python": 8,
+        "slack": 3,
+        "git": 3,
+        "github": 3
+    },
+    "developer, python": {
+        "python": 6
+    },
+    "python software/data engineer (w cloud)": {
+        "gcp": 4,
+        "aws": 4,
+        "postgresql": 3,
+        "python": 1,
+        "sql": 1
+    },
+    "senior application developer, c#, python": {
+        "sql": 3,
+        "git": 2,
+        "windows": 1,
+        "go": 1,
+        "devops": 1,
+        "python": 1
+    },
+    "data engineer with gcp, python experience": {
+        "gcp": 5,
+        "sql": 3,
+        "python": 3,
+        "terraform": 2
+    },
+    "platform engineer, go, python": {
+        "python": 4,
+        "latency": 3,
+        "grpc": 2,
+        "terraform": 2,
+        "kubernetes": 2,
+        "go": 1,
+        "gcp": 1
+    },
+    "software engineer - us citizen with active ts/sci (python, react, svelt...": {},
+    "geospatial software engineer, python, java": {
+        "http": 3,
+        "java": 2,
+        "go": 2,
+        "python": 1
+    },
+    "senior software engineer (python/data pipelines)": {
+        "line": 3,
+        "sql": 3,
+        "matlab": 2,
+        "r": 2
+    },
+    "remote software engineer (python/aws)": {
+        "python": 3,
+        "mocha": 3,
+        "docker": 3,
+        "aws": 2,
+        "jest": 2
+    },
+    "senior application developer, python, scala, java": {
+        "aws": 4,
+        "java": 3,
+        "python": 2
+    },
+    "sr microstrategy consultant with python experience": {
+        "python": 2
+    },
+    "senior microstrategy consultant (python experience )": {},
+    "developer, react, javascript, python": {
+        "python": 6,
+        "django": 3,
+        "html": 3,
+        "css": 3,
+        "javascript": 2,
+        "sql": 1
+    },
+    "automation engineer": {
+        "python": 8,
+        "less": 3
+    },
+    "data scientist, python, r, julia": {
+        "julia": 5,
+        "r": 5,
+        "accuracy": 3,
+        "aws": 3,
+        "docker": 3,
+        "python": 2
+    },
+    "senior data scientist, python, sql": {
+        "python": 7,
+        "sql": 6,
+        "r": 1,
+        "java": 1
+    },
+    "fulltime/cth/c2h - data analyst - python": {
+        "python": 5
+    },
+    "data engineer, go, python": {
+        "apache": 4,
+        "go": 3,
+        "docker": 3,
+        "nosql": 2,
+        "kubernetes": 2,
+        "python": 1,
+        "grpc": 1,
+        "aws": 1
+    },
+    "sr instabase (ml/ai)/python": {
+        "python": 5,
+        "sql": 3,
+        "windows": 3,
+        "angular": 2,
+        "git": 2,
+        "asp.net": 1
+    },
+    "senior data engineer, etl, sql, python": {
+        "python": 5,
+        "r": 2,
+        "sql": 1
+    },
+    "data scientist - python at belcan in saint louis, mo": {
+        "python": 4
+    },
+    "devops engineer (software engineer w/jenkins, python)": {
+        "docker": 5,
+        "kubernetes": 3,
+        "jenkins": 3,
+        "rest": 3,
+        "devops": 1,
+        "vault": 1,
+        "consul": 1
+    },
+    "technology lead - java/j2ee": {
+        "hibernate": 3,
+        "java": 2,
+        "soap": 2,
+        "xml": 2,
+        "cvs": 2,
+        "pl/sql": 2,
+        "go": 1
+    },
+    "sr. python developer- 100% remote only w2. job in st. louis my valley jobs today": {
+        "python": 8,
+        "rest": 3,
+        "batch": 2,
+        "git": 1
+    },
+    "python developer at gallup in lincoln, ne": {
+        "python": 4,
+        "aws": 2,
+        "java": 1,
+        "django": 1,
+        "flask": 1,
+        "scikit-learn": 1,
+        "jira": 1
+    },
+    "python sdk software engineer at q2 holdings, inc. in lincoln, ne": {
+        "python": 4,
+        "sql": 3,
+        "agile": 3
+    },
+    "python developer at gallup in omaha, ne": {
+        "python": 4,
+        "aws": 2,
+        "java": 1,
+        "django": 1,
+        "flask": 1,
+        "scikit-learn": 1,
+        "jira": 1
+    },
+    "python lead urgent requirement": {
+        "python": 6,
+        "django": 3,
+        "css3": 3
+    },
+    "python software engineer - ubuntu hardware certification team": {
+        "linux": 10,
+        "python": 8,
+        "ubuntu": 8,
+        "box": 1,
+        "agile": 1,
+        "c": 1
+    },
+    ".net developer with aws and python experience": {
+        "aws": 7,
+        "python": 4,
+        "c#": 3,
+        "javascript": 3,
+        "sql": 2,
+        "mysql": 2,
+        "postgresql": 2
+    },
+    "python developer - jf jobs in omaha, ne at top level consultancy": {
+        "python": 2
+    },
+    "software engineer, python, c++": {
+        "karma": 7,
+        "javascript": 3,
+        "aws": 3
+    },
+    "senior software engineer - identity management (python/go)": {
+        "kubernetes": 5,
+        "go": 4,
+        "python": 3,
+        "ubuntu": 1
+    },
+    "sr. bi developer - tableau/python": {
+        "tableau": 6,
+        "python": 5,
+        "go": 3,
+        "sql": 3
+    },
+    "python developer on w2": {},
+    "data scientist /lead": {
+        "python": 3,
+        "tensorflow": 3,
+        "sql": 3
+    },
+    "principal backend engineer (python)": {
+        "python": 4,
+        "redis": 4,
+        "fastapi": 2,
+        "postgresql": 2,
+        "docker": 2,
+        "aws": 2
+    },
+    "python developer - hybrid - simiocloud": {
+        "python": 17,
+        "django": 3,
+        "github": 2,
+        "sql": 2,
+        "kubernetes": 2,
+        "flask": 2
+    },
+    "python developer (pandas, numpy, sqlalchemy)": {
+        "sql": 15,
+        "python": 8,
+        "git": 4,
+        "jira": 4,
+        "pandas": 1
+    },
+    "python developer - f2f interview": {
+        "python": 4
+    },
+    "python software engineer ii": {
+        "python": 29,
+        "css3": 3,
+        "agile": 3
+    },
+    "python developer (with java)": {
+        "python": 4,
+        "java": 3,
+        "sql": 3,
+        "angular": 1
+    },
+    "python developer with reactjs": {
+        "python": 4,
+        "rest": 3,
+        "docker": 2,
+        "kubernetes": 2,
+        "agile": 2
+    },
+    "python/ pyspark developer": {
+        "python": 3,
+        "apache": 3,
+        "sql": 3
+    },
+    "python developer with api development": {
+        "python": 11,
+        "rest": 4,
+        "windows": 3,
+        "linux": 3,
+        "flask": 2
+    },
+    "python developer, market risk technology": {
+        "java": 6,
+        "python": 5,
+        "apache": 3,
+        "ui": 2,
+        "javascript": 2,
+        "scala": 2,
+        "agile": 1
+    },
+    "sr python developer _ jersey city, nj/hybrid": {
+        "python": 13,
+        "django": 3,
+        "flask": 2
+    },
+    "full stack python dev": {
+        "python": 5,
+        "react": 4,
+        "django": 3,
+        "javascript": 3,
+        "html5": 3,
+        "agile": 3,
+        "html": 2,
+        "css3": 2
+    },
+    "hiring for java developer / python developer": {},
+    "hybrid python developer": {
+        "python": 4,
+        "django": 3,
+        "flask": 3,
+        "css": 3,
+        "jenkins": 3,
+        "jira": 3,
+        "sql": 3,
+        "aws": 2,
+        "kubernetes": 2
+    },
+    "python developer - equity electronic trading": {
+        "python": 5,
+        "linux": 1,
+        "unix": 1
+    },
+    "jpc - 837 - c++ python developer": {
+        "postgresql": 3,
+        "agile": 2,
+        "c++": 1,
+        "python": 1,
+        "kubernetes": 1
+    },
+    "python developer - onsite": {
+        "python": 3,
+        "devops": 3,
+        "jenkins": 3,
+        "aws": 2
+    },
+    "python developer with strong capital market": {
+        "python": 1
+    },
+    "python developer (microservices)-us": {
+        "python": 5,
+        "kubernetes": 3,
+        "rest": 3,
+        "django": 3,
+        "unix": 2,
+        "nosql": 2,
+        "json": 2,
+        "mongodb": 2,
+        "mysql": 2
+    },
+    "tools developer (python)": {
+        "django": 2,
+        "flask": 2,
+        "pandas": 2,
+        "sql": 2
+    },
+    "python developer jobs in virtusa jersey city, nj": {
+        "python": 6,
+        "django": 3,
+        "flask": 2
+    },
+    "python developer - f2f interview - remote": {
+        "python": 5
+    },
+    "python developer (fulltime)": {
+        "python": 4
+    },
+    "financial analyst (sql/python)": {
+        "sql": 3,
+        "python": 3
+    },
+    "lead software engineer - senior python developer": {
+        "agile": 4,
+        "java": 3
+    },
+    "python developer ( training and placement )// only on w2": {
+        "python": 3,
+        "django": 3,
+        "fastapi": 3,
+        "pandas": 2,
+        "linux": 1,
+        "docker": 1
+    },
+    "java/python developer with cloud experience in jersey city, nj": {
+        "java": 5,
+        "hibernate": 3,
+        "python": 2,
+        "scipy": 1,
+        "rest": 1,
+        "apigee": 1
+    },
+    "software developer | vba,python,sql | hybrid | ft | usc/gc": {
+        "python": 3,
+        "agile": 2
+    },
+    "lead software engineer - python, javascript, react": {
+        "agile": 3,
+        "python": 1,
+        "java": 1,
+        "html/css": 1
+    },
+    "java/python developer (w2 consultant)": {
+        "java": 4,
+        "python": 4,
+        "ant": 3,
+        "maven": 3,
+        "xml": 2,
+        "jython": 2,
+        "weblogic": 2,
+        "sdlc": 2
+    },
+    "python django developer with azure exposure": {
+        "python": 7,
+        "django": 7,
+        "go": 3,
+        "react": 2,
+        "html5": 2,
+        "css3": 1
+    },
+    "principal lead python django engineer": {
+        "python": 13,
+        "django": 11,
+        "rest": 7,
+        "agile": 3,
+        "less": 3
+    },
+    "sr software developer(python/etl)": {
+        "sql": 3,
+        "python": 3
+    },
+    "python developer _(w2 /h1b transfer - no 3rd party vendors/c2c) -jersey...": {
+        "python": 12
+    },
+    "securities lending python developer": {
+        "python": 6,
+        "java": 3
+    },
+    "python/java/c# developer": {
+        "agile": 8,
+        "scrum": 3,
+        "less": 3,
+        "java": 2,
+        "python": 2
+    },
+    "react js developer": {
+        "ui": 3,
+        "typescript": 3
+    },
+    "quality analyst with python": {
+        "selenium": 3,
+        "python": 2
+    },
+    "onsite -python developer": {
+        "python": 3,
+        "ui": 3
+    },
+    "python developer - urgent hiring": {
+        "python": 9,
+        "django": 4,
+        "line": 3,
+        "apache": 3,
+        "tomcat": 3,
+        "sql": 3,
+        "nosql": 2,
+        "json": 2,
+        "flask": 1,
+        "linux": 1,
+        "windows": 1,
+        "powershell": 1
+    },
+    "lead python developer with fixed income experience": {
+        "python": 5,
+        "django": 3,
+        "aws": 3,
+        "agile": 2,
+        "flask": 1,
+        "dash": 1,
+        "github": 1
+    },
+    "software engineer ii - back-end python jersey city, nj, united states posted...": {
+        "agile": 4
+    },
+    "qa python developer": {
+        "agile": 3,
+        "css": 3,
+        "c#": 2
+    },
+    "w2 only python developer": {
+        "python": 5
+    },
+    "pgim fixed income \u2013 python developer / api engineer (hybrid \u2013 newark, nj)": {
+        "python": 7,
+        "graphql": 5,
+        "ui": 5,
+        "rest": 4,
+        "devops": 3,
+        "aws": 3,
+        "safe": 3,
+        "scrum": 2,
+        "git": 2,
+        "pandas": 1,
+        "tableau": 1,
+        "react": 1
+    },
+    "python developer and fixed income": {
+        "aws": 7,
+        "java": 6,
+        "devops": 5,
+        "agile": 4,
+        "apigee": 4,
+        "scrum": 3,
+        "python": 3,
+        "scala": 3,
+        "spring": 3,
+        "rest": 3,
+        "docker": 3,
+        "jenkins": 3,
+        "hadoop": 3,
+        "sql": 2,
+        "windows": 2,
+        "jira": 1,
+        "cloudformation": 1
+    },
+    "need senior python developer": {
+        "python": 8,
+        "graphql": 4,
+        "rest": 4,
+        "pandas": 3,
+        "ui": 3,
+        "scrum": 3,
+        "devops": 3,
+        "java": 2,
+        "aws": 1
+    },
+    "python / api developer": {
+        "graphql": 6,
+        "ui": 6,
+        "python": 5,
+        "scrum": 3,
+        "devops": 3,
+        "aws": 3,
+        "safe": 2,
+        "git": 2,
+        "pandas": 1,
+        "tableau": 1,
+        "react": 1
+    },
+    "senior devops engineer/ python developer": {
+        "python": 3,
+        "devops": 2
+    },
+    "python / spark developer": {
+        "python": 4,
+        "scala": 4,
+        "hadoop": 3,
+        "unix": 3,
+        "shell": 3,
+        "java": 2,
+        "agile": 1,
+        "sql": 1
+    },
+    "python/api developer": {
+        "graphql": 6,
+        "ui": 5,
+        "pandas": 3,
+        "devops": 3,
+        "python": 3,
+        "scrum": 2,
+        "aws": 2,
+        "safe": 2,
+        "git": 2,
+        "tableau": 1,
+        "react": 1,
+        "java": 1
+    },
+    "senior software engineer - full stack (python, aws)": {
+        "agile": 2,
+        "nosql": 1,
+        "docker": 1,
+        "aws": 1
+    },
+    "senior software engineer (python / django) - full-time / part-time": {
+        "soc": 11,
+        "graphql": 4,
+        "agile": 3,
+        "aws": 2
+    },
+    "automation engineer northern nj - must be local to nj and willing to go...": {
+        "aws": 5,
+        "c#": 4,
+        "selenium": 3,
+        "nosql": 3,
+        "sql": 3,
+        "java": 3,
+        "agile": 3,
+        "jmeter": 2,
+        "apache": 2,
+        "go": 1,
+        "jenkins": 1
+    },
+    "r&d software engineer - java/python (experienced)": {
+        "agile": 7,
+        "go": 3,
+        "uml": 2,
+        "sql": 2,
+        "nosql": 2,
+        "typescript": 2
+    },
+    "application programmer ii (python) at amentum in albuquerque, nm": {
+        "python": 4,
+        "c#": 1,
+        "c++": 1
+    },
+    "full stack engineer python \ud83c\udfc6": {
+        "python": 3,
+        "postgresql": 2
+    },
+    "senior software engineer - python/cloud": {
+        "python": 6,
+        "sdlc": 2,
+        "docker": 2,
+        "java": 1
+    },
+    "quantitative python developer hedge fund (jj)": {
+        "python": 1
+    },
+    "python developer (pandas, numpy, sqlalchemy must)": {
+        "sql": 13,
+        "python": 8,
+        "git": 4,
+        "jira": 4,
+        "numpy": 3,
+        "pandas": 1
+    },
+    "test automation architect (google cloud , bigquery, python) - local to ny, nj": {},
+    "python/react developer": {
+        "python": 3,
+        "react": 1
+    },
+    "software engineer python / c++": {
+        "go": 3,
+        "java": 2
+    },
+    "intermediate quantitative developer (python)": {
+        "python": 2
+    },
+    "senior python developer :: 14 + years exp. required": {
+        "python": 7,
+        "go": 1
+    },
+    "python developer (asset management)": {
+        "python": 4
+    },
+    "python developers @ nyc, ny ( hybrid role )": {
+        "python": 8,
+        "sdlc": 3,
+        "rest": 3,
+        "shell": 2,
+        "devops": 2,
+        "agile": 2
+    },
+    "sr. python developer, vp - ny (hybrid)": {
+        "python": 8,
+        "rest": 2,
+        "xml": 1,
+        "agile": 1
+    },
+    "python java developer": {
+        "java": 7,
+        "python": 6,
+        "apache": 3,
+        "accuracy": 2
+    },
+    "staff software engineer, workers comp (python)": {
+        "python": 3,
+        "apache": 2,
+        "avro": 2,
+        "gcp": 2,
+        "aws": 2,
+        "foundation": 1
+    },
+    "2 javascript/ python developers/banking": {
+        "python": 7,
+        "javascript": 3,
+        "react": 2,
+        "html5": 2,
+        "agile": 2,
+        "css3": 1
+    },
+    "back end python developer- manhattan": {
+        "python": 5,
+        "php": 3
+    },
+    "spd senior python developer\u200b/video streaming": {
+        "python": 11,
+        "docker": 4,
+        "go": 3,
+        "linux": 2,
+        "kubernetes": 2,
+        "rest": 1
+    },
+    "python developer (nyc, jc)- w2 only- no c2c": {
+        "python": 7,
+        "c": 6,
+        "java": 4
+    },
+    "immediately looking for python developer (expi. 1 to 10 yrs.):": {
+        "clustering": 3,
+        "r": 3,
+        "python": 3,
+        "sql": 3
+    },
+    "tech lead/ sr. python developer": {
+        "python": 6,
+        "django": 3,
+        "flask": 3,
+        "agile": 1,
+        "sql": 1,
+        "kubernetes": 1
+    },
+    "python developer - capital markets": {
+        "python": 4
+    },
+    "python developer - commodities trading": {
+        "chef": 3,
+        "python": 2
+    },
+    "junior to mid level developer with c# or python or java with 4+ years will...": {
+        "agile": 3,
+        "java": 3,
+        "c#": 3
+    },
+    "deep machine learning engineer (expert level python) - 7+ years of...": {
+        "python": 3
+    },
+    "[hcmc] senior python developer": {
+        "docker": 2,
+        "python": 2
+    },
+    "python developer - internal chat gpt buildout": {
+        "gpt": 10,
+        "python": 8
+    },
+    "urgent opening for python developer||location ny||need local f2f": {
+        "python": 3,
+        "mysql": 3
+    },
+    "python developer - perm - 23-00209": {
+        "rad": 1,
+        "python": 1,
+        "sql": 1,
+        "aws": 1,
+        "linux": 1
+    },
+    "python developer tools engineer": {
+        "python": 8,
+        "ocaml": 1
+    },
+    "library software engineer - python": {
+        "python": 10,
+        "datadog": 6,
+        "tornado": 3,
+        "pypy": 2,
+        "javascript": 2,
+        "ruby": 1,
+        "cython": 1
+    },
+    "webposting - java/python developer": {
+        "python": 3,
+        "javascript": 3,
+        "hadoop": 3
+    },
+    "quant python developer": {
+        "c++": 3,
+        "python": 1
+    },
+    "python developer (no c2c no sponsorship) (w2 only)": {
+        "python": 3
+    },
+    "python & reactjs full stack developer": {
+        "python": 4,
+        "react": 3,
+        "devops": 1
+    },
+    "senior python developer (contract position)": {
+        "python": 2,
+        "react": 1,
+        "javascript": 1,
+        "typescript": 1
+    },
+    "senior python engineer - new york": {
+        "python": 2,
+        "aws": 2,
+        "flask": 1,
+        "kubernetes": 1,
+        "rest": 1
+    },
+    "c++/python developer": {
+        "c++": 6,
+        "python": 6
+    },
+    "python developer - hybrid": {
+        "python": 7,
+        "aws": 4,
+        "sql": 3,
+        "java": 3
+    },
+    "python developer jobs in eliassen group new york, ny": {
+        "java": 6,
+        "spring": 6,
+        "nosql": 2,
+        "devops": 2,
+        "agile": 2,
+        "scrum": 2,
+        "sql": 1
+    },
+    "python aws developer - remote": {
+        "aws": 7,
+        "python": 3,
+        "devops": 3
+    },
+    "python developer - start now": {
+        "python": 9,
+        "sql": 3,
+        "aws": 2
+    },
+    "python developer :: hybrid in nj :: local to ny/nj :: onsite interview is must": {
+        "python": 4,
+        "django": 4,
+        "agile": 3,
+        "react": 3,
+        "html5": 3,
+        "css3": 2,
+        "javascript": 1
+    },
+    "talent pool: software engineer, python": {
+        "python": 7,
+        "sql": 1,
+        "kubernetes": 1,
+        "linux": 1,
+        "git": 1,
+        "bitbucket": 1,
+        "bamboo": 1
+    },
+    "associate staff engineer, python": {
+        "go": 1
+    },
+    "data-intensive python/sql developer with machine learning experience": {
+        "python": 5,
+        "sql": 5,
+        "foundation": 3,
+        "accuracy": 2
+    },
+    "senior python developer wealth management transformation": {
+        "python": 16
+    },
+    "quantitative developer ( python / c++ )": {
+        "python": 3,
+        "c++": 1
+    },
+    "elite asset manager | senior python developer": {
+        "python": 3
+    },
+    "sr. python/django developers": {
+        "django": 13,
+        "python": 8,
+        "rest": 6,
+        "aws": 4,
+        "jenkins": 2,
+        "git": 1
+    },
+    "oracle / python developer": {
+        "sql": 9,
+        "python": 4,
+        "linux": 3,
+        "unix": 3,
+        "agile": 2,
+        "java": 2,
+        "splunk": 2
+    },
+    "senior software engineer (python, sql, aws serverless) (greater nyc area, ny...": {
+        "sql": 3,
+        "agile": 2,
+        "lean": 2,
+        "python": 2,
+        "aws": 1
+    },
+    "python developer jobs in new york, ny at vericloud services inc": {
+        "go": 1
+    },
+    "regulatory python developer": {
+        "python": 6,
+        "oop": 3,
+        "java": 3
+    },
+    "python developer / tester with selenium": {
+        "pyramid": 4,
+        "python": 4,
+        "ui": 3,
+        "selenium": 3,
+        "windows": 3,
+        "hudson": 3,
+        "less": 1
+    },
+    "senior python/sql developer": {
+        "agile": 3,
+        "sql": 3,
+        "python": 3,
+        "hadoop": 3,
+        "java": 1
+    },
+    "webposting - citadel in ny-python developer": {
+        "c++": 3,
+        "linux": 3,
+        "windows": 3,
+        "python": 1
+    },
+    "quantitative software developer (c++/python)": {
+        "python": 4,
+        "c++": 3,
+        "kong": 1
+    },
+    "webposting - jp morgan": {
+        "python": 5
+    },
+    "python developer with sql, cloud": {
+        "spring": 9,
+        "nosql": 3,
+        "devops": 3,
+        "agile": 3,
+        "scrum": 3,
+        "python": 1,
+        "java": 1,
+        "sql": 1
+    },
+    "senior devops engineer - python": {
+        "python": 12,
+        "devops": 8,
+        "sdlc": 3,
+        "terraform": 3,
+        "kubernetes": 3,
+        "aws": 3
+    },
+    "senior data engineer - python": {
+        "python": 4,
+        "aws": 4,
+        "devops": 3,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "technology developer - java, c++, c#/.net, python": {
+        "java": 3,
+        "c++": 3,
+        "devops": 1,
+        "python": 1,
+        "foundation": 1,
+        "safe": 1
+    },
+    "data engineer lead python": {
+        "python": 4
+    },
+    "director, python engineer": {
+        "python": 4,
+        "aws": 3,
+        "nosql": 3,
+        "windows": 3,
+        "linux": 3
+    },
+    "senior python developer, cloud data warehouse": {
+        "python": 3,
+        "aws": 3,
+        "sql": 3,
+        "linux": 3,
+        "shell": 3,
+        "java": 1
+    },
+    "senior python engineer - data license": {
+        "python": 4,
+        "chef": 3,
+        "c++": 2,
+        "unix": 2,
+        "agile": 1,
+        "flask": 1,
+        "sql": 1
+    },
+    "software developer python": {
+        "python": 1,
+        "angular": 1,
+        "react": 1,
+        "aws": 1,
+        "linux": 1,
+        "shell": 1,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "senior sql python developer": {
+        "sql": 4,
+        "python": 4,
+        "agile": 3,
+        "scrum": 3,
+        "pandas": 3,
+        "sdlc": 2
+    },
+    "hybrid work - need python developer in charlotte nc": {
+        "aws": 15,
+        "python": 8,
+        "sql": 4,
+        "linux": 3,
+        "line": 1
+    },
+    "python lead / senior python developer": {
+        "python": 8,
+        "hadoop": 3
+    },
+    "python dataops engineer - charlotte, nc - hybrid - cg": {
+        "python": 9,
+        "ansible": 4,
+        "unix": 3,
+        "shell": 3,
+        "agile": 3,
+        "cg": 1
+    },
+    "python engineer \u2013 api and saas application development": {
+        "python": 8,
+        "postgresql": 5,
+        "django": 3,
+        "elasticsearch": 3,
+        "git": 2,
+        "apache": 1,
+        "github": 1
+    },
+    "python developer iii": {
+        "python": 8,
+        "sql": 5,
+        "unix": 3,
+        "shell": 3,
+        "agile": 3,
+        "apache": 2
+    },
+    "python developer@charlotte, nc (hybrid)": {
+        "python": 7,
+        "aws": 3,
+        "sql": 3,
+        "jira": 2
+    },
+    "python developer-w2 role": {
+        "python": 6,
+        "pandas": 3,
+        "numpy": 3,
+        "sql": 3,
+        "git": 2,
+        "ui": 1,
+        "angular": 1
+    },
+    "python engineer - usa charlotte, nc (onsite) - 12+ months contract": {
+        "python": 14,
+        "spring": 4,
+        "agile": 3,
+        "svn": 3,
+        "numpy": 2,
+        "rest": 2,
+        "mvc": 2
+    },
+    "sr python with pandas": {
+        "python": 5,
+        "pandas": 4,
+        "sql": 4,
+        "agile": 3,
+        "scrum": 3,
+        "sdlc": 2
+    },
+    "remote - sr big data python developer@charlotte nc": {
+        "python": 9,
+        "django": 3,
+        "unix": 3,
+        "swagger": 3,
+        "raml": 3,
+        "css3": 2,
+        "skype": 1
+    },
+    "python developer role": {
+        "python": 2,
+        "angular": 1,
+        "css": 1
+    },
+    "senior python developer- charlotte, nc": {
+        "python": 4,
+        "ansible": 3,
+        "mysql": 3,
+        "jira": 3,
+        "agile": 3
+    },
+    "full stack engineer \u2013 python/aws": {
+        "sql": 3,
+        "aws": 3,
+        "github": 3,
+        "react": 3,
+        "accuracy": 2
+    },
+    "python developer (hybrid)": {
+        "python": 4
+    },
+    "python lead - charlotte, nc - 12-month contract": {
+        "python": 3,
+        "spring": 2,
+        "agile": 1,
+        "numpy": 1,
+        "rest": 1,
+        "mvc": 1
+    },
+    "mid-level python software engineer": {
+        "python": 12,
+        "agile": 2,
+        "rest": 2,
+        "jenkins": 2
+    },
+    "python developer/ charlotte, nc (onsite site only) 12 mth+ contract": {
+        "python": 4,
+        "angular": 3
+    },
+    "python developer / software engineer iii - charlotte, nc / addison, tx": {
+        "foundation": 1,
+        "unix": 1,
+        "java": 1
+    },
+    "python developer (python 3.0 or above, django, flask...": {
+        "python": 12,
+        "sql": 5,
+        "pyramid": 3,
+        "pl/sql": 2,
+        "flask": 2
+    },
+    "python developer-w2 contract": {
+        "python": 2,
+        "angular": 2,
+        "css": 1
+    },
+    "sr. python developer w/ cloud (w2 position(": {
+        "python": 6,
+        "agile": 4,
+        "hadoop": 3,
+        "devops": 2,
+        "scrum": 2,
+        "kanban": 2,
+        "java": 2,
+        "apache": 1,
+        "github": 1,
+        "eclipse": 1,
+        "gradle": 1
+    },
+    "senior java/python developer": {
+        "foundation": 3,
+        "sql": 2,
+        "devops": 2,
+        "agile": 2,
+        "python": 1,
+        "kubernetes": 1
+    },
+    "python developer | hybrid | w2": {
+        "angular": 3,
+        "python": 2,
+        "css": 1
+    },
+    "python developer (charlotte)": {
+        "python": 4,
+        "lean": 3
+    },
+    "python developer with ai/ml skills": {
+        "sql": 3,
+        "python": 1,
+        "matplotlib": 1
+    },
+    "python tester (w2 opportunity)": {
+        "selenium": 3,
+        "java": 3,
+        "sql": 3
+    },
+    "in-person : java back-end with python : charlotte, nc": {
+        "python": 7,
+        "java": 1
+    },
+    "artificial intelligence/python developer -charlotte,nc": {
+        "matlab": 3,
+        "keras": 3,
+        "agile": 3
+    },
+    "big data /python developer": {
+        "python": 3,
+        "agile": 3
+    },
+    "application programmer v-python - nj/nc": {
+        "python": 3,
+        "sql": 3,
+        "hadoop": 3,
+        "java": 1,
+        "agile": 1,
+        "sdlc": 1,
+        "unix": 1
+    },
+    "python developer with testing experience": {},
+    "application engineer - ii (aws/python)": {
+        "aws": 6,
+        "agile": 3,
+        "python": 3,
+        "go": 3,
+        "nosql": 3,
+        "devops": 3
+    },
+    "middle/senior python developer for almalinux [remote]": {
+        "python": 5,
+        "shell": 3,
+        "aws": 3,
+        "linux": 2,
+        "ansible": 1,
+        "quasar": 1
+    },
+    "senior python developer - aws services": {
+        "aws": 16,
+        "python": 12,
+        "sdlc": 3,
+        "devops": 3,
+        "sql": 3,
+        "agile": 3,
+        "jira": 3,
+        "git": 2,
+        "flask": 2
+    },
+    "python and flask developers with devops": {
+        "python": 4,
+        "javascript": 3,
+        "flask": 1,
+        "devops": 1,
+        "sql": 1
+    },
+    "python developer at charlotte, nc": {
+        "python": 6,
+        "sql": 3,
+        "aws": 3,
+        "jira": 2
+    },
+    "aws developer with python": {
+        "aws": 4,
+        "python": 1
+    },
+    "full stack developer\u200b/python": {
+        "python": 3
+    },
+    "ab-initio developer with python": {
+        "python": 7,
+        "sql": 3,
+        "shell": 3
+    },
+    "abinitio/ ab initio developer with python": {
+        "unix": 3,
+        "shell": 3,
+        "python": 1
+    },
+    "data engineer with java/python": {
+        "sql": 6,
+        "spring": 3,
+        "unix": 3,
+        "react": 3,
+        "sdlc": 3,
+        "gcp": 2,
+        "r": 1
+    },
+    "hadoop/big data developer (hbase, etl, data analytics, data mapping, data...": {
+        "pyramid": 3,
+        "sql": 2
+    },
+    "python dataops engineer": {
+        "python": 9,
+        "ansible": 4,
+        "unix": 3,
+        "shell": 3,
+        "agile": 3,
+        "cg": 1
+    },
+    "sr. linux administrator (vmware)(python)(rhel) :: winston- salem, north...": {
+        "ansible": 6,
+        "terraform": 3,
+        "bash": 3,
+        "nessus": 3,
+        "shell": 3,
+        "python": 3,
+        "splunk": 3,
+        "firewall": 3,
+        "linux": 2,
+        "dns": 1,
+        "routing": 1,
+        "snmp": 1
+    },
+    "senior data engineer (python / aws) - now hiring": {
+        "aws": 6,
+        "python": 1
+    },
+    "junior software developer-python": {
+        "django": 3,
+        "matplotlib": 3
+    },
+    "data engineer/ python developer": {
+        "sql": 8,
+        "agile": 5,
+        "python": 3,
+        "javascript": 2,
+        "rest": 2,
+        "jenkins": 2,
+        "openshift": 2,
+        "mongodb": 1,
+        "tableau": 1
+    },
+    "python / django programmer / developer": {
+        "python": 4,
+        "sql": 4,
+        "unix": 3,
+        "windows": 3,
+        "xml": 2,
+        "javascript": 2,
+        "jquery": 2,
+        "aws": 2,
+        "c#": 1,
+        "xpath": 1,
+        "css": 1,
+        "shell": 1
+    },
+    "backend software engineer (python)": {
+        "aws": 3,
+        "python": 2,
+        "devops": 2,
+        "flask": 1,
+        "postgresql": 1,
+        "terraform": 1
+    },
+    "mid-level software developer (python)": {
+        "python": 12,
+        "angular": 3,
+        "javascript": 3,
+        "gcp": 2,
+        "bootstrap": 2,
+        "sql": 1,
+        "nosql": 1
+    },
+    "senior software developer - python/django": {
+        "django": 10,
+        "python": 9,
+        "rest": 7,
+        "sdlc": 2,
+        "git": 2,
+        "oop": 2,
+        "elasticsearch": 2,
+        "accuracy": 1,
+        "aws": 1,
+        "mysql": 1,
+        "mongodb": 1,
+        "docker": 1,
+        "redis": 1
+    },
+    "python developer at synechron in raleigh, nc": {
+        "python": 6,
+        "css3": 3
+    },
+    "senior python developer at insight enterprises inc in raleigh, nc": {
+        "python": 3,
+        "accuracy": 1,
+        "agile": 1
+    },
+    "qa - python - onsite": {
+        "python": 4
+    },
+    "part time position for a python script developer (skype interview)": {
+        "android": 9,
+        "python": 6,
+        "c": 3,
+        "swift": 3,
+        "phonegap": 1,
+        "jquery": 1
+    },
+    "lead full-stack python developer (w/ mkt rates mgmt exp.) 139673 - developer...": {
+        "python": 8,
+        "sql": 1,
+        "aws": 1
+    },
+    ".net azure developer with python knowledge": {
+        "agile": 4,
+        "python": 3,
+        "ui": 3,
+        "css3": 3,
+        "bootstrap": 2,
+        "sql": 1,
+        "gcp": 1,
+        "javascript": 1,
+        "line": 1
+    },
+    "java& python developer": {
+        "sql": 3,
+        "java": 3,
+        "rest": 3
+    },
+    "remote - senior python developer": {
+        "sql": 9,
+        "r": 3,
+        "aws": 2,
+        "linux": 2
+    },
+    "lead software engineer (python) - remote job": {
+        "devops": 3,
+        "bash": 3,
+        "sql": 3,
+        "github": 1
+    },
+    "senior escalation engineer (python + cybersecurity)": {
+        "windows": 8,
+        "ransomware": 5,
+        "macos": 4,
+        "python": 2,
+        "aws": 2
+    },
+    "gis architect(esri, python exp)_agis -agol migration": {
+        "python": 3
+    },
+    "machine learning engineer - machine learning, python, pyspark": {
+        "python": 3,
+        "line": 2,
+        "scikit-learn": 2,
+        "foundation": 1
+    },
+    "informatica pl sql and python": {
+        "python": 6,
+        "agile": 2,
+        "aws": 2,
+        "java": 1,
+        "angular": 1
+    },
+    "locals and inperson urgent need python developer": {
+        "python": 2,
+        "sdlc": 2
+    },
+    "python lead developer with graphql api's": {
+        "graphql": 10,
+        "python": 9,
+        "kubernetes": 4
+    },
+    "api lead developer\u200b/python\u200b/graphql": {
+        "kubernetes": 4,
+        "python": 3,
+        "aks": 1
+    },
+    "software engineer - python - ubuntu pro client - graduate level": {
+        "ubuntu": 15,
+        "python": 11,
+        "linux": 4,
+        "debian": 2
+    },
+    "software developer, python": {
+        "flask": 3,
+        "pandas": 3,
+        "sql": 3,
+        "linux": 3,
+        "aws": 3,
+        "ux": 3,
+        "ui": 2,
+        "python": 1
+    },
+    "python api developer(w2)": {
+        "python": 3,
+        "fastapi": 3,
+        "sql": 3,
+        "linux": 3,
+        "docker": 3
+    },
+    "remote junior sql/python/r application developer (100% remote)": {
+        "r": 6,
+        "sql": 3,
+        "python": 3
+    },
+    "software developer": {
+        "kubernetes": 3,
+        "react": 3,
+        "bash": 3,
+        "line": 3,
+        "http": 3,
+        "javascript": 2,
+        "postgresql": 2,
+        "flask": 2,
+        "python": 1,
+        "aws": 1
+    },
+    "looking for jr python developer": {
+        "python": 6,
+        "linux": 5,
+        "skype": 1
+    },
+    "python developer-hybrid": {
+        "sql": 6,
+        "nosql": 2
+    },
+    "python consultant": {
+        "python": 18,
+        "flask": 5,
+        "mysql": 3,
+        "emacs": 3,
+        "scipy": 3,
+        "agile": 3,
+        "scrum": 3,
+        "javascript": 2
+    },
+    "** python developer - columbus oh": {
+        "python": 4,
+        "postgresql": 1,
+        "skype": 1
+    },
+    "required python developer [always hiring]": {
+        "python": 5,
+        "linux": 5,
+        "skype": 1
+    },
+    "python developer with ksql experience": {
+        "apache": 4,
+        "devops": 4,
+        "agile": 3
+    },
+    "java developer - (java/python/spring/unix) columbus, ohio -286130 bb": {
+        "agile": 6,
+        "scrum": 3,
+        "jmeter": 2,
+        "java": 1,
+        "ui": 1,
+        "sql": 1
+    },
+    "java/python developers": {
+        "spring": 9,
+        "apache": 2,
+        "subversion": 2,
+        "cassandra": 1
+    },
+    "web - python / aws / lamba engineer (remote)": {
+        "aws": 8,
+        "python": 6,
+        "flask": 3,
+        "agile": 2,
+        "javascript": 2,
+        "ruby": 1
+    },
+    "hybrid devops with full stack developer": {
+        "devops": 3,
+        "aws": 3,
+        "kubernetes": 3,
+        "render": 1
+    },
+    "data engineer - remote / telecommute": {
+        "python": 6,
+        "sql": 6,
+        "postgresql": 2,
+        "kubernetes": 1
+    },
+    "hpc automation engineering manager - python & linux": {
+        "python": 3,
+        "docker": 2,
+        "metal": 1,
+        "ubuntu": 1
+    },
+    "mpi software engineer/programmer - python, c at the ohio state university...": {
+        "mpi": 6,
+        "linux": 5,
+        "trac": 2,
+        "ethernet": 1,
+        "python": 1
+    },
+    "lead software engineer - devops iv (python, groovy, aws)": {
+        "agile": 3,
+        "devops": 2,
+        "gradle": 2,
+        "chef": 2,
+        "puppet": 2,
+        "groovy": 2,
+        "box": 2,
+        "datadog": 2,
+        "linux": 2,
+        "docker": 1
+    },
+    "senior lead software engineer - cloud/microservices/java/python": {
+        "spring": 9,
+        "jenkins": 3,
+        "rest": 3,
+        "subversion": 3,
+        "kubernetes": 3,
+        "cassandra": 3,
+        "apache": 2,
+        "agile": 1
+    },
+    "selenium automated q.a.": {
+        "scrum": 3,
+        "postman": 1
+    },
+    "python developer (entry level) - us": {
+        "python": 11,
+        "django": 2,
+        "flask": 2,
+        "git": 2,
+        "mongodb": 1,
+        "aws": 1,
+        "agile": 1
+    },
+    "python developer(entry level)": {
+        "python": 12,
+        "ui": 2,
+        "django": 1
+    },
+    "principal devops engineer- python": {
+        "devops": 6,
+        "linux": 3,
+        "terraform": 3,
+        "soc": 2,
+        "cvs": 1
+    },
+    "100% remote senior python developer - ns-pydhd-ns_46528583812_35-4658": {
+        "python": 6,
+        "terraform": 3,
+        "aws": 3,
+        "react": 3,
+        "fastapi": 3,
+        "mongodb": 2,
+        "graphql": 1
+    },
+    "ing\u00e9nieur d\u00e9veloppeur python senior": {
+        "agile": 2,
+        "python": 1
+    },
+    "data; data scientist- onsite, okc (sql, python, r)": {
+        "sql": 3
+    },
+    "autonomous research software engineer": {
+        "python": 11,
+        "batch": 2
+    },
+    "entry level python programing": {
+        "python": 2,
+        "java": 2,
+        "django": 1
+    },
+    "sr. python engineer": {
+        "python": 11,
+        "django": 3,
+        "flask": 2
+    },
+    "senior backend engineer": {
+        "python": 5,
+        "html": 1,
+        "agile": 1
+    },
+    "python developer jr-mid": {
+        "python": 3,
+        "aws": 3,
+        "angular": 3,
+        "docker": 3,
+        "django": 1,
+        "flask": 1,
+        "sql": 1
+    },
+    "hybrid work - need python developer in philadelphia pa": {
+        "python": 7,
+        "angular": 3,
+        "aws": 3,
+        "sql": 3,
+        "javascript": 2,
+        "shell": 2,
+        "sdlc": 2,
+        "ui": 1,
+        "vault": 1
+    },
+    "python/ aws developer": {
+        "aws": 6,
+        "python": 2
+    },
+    "sr. python/php developer (100% remote)": {
+        "python": 3,
+        "php": 3,
+        "gitlab": 3
+    },
+    "python/java programmer": {
+        "python": 13,
+        "java": 11,
+        "aws": 3,
+        "kubernetes": 2,
+        "windows": 2
+    },
+    "senior software engineer, full stack/back end (python developer)": {
+        "agile": 4,
+        "python": 2,
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2,
+        "sql": 1
+    },
+    "php/python developer": {
+        "python": 3,
+        "php": 3,
+        "gitlab": 3
+    },
+    "python and golang developer": {
+        "python": 6,
+        "git": 3,
+        "github": 3,
+        "nosql": 1,
+        "cassandra": 1,
+        "linux": 1,
+        "snmp": 1,
+        "aws": 1
+    },
+    "remote - lead devops engineer - python - remote": {
+        "agile": 9,
+        "python": 3,
+        "c": 3,
+        "c++": 3
+    },
+    "hadoop with java/python developer": {
+        "hadoop": 3,
+        "python": 1
+    },
+    "java / python developer": {
+        "java": 6,
+        "python": 6,
+        "spring": 3,
+        "hadoop": 2
+    },
+    "python/flask developer": {
+        "python": 1,
+        "flask": 1
+    },
+    "python developer - philadelphia pa": {
+        "python": 1
+    },
+    "cloud python developer": {
+        "python": 7
+    },
+    "entry-intermediate software developer": {
+        "python": 3
+    },
+    "python aws engineer": {
+        "aws": 17,
+        "python": 15,
+        "flask": 3,
+        "terraform": 3,
+        "docker": 2,
+        "cloudformation": 2,
+        "circleci": 2,
+        "eks": 1,
+        "kibana": 1
+    },
+    "perl /python scripter": {
+        "perl": 7,
+        "unix": 6,
+        "java": 4,
+        "windows": 3,
+        "line": 1
+    },
+    "python/aws software engineer": {
+        "agile": 3,
+        "aws": 1,
+        "python": 1,
+        "java": 1
+    },
+    "developer advocate - python at redis labs in remote": {
+        "redis": 24,
+        "python": 18,
+        "nosql": 6,
+        "safe": 3,
+        "c": 3,
+        "devops": 3
+    },
+    "quality assurance analyst\u200b/sdet, automated, java, python iii": {},
+    "software engineer/ python/ data/ cloud": {
+        "devops": 4,
+        "python": 4,
+        "less": 1,
+        "sql": 1
+    },
+    "sr. python/ aws developer": {
+        "spring": 5,
+        "aws": 3,
+        "git": 2,
+        "jenkins": 2,
+        "go": 2,
+        "sql": 2,
+        "sdlc": 2,
+        "soapui": 2,
+        "jmeter": 1
+    },
+    "data analyst/data analytics-sql-python-r/statistical analysis": {
+        "sql": 9,
+        "aws": 2,
+        "r": 2
+    },
+    "python/data engineer": {
+        "python": 3,
+        "sql": 3,
+        "devops": 2,
+        "git": 1,
+        "aws": 1
+    },
+    "software developer (middleware, python, django, java restful)": {
+        "spring": 18,
+        "rest": 3,
+        "aws": 2,
+        "http": 2,
+        "tcp/ip": 2,
+        "python": 1,
+        "ruby": 1
+    },
+    "hadoop with java/python": {
+        "hadoop": 1,
+        "python": 1
+    },
+    "python php architect": {
+        "python": 6,
+        "php": 4
+    },
+    "senior python developer- face to face interview": {
+        "aws": 2,
+        "python": 1,
+        "jenkins": 1
+    },
+    "aws lambda eks with java /python - full time permanent": {
+        "java": 9,
+        "aws": 5,
+        "spring": 3,
+        "python": 3,
+        "rest": 3,
+        "eks": 1
+    },
+    "python developer - data": {
+        "python": 2,
+        "sql": 2
+    },
+    "data analytics engineer": {
+        "aws": 2,
+        "tableau": 1
+    },
+    "aws cloud devops engineer, java or python - work from home": {
+        "aws": 11,
+        "java": 7,
+        "python": 7,
+        "batch": 3,
+        "terraform": 3,
+        "agile": 3,
+        "devops": 1
+    },
+    "python aws developer/ aws python developer": {
+        "python": 3,
+        "java": 3,
+        "aws": 1
+    },
+    "aws developer ( java and python)": {
+        "aws": 4,
+        "batch": 3,
+        "scala": 3,
+        "bamboo": 2
+    },
+    "python developer with azure admin": {
+        "python": 1
+    },
+    "sap/python integration": {
+        "python": 2
+    },
+    "python hadoop data engineer": {
+        "python": 2,
+        "hadoop": 2
+    },
+    "full stack python developer(full-time)": {
+        "python": 4,
+        "ui": 3,
+        "devops": 3,
+        "sql": 3,
+        "git": 2,
+        "perl": 1,
+        "rest": 1,
+        "javascript": 1,
+        "angular": 1,
+        "linux": 1,
+        "shell": 1,
+        "debian": 1,
+        "ubuntu": 1
+    },
+    "software engineer c#, .net, sql server, python": {
+        "windows": 3,
+        "python": 3,
+        "linux": 2
+    },
+    "machine learning engineer/ python/ pyspark/ aws": {
+        "aws": 4,
+        "go": 3,
+        "python": 3
+    },
+    "python developer - pittsburgh, pa": {
+        "python": 4,
+        "linux": 3,
+        "foundation": 3
+    },
+    "remote fullstack developer python": {
+        "agile": 8,
+        "scrum": 7,
+        "json": 2,
+        "go": 2,
+        "javascript": 1,
+        "angular": 1,
+        "nosql": 1
+    },
+    "immediate hiring python developer at pittsburgh, pa hybrid on w2": {
+        "python": 10,
+        "sql": 3,
+        "accuracy": 2
+    },
+    "python developer/data engineer": {},
+    "python developer- exempt": {
+        "spring": 6,
+        "python": 3,
+        "java": 3,
+        "nosql": 2,
+        "devops": 2,
+        "agile": 2,
+        "scrum": 2,
+        "sql": 1
+    },
+    "sql and python developer": {
+        "python": 5,
+        "pl/sql": 3,
+        "sql": 1,
+        "hadoop": 1
+    },
+    "software engineer, python (intelligent systems)": {
+        "python": 6,
+        "safe": 3,
+        "aws": 3,
+        "gcp": 3,
+        "numpy": 3,
+        "c++": 2,
+        "kubernetes": 2,
+        "less": 1
+    },
+    "python developer ii": {
+        "ui": 3,
+        "sql": 3,
+        "agile": 1
+    },
+    "senior associate, back-end developer (python)": {
+        "python": 6,
+        "sql": 4,
+        "mongodb": 2,
+        "ui": 1,
+        "angular": 1,
+        "css": 1,
+        "nexus": 1,
+        "java": 1,
+        "jira": 1,
+        "agile": 1,
+        "scrum": 1,
+        "javascript": 1
+    },
+    "senior python developer at iq inc. in pittsburgh, pa": {
+        "python": 10,
+        "django": 7,
+        "qt": 2,
+        "linux": 1
+    },
+    "software engineer, (python) research platform": {
+        "python": 3,
+        "pytorch": 3,
+        "tensorflow": 3
+    },
+    "python test engineer": {
+        "trace": 3,
+        "python": 3,
+        "batch": 3,
+        "agile": 1
+    },
+    "python engineer at it pros in pittsburgh, pa": {
+        "python": 8,
+        "line": 3,
+        "aws": 2,
+        "java": 2,
+        "zoom": 1
+    },
+    "python web application developer \u2013 healthcare systems": {
+        "python": 4,
+        "sql": 2,
+        "flask": 2,
+        "foundation": 1
+    },
+    "python engineer at insight global in pittsburgh, pa": {
+        "agile": 3,
+        "python": 3,
+        "react": 3
+    },
+    "java backend developer (python, spark, hadoop)-us": {
+        "java": 4,
+        "hadoop": 1,
+        "rest": 1
+    },
+    "qa analyst (python)": {
+        "python": 3,
+        "jira": 3,
+        "json": 3,
+        "git": 2
+    },
+    "remote senior django developer": {
+        "django": 15,
+        "python": 3,
+        "ui": 3,
+        "r": 3,
+        "xml": 3,
+        "json": 2
+    },
+    "data engineer - python, javascript, sql & matlab (remote)": {
+        "sql": 7,
+        "python": 6,
+        "agile": 3,
+        "matlab": 3
+    },
+    "remote senior programmer analyst (python or r)": {
+        "unix": 3,
+        "linux": 3,
+        "sql": 3,
+        "less": 2,
+        "python": 2,
+        "r": 2
+    },
+    "senior django developer": {
+        "django": 15,
+        "python": 3,
+        "ui": 3,
+        "xml": 3,
+        "json": 2
+    },
+    "qa analyst/python": {
+        "python": 3,
+        "jira": 2
+    },
+    "python/spark": {},
+    "ai python developer": {
+        "python": 6,
+        "scikit-learn": 2,
+        "github": 2
+    },
+    "remote - python developer w/aws": {
+        "jenkins": 2,
+        "python": 1,
+        "aws": 1,
+        "angular": 1,
+        "javascript": 1,
+        "bitbucket": 1
+    },
+    "ml/nlp engineer-python/ cloud/ data": {
+        "less": 7,
+        "gcp": 6,
+        "python": 1
+    },
+    "python full-stack developer 45325": {
+        "python": 4,
+        "kubernetes": 3,
+        "docker": 3,
+        "ui": 2
+    },
+    "backend python engineer": {
+        "python": 2,
+        "numpy": 1
+    },
+    "cs152 introduction to python programming": {
+        "python": 6,
+        "canvas": 2
+    },
+    "python software developer intern": {
+        "python": 9
+    },
+    "aws/python developer at cgi group in columbia, sc": {
+        "aws": 11,
+        "python": 4,
+        "r": 3,
+        "java": 3,
+        "fly": 2,
+        "agile": 1,
+        "sql": 1,
+        "cloudwatch": 1
+    },
+    "mid/senior python developer": {
+        "aws": 13,
+        "python": 8,
+        "sql": 6,
+        "r": 3,
+        "agile": 1,
+        "fly": 1
+    },
+    "sr. sdet engineer with python": {
+        "python": 7,
+        "java": 4,
+        "sql": 4,
+        "unix": 4,
+        "soapui": 3,
+        "jenkins": 2,
+        "agile": 1,
+        "jira": 1,
+        "aws": 1
+    },
+    "online stata, python code tutor": {
+        "python": 4,
+        "skype": 1
+    },
+    "software developer ii - python / c++": {
+        "agile": 3,
+        "less": 2
+    },
+    "python software engineer onsite": {
+        "python": 6,
+        "vue.js": 4,
+        "ui": 2
+    },
+    "python developer (entry level) at magnus technology solutions memphis, tn": {
+        "sql": 3,
+        "python": 2
+    },
+    "gid python developer": {
+        "python": 12,
+        "tornado": 2,
+        "css": 2,
+        "json": 2,
+        "sql": 2,
+        "agile": 2,
+        "linux": 2,
+        "shell": 2,
+        "routing": 1
+    },
+    "software engineer (python/django)": {
+        "python": 5,
+        "sql": 5,
+        "aws": 3,
+        "django": 1
+    },
+    "backend engineer (python and aws) | no c2c | fully remote": {
+        "aws": 9,
+        "python": 8,
+        "elasticsearch": 3,
+        "docker": 2,
+        "rest": 2,
+        "sql": 2,
+        "gitlab": 2,
+        "apache": 2,
+        "terraform": 2,
+        "html": 2,
+        "mysql": 1,
+        "javascript": 1,
+        "jira": 1
+    },
+    "python full stack developer hybrid 10+ years of experience": {
+        "python": 11,
+        "agile": 2
+    },
+    "python application developer **remote available**": {
+        "python": 4,
+        "flask": 2,
+        "mercurial": 2,
+        "svn": 2,
+        "safe": 2,
+        "mysql": 1
+    },
+    "remote python developer at insight global in nashville, tn": {
+        "python": 2,
+        "precision": 1,
+        "flask": 1,
+        "postgresql": 1,
+        "mercurial": 1,
+        "svn": 1
+    },
+    "quant risk developer - python": {
+        "sql": 3,
+        "python": 2,
+        "git": 2
+    },
+    "software engineer (c#/python) - onsite (nashville, tn)": {
+        "sql": 5,
+        "accuracy": 3,
+        "java": 1
+    },
+    "full stack python/react developer - remote at hub international limited in...": {
+        "javascript": 6,
+        "python": 3,
+        "agile": 3,
+        "django": 3,
+        "css": 3,
+        "ui": 2,
+        "rest": 2,
+        "java": 2,
+        "git": 1,
+        "nosql": 1
+    },
+    "software engineer - python - optimise ubuntu for public clouds": {
+        "ubuntu": 9,
+        "linux": 5,
+        "python": 3,
+        "safe": 2
+    },
+    "sr. backend engineer - python at espressive in remote": {
+        "python": 3,
+        "django": 3,
+        "agile": 1
+    },
+    "jr fullstack java developer/ python/data analyst/data scientists-remote": {
+        "java": 12,
+        "javascript": 3,
+        "c++": 3,
+        "spring": 2,
+        "jenkins": 2,
+        "rest": 2
+    },
+    "data engineer (python, sql, azure)": {
+        "sql": 5,
+        "python": 2,
+        "accuracy": 2
+    },
+    "entry-level python developer - us": {
+        "python": 6,
+        "linux": 6,
+        "ansible": 5,
+        "smtp": 2
+    },
+    "python developer \u2013 houston, tx (hybrid)": {
+        "python": 1,
+        "kubernetes": 1
+    },
+    "python automation test engineer (hybrid model)": {
+        "python": 8,
+        "agile": 6,
+        "java": 3,
+        "selenium": 3,
+        "scrum": 3,
+        "jira": 2
+    },
+    "python developer - remote": {
+        "python": 3,
+        "javascript": 1,
+        "devops": 1
+    },
+    "python developer with aws (investment banking exp)": {
+        "python": 4,
+        "sql": 3,
+        "angular": 1
+    },
+    "python developer - houston, tx": {
+        "python": 3,
+        "django": 3,
+        "foundation": 3
+    },
+    "python developer (commodities)": {
+        "python": 5
+    },
+    "python developer, hybrid, tx": {
+        "sql": 4,
+        "python": 3,
+        "agile": 3,
+        "skype": 1
+    },
+    "development engineer - python": {
+        "python": 4,
+        "selenium": 1,
+        "sql": 1,
+        "docker": 1
+    },
+    "remote - python full stack developer": {
+        "python": 4,
+        "sql": 3,
+        "angular": 3,
+        "pyramid": 1
+    },
+    "python developer - contract $45-55 per hour - no c2c": {
+        "python": 13,
+        "git": 6,
+        "linux": 4,
+        "jupyter": 3,
+        "sql": 3,
+        "devops": 1,
+        "postgresql": 1,
+        "mysql": 1
+    },
+    "python programmer - riser": {
+        "c": 5,
+        "python": 3
+    },
+    "lead software engineer - python - houston, tx": {
+        "agile": 1
+    },
+    "python developer/engineer": {
+        "python": 5,
+        "oop": 3,
+        "docker": 2,
+        "latency": 2
+    },
+    "quantitative developer - python": {
+        "python": 3
+    },
+    "python sql developer": {
+        "python": 7,
+        "sql": 4,
+        "go": 3,
+        "docker": 3,
+        "git": 2
+    },
+    "software engineer (python + devops)": {
+        "aws": 9,
+        "python": 7,
+        "rest": 5,
+        "angular": 3,
+        "sql": 2,
+        "github": 1,
+        "devops": 1
+    },
+    "python fullstack developer - trading desk": {
+        "python": 3,
+        "typescript": 3
+    },
+    "python developer / programmer": {
+        "python": 6,
+        "foundation": 3
+    },
+    "python programmer with medical coding": {
+        "c#": 3
+    },
+    "java python devveloper": {
+        "java": 5,
+        "python": 4,
+        "react": 3,
+        "ui": 3
+    },
+    "python developer with oracle": {
+        "python": 4,
+        "rest": 3,
+        "mongodb": 3,
+        "kubernetes": 3,
+        "r": 1
+    },
+    "pl/sql developer with python": {
+        "pl/sql": 7,
+        "python": 6,
+        "skype": 1
+    },
+    "sr. devops engineer with good exp on python": {
+        "python": 11,
+        "kubernetes": 7,
+        "devops": 4,
+        "oop": 3,
+        "uml": 3,
+        "gitlab": 3,
+        "terraform": 2,
+        "go": 1
+    },
+    "python / aws developer": {
+        "python": 8,
+        "docker": 6,
+        "aws": 5,
+        "yaml": 2
+    },
+    "python & powershell developer with aws background": {
+        "aws": 7,
+        "powershell": 6,
+        "python": 4,
+        "ansible": 3,
+        "git": 2,
+        "jenkins": 1
+    },
+    "remote senior software developer - python, oracle sql": {
+        "python": 9,
+        "sql": 6,
+        "shell": 2
+    },
+    "risk strategist / python developer": {
+        "python": 7,
+        "rest": 7,
+        "java": 3,
+        "react": 2
+    },
+    "senior software engineer, python platforms": {
+        "python": 4,
+        "unix": 3
+    },
+    "senior research software engineer (python)": {
+        "python": 6,
+        "linux": 4,
+        "java": 3,
+        "c": 3
+    },
+    "python with angular": {
+        "python": 4,
+        "sql": 3,
+        "angular": 3,
+        "pyramid": 1
+    },
+    "python developer with storage domain experience": {
+        "python": 3,
+        "github": 3,
+        "json": 3,
+        "shell": 2,
+        "powershell": 2,
+        "agile": 1,
+        "rest": 1
+    },
+    "python developer work \u2013 remote | wfh": {
+        "python": 16
+    },
+    "python data analyst/engineer": {
+        "python": 11,
+        "javascript": 1,
+        "sql": 1,
+        "nosql": 1
+    },
+    "c python": {
+        "python": 6,
+        "foundation": 3
+    },
+    "sr. microservices developer (java / python/golang)": {
+        "python": 2,
+        "agile": 2,
+        "soap": 1,
+        "java": 1,
+        "git": 1
+    },
+    "communications network modeling and sim engineer (python)": {
+        "python": 5,
+        "c++": 3,
+        "oop": 3,
+        "routing": 3,
+        "qos": 3,
+        "linux": 2,
+        "tcp/ip": 2,
+        "box": 1
+    },
+    "junior full stack developer react/python - us/canada": {
+        "react": 9,
+        "python": 6,
+        "aws": 3
+    },
+    "hardware developer": {
+        "python": 30,
+        "powershell": 14,
+        "windows": 2
+    },
+    "aws-python-angular": {
+        "python": 15,
+        "numpy": 3,
+        "c#": 3,
+        "flask": 3,
+        "javascript": 2,
+        "sql": 2,
+        "pandas": 2
+    },
+    "python developer ::: san antonio, tx ::: long term": {
+        "gitlab": 3,
+        "git": 3,
+        "python": 2,
+        "docker": 1,
+        "apache": 1
+    },
+    "entry-level python data warehousing specialist": {
+        "python": 7,
+        "django": 2,
+        "flask": 2
+    },
+    "quick interview--python backend developer @ san antonio,tx": {
+        "python": 7,
+        "git": 3,
+        "linux": 3
+    },
+    "developer ii - python": {
+        "ansible": 3,
+        "git": 3,
+        "python": 1
+    },
+    "python developer-top$$$-direct client-1 confirmed -1more position": {
+        "python": 3,
+        "jira": 2,
+        "github": 2,
+        "rest": 1,
+        "flask": 1
+    },
+    "python frameworks software developer (tkoclv-sw2-02.021423)": {
+        "python": 4,
+        "malware": 3,
+        "json": 3,
+        "rest": 1,
+        "selenium": 1
+    },
+    "direct client django flask python developer /architect top $$$$": {
+        "python": 7,
+        "git": 3,
+        "linux": 3
+    },
+    "python sdet": {
+        "ui": 4,
+        "scrum": 3,
+        "python": 2,
+        "ruby": 1,
+        "selenium": 1
+    },
+    "soc analyst with python": {
+        "fireeye": 5,
+        "dns": 3,
+        "yaml": 3,
+        "kibana": 2,
+        "linux": 2,
+        "go": 1,
+        "soc": 1,
+        "python": 1
+    },
+    "data analyst with sas, python": {},
+    "hadoop, python, etl developer": {
+        "hadoop": 3,
+        "sql": 2,
+        "go": 1,
+        "git": 1,
+        "nosql": 1
+    },
+    "senior cno developer (c, c++, python, assembly)": {
+        "assembly": 3,
+        "subversion": 2,
+        "perl": 2
+    },
+    "front end / full stack developer - python | node | angular - top secret or...": {
+        "agile": 6,
+        "angular": 6,
+        "python": 3,
+        "node.js": 3,
+        "nosql": 2,
+        "git": 1
+    },
+    "principal data architect - $180-$200k (snowflake, python)": {
+        "python": 7,
+        "java": 3,
+        "rest": 2
+    },
+    "software engineering manager (elk, python/java/ruby, devops, cloud) at...": {
+        "agile": 3,
+        "devops": 2,
+        "aws": 1,
+        "gcp": 1,
+        "ruby": 1
+    },
+    "senior python/django software engineer": {
+        "agile": 3,
+        "django": 2,
+        "rest": 2,
+        "python": 1,
+        "git": 1,
+        "devops": 1,
+        "foundation": 1
+    },
+    "junior python developer at salt lake cit": {
+        "python": 6,
+        "django": 6,
+        "scheme": 2
+    },
+    "fullstack python engineer": {
+        "aws": 3,
+        "python": 2
+    },
+    "sr. backend engineer (python)": {
+        "python": 5,
+        "agile": 4,
+        "flask": 3,
+        "rest": 3,
+        "sql": 3,
+        "css3": 3,
+        "java": 1
+    },
+    "django/python software developer": {
+        "python": 6,
+        "less": 3,
+        "django": 3,
+        "sql": 3,
+        "line": 2,
+        "mvc": 2,
+        "postgresql": 2,
+        "html": 2,
+        "agile": 1,
+        "angular": 1,
+        "javascript": 1
+    },
+    "remote staff python application developer": {
+        "java": 3,
+        "rest": 3,
+        "go": 3,
+        "aws": 3,
+        "sql": 2,
+        "python": 2
+    },
+    "remote - sr. python developer (data engineer) at insight global in salt lake...": {
+        "python": 5,
+        "gcp": 2,
+        "git": 1,
+        "linux": 1
+    },
+    "it software programmer iv (python)": {
+        "python": 3
+    },
+    "full stack python (django) developer at skilljar in salt lake city, ut": {
+        "mvc": 3,
+        "python": 1,
+        "agile": 1,
+        "heroku": 1,
+        "aws": 1
+    },
+    "100 remote-sdet engineer (python,selenium,sql)": {
+        "python": 15,
+        "selenium": 3,
+        "sql": 3,
+        "agile": 2,
+        "ui": 2
+    },
+    "site reliability engineer": {
+        "devops": 12,
+        "python": 5,
+        "aws": 4,
+        "terraform": 4,
+        "bash": 3,
+        "ansible": 2,
+        "saltstack": 2,
+        "elasticsearch": 2,
+        "go": 2,
+        "latency": 2,
+        "cloudformation": 1
+    },
+    "100 remote-sdet engineer (python,selenium,sql) - ns-sdetd-ns_46528583812_45-4658": {
+        "python": 15,
+        "selenium": 3,
+        "sql": 2,
+        "agile": 2,
+        "ui": 2
+    },
+    "python developer (aws) - remote | wfh": {
+        "agile": 9,
+        "nosql": 3,
+        "docker": 3,
+        "aws": 3
+    },
+    "entry level python programming": {
+        "python": 2,
+        "java": 2,
+        "django": 1
+    },
+    "technical analyst with python": {},
+    "python deveoper at cognizant in richmond, va": {
+        "python": 12,
+        "rest": 3,
+        "scala": 3,
+        "java": 1
+    },
+    "python developer_ w2 only": {
+        "python": 3
+    },
+    "sr. master data software engineer - c# / python": {
+        "c#": 4,
+        "python": 3,
+        "foundation": 1,
+        "sql": 1,
+        "nosql": 1,
+        "mongodb": 1
+    },
+    "hybrid: sr. python lead": {
+        "python": 7,
+        "aws": 4,
+        "rest": 2,
+        "devops": 2,
+        "javascript": 1,
+        "sql": 1,
+        "soap": 1,
+        "batch": 1
+    },
+    "senior software engineer, back end - cyber (python, java, aws)": {
+        "agile": 4,
+        "shell": 2,
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2,
+        "java": 1
+    },
+    "data analytics specialist - sql/python": {},
+    "devops engineer with python, kubernetes, docker & aws experience": {
+        "devops": 1,
+        "docker": 1,
+        "aws": 1
+    },
+    "software engineer (python developer)": {
+        "aws": 13,
+        "python": 12,
+        "agile": 4,
+        "django": 3,
+        "flask": 3,
+        "mysql": 2,
+        "devops": 2,
+        "sql": 2,
+        "safe": 2,
+        "git": 1,
+        "javascript": 1,
+        "docker": 1
+    },
+    "senior python developer - remote": {
+        "aws": 3,
+        "foundation": 2,
+        "jenkins": 2,
+        "devops": 1,
+        "agile": 1
+    },
+    "lead software engineer (python / django / react)": {
+        "rest": 6,
+        "node.js": 3,
+        "agile": 2,
+        "safe": 1,
+        "react": 1,
+        "aws": 1,
+        "python": 1
+    },
+    "python > > location: virginia day 1 onsite": {
+        "python": 4,
+        "bash": 3,
+        "sql": 3,
+        "ansible": 3,
+        "shell": 3
+    },
+    "aws- spark -python data engineer": {
+        "aws": 12,
+        "apache": 3,
+        "python": 3,
+        "agile": 2
+    },
+    "jr python developer": {
+        "java": 2
+    },
+    "staff software engineer python": {
+        "python": 6
+    },
+    "python analyst": {},
+    "python developer full time opportunity - jf jobs in seattle, wa at top level...": {
+        "python": 9,
+        "mysql": 6,
+        "aws": 3
+    },
+    "software engineer, python, cyber security": {
+        "scala": 3,
+        "mongodb": 3,
+        "numpy": 3,
+        "agile": 2,
+        "scrum": 2,
+        "aws": 2,
+        "splunk": 1
+    },
+    "full stack python": {
+        "mvc": 3,
+        "python": 2,
+        "agile": 1,
+        "heroku": 1,
+        "aws": 1,
+        "foundation": 1
+    },
+    "python engineer / seattle, wa, 3 months contract": {
+        "docker": 6,
+        "puppet": 3,
+        "linux": 3,
+        "java": 3,
+        "ruby": 3,
+        "http": 3,
+        "git": 1,
+        "jenkins": 1
+    },
+    "sas python developer": {
+        "scrum": 3
+    },
+    "python developer, location: seattle, wa": {
+        "python": 4
+    },
+    "senior software engineer\u200b/python - parametric": {
+        "aws": 3,
+        "foundation": 2,
+        "terraform": 1,
+        "sentry": 1
+    },
+    "python automation tester@ seattle, wa/cupertino, ca": {
+        "python": 2
+    },
+    "senior back end engineer python \ud83c\udfc6": {
+        "python": 7,
+        "ruby": 3,
+        "aws": 1,
+        "fly": 1
+    },
+    "sr python + langchain developer - freelance [remote]": {
+        "python": 8,
+        "accuracy": 2,
+        "agile": 2
+    },
+    "python microservices lead cum architect": {
+        "python": 6,
+        "flask": 3
+    },
+    "professional consultant - python and configuration management": {
+        "python": 6,
+        "jenkins": 3,
+        "go": 1,
+        "mysql": 1,
+        "github": 1
+    },
+    "python developer with pyvisa": {
+        "python": 4
+    },
+    "enterprise software engineer python": {
+        "python": 5,
+        "agile": 2
+    },
+    "python aia-automation tester": {
+        "agile": 3,
+        "python": 1
+    },
+    "data architect (snowflake + python)": {
+        "python": 4,
+        "r": 2,
+        "devops": 2
+    },
+    "sdet quality engineer with swift, python, java": {
+        "java": 4,
+        "shell": 4,
+        "xcode": 4,
+        "ios": 4
+    },
+    "senior java developer - remote": {
+        "foundation": 1
+    },
+    "senior fullstack engineer (typescript, react, python, graphql)": {
+        "python": 6,
+        "graphql": 4
+    },
+    "software development manager (lidar edge computing) python \ud83c\udfc6": {
+        "python": 7,
+        "linux": 6,
+        "c++": 4,
+        "foundation": 3,
+        "opencv": 1
+    },
+    "python programming tutor": {
+        "python": 1
+    },
+    "backend engineer - python at ensodata in madison, wi": {
+        "less": 1,
+        "python": 1
+    },
+    "security software engineer | python": {
+        "python": 4,
+        "linux": 3,
+        "docker": 3,
+        "kubernetes": 3,
+        "agile": 2,
+        "git": 2,
+        "c#": 2,
+        "react": 2
+    },
+    "senior software engineer, back end (spark, python, sql). job in madison...": {
+        "nosql": 5,
+        "agile": 4,
+        "docker": 2,
+        "aws": 2,
+        "sql": 1,
+        "shell": 1
+    },
+    "c++/ python programmer": {
+        "c++": 2
+    },
+    "python software engineer (remote)": {
+        "python": 6,
+        "kubernetes": 3,
+        "apache": 2,
+        "git": 2,
+        "ruby": 1,
+        "sql": 1
+    },
+    "python data science developer": {
+        "python": 10,
+        "java": 1
+    },
+    "java, .net, javascript, python engineers": {
+        "javascript": 3,
+        "python": 3,
+        "devops": 3,
+        "agile": 3
+    },
+    "python etl data modeler": {
+        "agile": 9,
+        "batch": 3,
+        "apache": 3,
+        "terraform": 3,
+        "aws": 2
+    },
+    "senior software engineer, backend (java, python, aws)": {
+        "agile": 5,
+        "java": 3,
+        "python": 3,
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2
+    },
+    "senior software test engineer (python)": {
+        "agile": 3,
+        "python": 3,
+        "rest": 3,
+        "linux": 2,
+        "devops": 1
+    },
+    "automation test engineer with java&python": {
+        "agile": 9,
+        "box": 4,
+        "go": 3,
+        "sdlc": 3,
+        "waterfall": 3,
+        "safe": 1
+    },
+    "c/c++ python do-178b": {
+        "python": 3
+    },
+    "sme - nodejs and python": {
+        "python": 5,
+        "sql": 3,
+        "linux": 3,
+        "sdlc": 1
+    },
+    "python engineer - casper, wyoming": {
+        "python": 6,
+        "tensorflow": 4,
+        "agile": 3
+    }
+}

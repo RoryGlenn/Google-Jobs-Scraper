@@ -1,0 +1,8542 @@
+{
+    "mindpal": {
+        "django": 416,
+        "rest": 416,
+        "python": 238,
+        "sql": 138,
+        "postgresql": 100
+    },
+    "synergisticit": {
+        "java": 305,
+        "python": 235,
+        "django": 116,
+        "c++": 73,
+        "spring": 67,
+        "rest": 66,
+        "javascript": 65,
+        "jenkins": 50,
+        "scala": 48,
+        "ui": 19,
+        "go": 7,
+        "html": 3,
+        "matplotlib": 3,
+        "tensorflow": 2
+    },
+    "insight global": {
+        "python": 160,
+        "aws": 62,
+        "sql": 50,
+        "agile": 40,
+        "java": 18,
+        "docker": 14,
+        "scrum": 14,
+        "linux": 12,
+        "angular": 11,
+        "go": 11,
+        "gcp": 8,
+        "javascript": 8,
+        "react": 7,
+        "devops": 7,
+        "accuracy": 7,
+        "line": 7,
+        "terraform": 6,
+        "github": 6,
+        "rest": 6,
+        "ui": 6,
+        "flask": 6,
+        "tableau": 6,
+        "nosql": 6,
+        "firewall": 6,
+        "eks": 6,
+        "json": 5,
+        "jenkins": 5,
+        "bitbucket": 5,
+        "kubernetes": 5,
+        "apache": 5,
+        "windows": 4,
+        "encryption": 4,
+        "django": 4,
+        "r": 4,
+        "splunk": 4,
+        "shell": 4,
+        "unix": 4,
+        "bamboo": 3,
+        "cloudformation": 3,
+        "powershell": 3,
+        "slack": 3,
+        "swarm": 3,
+        "fastapi": 3,
+        "pandas": 3,
+        "c#": 3,
+        "perl": 3,
+        "mocha": 3,
+        "lean": 3,
+        "waterfall": 2,
+        "postgresql": 2,
+        "servicenow": 2,
+        "jest": 2,
+        "less": 2,
+        "css": 1,
+        "ansible": 1,
+        "grafana": 1,
+        "hadoop": 1,
+        "precision": 1,
+        "mercurial": 1,
+        "svn": 1,
+        "git": 1
+    },
+    "deloitte development, llc": {
+        "python": 202,
+        "hadoop": 103,
+        "aws": 72,
+        "github": 70,
+        "java": 43,
+        "agile": 37,
+        "scala": 29,
+        "mongodb": 22,
+        "nosql": 18,
+        "react": 11,
+        "angular": 10,
+        "spring": 10,
+        "soap": 10,
+        "devops": 10,
+        "sql": 7,
+        "css": 5,
+        "cassandra": 4,
+        "sdlc": 4,
+        "accuracy": 1,
+        "javascript": 1,
+        "django": 1,
+        "flask": 1,
+        "ui": 1,
+        "cucumber": 1,
+        "scrum": 1,
+        "jira": 1,
+        "less": 1
+    },
+    "canonical - jobs": {
+        "python": 359,
+        "linux": 131,
+        "ubuntu": 119,
+        "kubernetes": 103,
+        "metal": 61,
+        "accuracy": 40,
+        "agile": 36,
+        "docker": 32,
+        "line": 22,
+        "go": 14,
+        "devops": 5,
+        "windows": 4,
+        "debian": 2,
+        "aws": 2,
+        "safe": 2,
+        "box": 1,
+        "c": 1
+    },
+    "better talent advisors": {
+        "python": 226,
+        "rest": 170,
+        "safe": 83
+    },
+    "varsity tutors": {
+        "python": 62
+    },
+    "diverse lynx": {
+        "python": 76,
+        "aws": 24,
+        "java": 22,
+        "sql": 21,
+        "agile": 12,
+        "devops": 8,
+        "git": 8,
+        "apache": 8,
+        "shell": 7,
+        "docker": 5,
+        "angular": 5,
+        "github": 4,
+        "spring": 4,
+        "puppet": 3,
+        "icinga": 3,
+        "linux": 3,
+        "line": 3,
+        "numpy": 3,
+        "circleci": 3,
+        "windows": 3,
+        "rest": 3,
+        "pl/sql": 3,
+        "jenkins": 3,
+        "batch": 2,
+        "jira": 2,
+        "javascript": 2,
+        "redis": 1,
+        "hadoop": 1,
+        "maven": 1,
+        "cucumber": 1
+    },
+    "synergy technologies": {
+        "python": 272,
+        "rest": 124,
+        "batch": 72,
+        "git": 36
+    },
+    "vaco": {
+        "python": 90,
+        "sql": 5,
+        "github": 3,
+        "accuracy": 3,
+        "docker": 2,
+        "javascript": 1,
+        "git": 1,
+        "java": 1
+    },
+    "saxon global": {
+        "python": 61,
+        "aws": 30,
+        "sql": 23,
+        "linux": 12,
+        "devops": 11,
+        "go": 10,
+        "r": 9,
+        "hadoop": 8,
+        "nosql": 7,
+        "java": 7,
+        "mysql": 5,
+        "wire": 5,
+        "jira": 4,
+        "react": 4,
+        "gitlab": 3,
+        "ubuntu": 3,
+        "terraform": 3,
+        "php": 3,
+        "ui": 3,
+        "couchbase": 3,
+        "tableau": 3,
+        "laravel": 2,
+        "scrum": 2,
+        "apache": 2,
+        "line": 2,
+        "batch": 2,
+        "shell": 2,
+        "cassandra": 2,
+        "c++": 1,
+        "unity": 1,
+        "accuracy": 1,
+        "c": 1,
+        "kubernetes": 1,
+        "agile": 1,
+        "less": 1
+    },
+    "price waterhouse coopers": {},
+    "motion recruitment": {
+        "python": 72,
+        "aws": 23,
+        "devops": 11,
+        "django": 9,
+        "react": 9,
+        "docker": 7,
+        "kubernetes": 7,
+        "javascript": 4,
+        "sql": 4,
+        "redis": 3,
+        "mysql": 3,
+        "agile": 3,
+        "shell": 3,
+        "terraform": 3,
+        "jenkins": 3,
+        "go": 3,
+        "postgresql": 2,
+        "scrum": 2,
+        "apache": 2,
+        "java": 1,
+        "less": 1,
+        "git": 1
+    },
+    "oracle": {
+        "sql": 62,
+        "python": 45,
+        "line": 15,
+        "go": 12
+    },
+    "open systems technologies": {
+        "python": 40,
+        "linux": 12,
+        "sql": 12,
+        "agile": 11,
+        "java": 11,
+        "c++": 7,
+        "scala": 4,
+        "matlab": 4,
+        "windows": 4,
+        "rest": 3,
+        "elasticsearch": 3,
+        "cassandra": 3,
+        "numpy": 3,
+        "pandas": 3,
+        "http": 3,
+        "sdlc": 3,
+        "scrum": 3,
+        "less": 3,
+        "oop": 3,
+        "scipy": 2,
+        "html/css": 2,
+        "javascript": 2,
+        "mvc": 2
+    },
+    "fullstack labs, llc": {
+        "python": 33,
+        "agile": 33,
+        "scrum": 33
+    },
+    "beacon hill staffing group": {
+        "python": 96,
+        "terraform": 27,
+        "ui": 25,
+        "aws": 23,
+        "agile": 22,
+        "react": 16,
+        "mongodb": 13,
+        "fastapi": 12,
+        "graphql": 11,
+        "sql": 7,
+        "jenkins": 6,
+        "kubernetes": 4,
+        "selenium": 4
+    },
+    "capital one": {
+        "agile": 47,
+        "nosql": 39,
+        "docker": 15,
+        "aws": 15,
+        "hadoop": 15,
+        "angular": 10,
+        "shell": 8,
+        "python": 7,
+        "batch": 6,
+        "java": 5,
+        "sql": 3,
+        "node.js": 2,
+        "go": 1
+    },
+    "unclassified": {
+        "python": 111,
+        "aws": 42,
+        "react": 12,
+        "soc": 11,
+        "sql": 7,
+        "shell": 4,
+        "agile": 4,
+        "scrum": 4,
+        "mysql": 3,
+        "selenium": 3,
+        "fortran": 3,
+        "numpy": 3,
+        "scipy": 3,
+        "javascript": 3,
+        "typescript": 3,
+        "devops": 3,
+        "unix": 3,
+        "django": 3,
+        "java": 2,
+        "jupyter": 2,
+        "spring": 2,
+        "flask": 2,
+        "c++": 1,
+        "clustering": 1,
+        "jenkins": 1
+    },
+    "dellfor technologies": {
+        "python": 37,
+        "apache": 16,
+        "nosql": 12,
+        "cassandra": 12,
+        "flask": 12,
+        "pandas": 3,
+        "rest": 2,
+        "agile": 2,
+        "sdlc": 2
+    },
+    "pwc": {
+        "c++": 1
+    },
+    "teksystems": {
+        "agile": 25,
+        "python": 19,
+        "sql": 12,
+        "javascript": 8,
+        "react": 6,
+        "vue.js": 4,
+        "php": 3,
+        "signal": 3,
+        "ui": 3,
+        "windows": 3,
+        "scrum": 2,
+        "c++": 2,
+        "unix": 2,
+        "rest": 2,
+        "jenkins": 2,
+        "openshift": 2,
+        "flask": 2,
+        "nginx": 2,
+        "nosql": 2,
+        "hadoop": 2,
+        "git": 2,
+        "java": 1,
+        "shell": 1,
+        "mongodb": 1,
+        "tableau": 1,
+        "skype": 1,
+        "tfs": 1
+    },
+    "canonical": {
+        "python": 91,
+        "linux": 32,
+        "ubuntu": 29,
+        "metal": 23,
+        "accuracy": 15,
+        "kubernetes": 8,
+        "agile": 7,
+        "line": 4,
+        "docker": 3,
+        "aws": 2
+    },
+    "keylent": {
+        "python": 22,
+        "agile": 11,
+        "sql": 11,
+        "devops": 8,
+        "git": 8,
+        "rest": 7,
+        "json": 6,
+        "spring": 5,
+        "java": 4,
+        "aws": 4,
+        "github": 4,
+        "shell": 4,
+        "powershell": 4,
+        "html": 3,
+        "soap": 3,
+        "angular": 3,
+        "nosql": 3,
+        "docker": 3,
+        "dash": 3,
+        "ansible": 3,
+        "linux": 3,
+        "cassandra": 3,
+        "selenium": 2,
+        "jenkins": 2,
+        "go": 2,
+        "sdlc": 2,
+        "soapui": 2,
+        "apache": 1,
+        "uwsgi": 1,
+        "mysql": 1,
+        "hadoop": 1,
+        "javascript": 1,
+        "jmeter": 1
+    },
+    "atechstar": {
+        "python": 62,
+        "sql": 12,
+        "django": 11,
+        "pandas": 7,
+        "numpy": 7,
+        "flask": 6,
+        "java": 3,
+        "docker": 3,
+        "css": 3,
+        "html": 3,
+        "aws": 3,
+        "scipy": 3,
+        "jupyter": 3,
+        "matplotlib": 3,
+        "plotly": 3,
+        "clustering": 3,
+        "ember.js": 3,
+        "dask": 3,
+        "kubernetes": 2,
+        "javascript": 2
+    },
+    "dice": {
+        "python": 55,
+        "aws": 27,
+        "agile": 10,
+        "sql": 8,
+        "mysql": 8,
+        "terraform": 7,
+        "github": 5,
+        "apache": 5,
+        "javascript": 4,
+        "rest": 4,
+        "fastapi": 3,
+        "vault": 3,
+        "kubernetes": 3,
+        "devops": 3,
+        "elasticsearch": 3,
+        "jira": 3,
+        "java": 3,
+        "selenium": 3,
+        "scrum": 3,
+        "git": 2,
+        "windows": 2,
+        "linux": 2,
+        "shell": 2,
+        "ui": 2,
+        "gke": 2,
+        "docker": 2,
+        "gitlab": 2,
+        "html": 2,
+        "django": 2,
+        "numpy": 2,
+        "json": 2,
+        "webex": 1
+    },
+    "leidos": {
+        "python": 51,
+        "linux": 29,
+        "aws": 26,
+        "windows": 10,
+        "shell": 8,
+        "agile": 6,
+        "css": 6,
+        "cloudwatch": 6,
+        "ansible": 6,
+        "git": 5,
+        "java": 5,
+        "mongodb": 4,
+        "tcp/ip": 4,
+        "subnetting": 4,
+        "cloudformation": 4,
+        "javascript": 3,
+        "sass": 3,
+        "less": 3,
+        "react": 3,
+        "elasticsearch": 3,
+        "bash": 3,
+        "line": 3,
+        "pyramid": 1
+    },
+    "cybercoders": {
+        "python": 28,
+        "sql": 11,
+        "rest": 10,
+        "django": 10,
+        "line": 8,
+        "aws": 7,
+        "devops": 5,
+        "terraform": 5,
+        "java": 5,
+        "javascript": 4,
+        "git": 3,
+        "agile": 3,
+        "circleci": 2,
+        "github": 2,
+        "less": 2,
+        "scikit-learn": 2,
+        "postgresql": 1,
+        "linux": 1,
+        "apache": 1,
+        "scrum": 1,
+        "foundation": 1,
+        "php": 1,
+        "react": 1,
+        "angular": 1,
+        "c#": 1,
+        "laravel": 1
+    },
+    "rit solutions, inc.": {
+        "aws": 64,
+        "python": 51,
+        "cloudformation": 16,
+        "rest": 14,
+        "json": 12,
+        "sql": 9,
+        "angular": 8,
+        "git": 7,
+        "mysql": 6,
+        "devops": 6,
+        "react": 6,
+        "linux": 4,
+        "java": 4,
+        "jenkins": 4,
+        "ansible": 4,
+        "php": 3,
+        "ui": 3,
+        "couchbase": 3,
+        "c#": 3,
+        "javascript": 3,
+        "mocha": 3,
+        "scrum": 2,
+        "apache": 2,
+        "line": 2,
+        "github": 2,
+        "jest": 2,
+        "c": 1,
+        "docker": 1
+    },
+    "jobot": {
+        "agile": 13,
+        "python": 12,
+        "aws": 12,
+        "soc": 11,
+        "sql": 8,
+        "windows": 8,
+        "javascript": 6,
+        "rest": 6,
+        "devops": 5,
+        "ransomware": 5,
+        "java": 4,
+        "graphql": 4,
+        "macos": 4,
+        "scrum": 3,
+        "react": 3,
+        "bash": 3,
+        "nosql": 3,
+        "node.js": 3,
+        "mvc": 2,
+        "crystal": 2,
+        "shell": 1,
+        "github": 1,
+        "safe": 1
+    },
+    "united software group inc.": {
+        "python": 45,
+        "aws": 15,
+        "foundation": 9,
+        "jquery": 7,
+        "postgresql": 7,
+        "react": 6,
+        "unix": 6,
+        "shell": 6,
+        "grunt": 5,
+        "sdlc": 5,
+        "sql": 4,
+        "waterfall": 3,
+        "hibernate": 3,
+        "java": 3,
+        "linux": 3,
+        "tableau": 3,
+        "skype": 3,
+        "devops": 3,
+        "agile": 3,
+        "rest": 3,
+        "svn": 2,
+        "json": 2,
+        "ui": 2,
+        "css": 2,
+        "javascript": 2,
+        "bower": 2,
+        "bootstrap": 2,
+        "box": 2,
+        "jira": 2,
+        "less": 2,
+        "nosql": 1,
+        "http": 1,
+        "apache": 1,
+        "tomcat": 1,
+        "go": 1
+    },
+    "state street": {
+        "agile": 20,
+        "sdlc": 16,
+        "scrum": 16,
+        "json": 12,
+        "xml": 12,
+        "javascript": 12,
+        "java": 12,
+        "react": 8,
+        "django": 4,
+        "python": 4,
+        "devops": 4,
+        "git": 4
+    },
+    "reperio human capital": {
+        "python": 64,
+        "django": 18,
+        "rest": 13,
+        "aws": 7,
+        "sdlc": 5,
+        "agile": 4,
+        "docker": 3,
+        "jenkins": 2,
+        "terraform": 2,
+        "go": 2,
+        "ruby": 2,
+        "git": 2,
+        "oop": 2,
+        "elasticsearch": 2,
+        "linux": 2,
+        "c++": 2,
+        "gcp": 1,
+        "accuracy": 1,
+        "mysql": 1,
+        "mongodb": 1,
+        "redis": 1
+    },
+    "eteam inc.": {
+        "agile": 14,
+        "python": 8,
+        "aws": 5,
+        "git": 4,
+        "puppet": 4,
+        "openshift": 4,
+        "django": 3,
+        "docker": 3,
+        "bash": 3,
+        "ansible": 3,
+        "kubernetes": 3,
+        "shell": 3,
+        "sql": 3,
+        "hadoop": 3,
+        "batch": 3,
+        "apache": 3,
+        "terraform": 3,
+        "soap": 2,
+        "postgresql": 1,
+        "json": 1,
+        "linux": 1,
+        "github": 1,
+        "rest": 1
+    },
+    "the e.w. scripps company": {
+        "python": 20,
+        "php": 20,
+        "mysql": 20,
+        "postgresql": 20,
+        "subversion": 13,
+        "git": 13,
+        "aws": 13,
+        "linux": 13,
+        "java": 13,
+        "django": 13,
+        "css": 13
+    },
+    "braintrust": {
+        "python": 21,
+        "next.js": 3,
+        "react": 3,
+        "sql": 3,
+        "accuracy": 2,
+        "agile": 2,
+        "foundation": 1
+    },
+    "360 it professionals": {
+        "android": 36,
+        "python": 31,
+        "django": 13,
+        "c": 12,
+        "swift": 12,
+        "foundation": 6,
+        "rest": 6,
+        "ui": 6,
+        "selenium": 6,
+        "phonegap": 4,
+        "jquery": 4,
+        "css3": 3,
+        "docker": 3,
+        "javascript": 3,
+        "mercurial": 2
+    },
+    "kforce technology": {
+        "python": 38,
+        "splunk": 10,
+        "linux": 7,
+        "line": 6,
+        "devops": 5,
+        "git": 3,
+        "ansible": 3,
+        "terraform": 3,
+        "c++": 3,
+        "django": 3,
+        "java": 3,
+        "spring": 3,
+        "aws": 3,
+        "tableau": 3,
+        "rest": 3,
+        "docker": 2,
+        "kubernetes": 2,
+        "openshift": 2,
+        "less": 1
+    },
+    "cps, inc.": {
+        "python": 27,
+        "c#": 9,
+        "sql": 5,
+        "react": 4,
+        "rest": 3,
+        "unix": 3,
+        "docker": 3,
+        "pandas": 3,
+        "c++": 3,
+        "javascript": 3,
+        "mysql": 3,
+        "aws": 2,
+        "kubernetes": 2,
+        "linux": 2,
+        "html": 1
+    },
+    "syrinx": {
+        "python": 30,
+        "aws": 16,
+        "agile": 13,
+        "flask": 12,
+        "rest": 12,
+        "java": 8,
+        "docker": 7,
+        "django": 4,
+        "raml": 3,
+        "swagger": 3,
+        "openapi": 3,
+        "jmeter": 3,
+        "nosql": 2,
+        "redis": 2,
+        "jenkins": 2,
+        "react": 1,
+        "kubernetes": 1,
+        "angular": 1,
+        "javascript": 1,
+        "bitbucket": 1
+    },
+    "liberty personnel services, inc.": {
+        "python": 14,
+        "php": 6,
+        "gitlab": 6,
+        "angular": 5,
+        "hadoop": 5,
+        "aws": 4,
+        "docker": 4,
+        "django": 2,
+        "sql": 2,
+        "react": 1,
+        "linux": 1,
+        "shell": 1,
+        "kubernetes": 1,
+        "flask": 1
+    },
+    "sulekha.com client": {
+        "python": 37,
+        "django": 6,
+        "mysql": 6,
+        "linux": 3,
+        "ansible": 3,
+        "flask": 3,
+        "aws": 3
+    },
+    "phoenix cyber": {
+        "python": 42,
+        "elasticsearch": 18,
+        "rest": 18,
+        "soap": 18,
+        "aws": 18,
+        "kubernetes": 12,
+        "splunk": 12,
+        "mongodb": 12,
+        "linux": 12,
+        "go": 3
+    },
+    "skilljar": {
+        "mvc": 17,
+        "agile": 9,
+        "python": 6,
+        "heroku": 4,
+        "aws": 4,
+        "foundation": 2
+    },
+    "beacon hill staffing group, llc": {
+        "python": 54,
+        "aws": 14,
+        "terraform": 12,
+        "react": 12,
+        "fastapi": 12,
+        "mongodb": 8,
+        "selenium": 6,
+        "sql": 4,
+        "agile": 4,
+        "ui": 4,
+        "graphql": 4
+    },
+    "patterned learning ai": {
+        "python": 54,
+        "django": 9,
+        "linux": 9,
+        "github": 6,
+        "flask": 5,
+        "ansible": 5,
+        "git": 4,
+        "agile": 4,
+        "javascript": 3,
+        "sql": 2,
+        "bash": 2,
+        "aws": 2,
+        "smtp": 2,
+        "mongodb": 1
+    },
+    "micasa global inc": {
+        "python": 35,
+        "sql": 12,
+        "aws": 10,
+        "apache": 9,
+        "5g": 7,
+        "agile": 6,
+        "scrum": 5,
+        "rest": 4,
+        "postgresql": 3,
+        "devops": 3,
+        "json": 3,
+        "angular": 3,
+        "java": 3,
+        "scala": 3,
+        "node.js": 3,
+        "jquery": 3,
+        "javascript": 2,
+        "kanban": 2
+    },
+    "jobsbridge": {
+        "python": 23,
+        "c++": 9,
+        "linux": 7,
+        "sql": 6,
+        "agile": 6,
+        "rest": 6,
+        "shell": 4,
+        "mongodb": 3,
+        "html": 3,
+        "html5": 3,
+        "css": 3,
+        "aws": 3,
+        "flask": 3,
+        "ruby": 3,
+        "waterfall": 3,
+        "mvc": 3,
+        "nosql": 2,
+        "unix": 2,
+        "javascript": 2,
+        "git": 2,
+        "xml": 2,
+        "bash": 2,
+        "line": 2,
+        "jira": 2,
+        "mysql": 2,
+        "json": 2,
+        "nginx": 1,
+        "gunicorn": 1,
+        "rackspace": 1,
+        "elasticsearch": 1,
+        "java": 1,
+        "objective-c": 1
+    },
+    "captech consulting": {
+        "python": 40,
+        "aws": 36,
+        "terraform": 12,
+        "cloudformation": 12,
+        "github": 6,
+        "fairness": 2
+    },
+    "planet green search": {
+        "python": 42
+    },
+    "the dignify solutions, llc": {
+        "python": 15,
+        "sql": 5,
+        "pl/sql": 4,
+        "aws": 4,
+        "devops": 4,
+        "foundation": 4,
+        "agile": 3,
+        "jupyter": 3,
+        "jenkins": 3,
+        "git": 3,
+        "django": 3,
+        "flask": 1,
+        "javascript": 1
+    },
+    "robert half": {
+        "python": 54,
+        "sql": 16,
+        "aws": 13,
+        "docker": 5,
+        "kubernetes": 4,
+        "git": 3,
+        "go": 1,
+        "selenium": 1
+    },
+    "eliassen group": {
+        "sql": 14,
+        "python": 9,
+        "javascript": 9,
+        "ui": 6,
+        "java": 6,
+        "spring": 6,
+        "typescript": 6,
+        "agile": 5,
+        "aws": 4,
+        "django": 3,
+        "sdlc": 2,
+        "nosql": 2,
+        "devops": 2,
+        "scrum": 2,
+        "harbor": 1,
+        "go": 1,
+        "linux": 1
+    },
+    "intellisoft technologies": {
+        "python": 32,
+        "aws": 16,
+        "javascript": 7,
+        "sql": 6,
+        "jupyter": 4,
+        "java": 3,
+        "apache": 3,
+        "linux": 3,
+        "shell": 3,
+        "mysql": 3,
+        "kotlin": 2,
+        "jenkins": 2,
+        "devops": 1
+    },
+    "synechron": {
+        "python": 25,
+        "sql": 13,
+        "pandas": 7,
+        "agile": 6,
+        "scrum": 6,
+        "shell": 6,
+        "sdlc": 4,
+        "unix": 3,
+        "css3": 3,
+        "hadoop": 2
+    },
+    "tekintegral": {
+        "python": 33,
+        "django": 7,
+        "aws": 5,
+        "java": 5,
+        "react": 4,
+        "html5": 4,
+        "graphql": 4,
+        "rest": 4,
+        "go": 3,
+        "pandas": 3,
+        "ui": 3,
+        "scrum": 3,
+        "devops": 3,
+        "javascript": 3,
+        "sql": 3,
+        "jira": 3,
+        "json": 3,
+        "css3": 2,
+        "agile": 2,
+        "git": 2,
+        "hadoop": 1
+    },
+    "smartiplace": {
+        "react": 27,
+        "javascript": 18
+    },
+    "experis": {
+        "python": 30,
+        "sql": 20,
+        "go": 6,
+        "lean": 3,
+        "windows": 2,
+        "flask": 2
+    },
+    "hiremefast llc": {
+        "python": 57,
+        "react": 18,
+        "aws": 11,
+        "django": 8,
+        "flask": 6,
+        "git": 6,
+        "agile": 5,
+        "mongodb": 3
+    },
+    "extend information systems inc.": {
+        "python": 24,
+        "sql": 9,
+        "aws": 8,
+        "pandas": 6,
+        "java": 6,
+        "accuracy": 3,
+        "pl/sql": 2,
+        "tableau": 1
+    },
+    "resource informatics group inc": {
+        "python": 16,
+        "django": 8,
+        "docker": 5,
+        "java": 4,
+        "kubernetes": 3,
+        "jenkins": 3,
+        "rest": 3,
+        "agile": 3,
+        "scrum": 3,
+        "mysql": 3,
+        "postgresql": 3,
+        "aws": 2,
+        "sql": 2,
+        "c++": 2,
+        "devops": 1,
+        "vault": 1,
+        "consul": 1
+    },
+    "virtual vocations inc": {
+        "python": 26,
+        "aws": 15,
+        "sql": 12,
+        "react": 3,
+        "typescript": 3,
+        "postgresql": 3,
+        "slack": 3,
+        "git": 3,
+        "github": 3
+    },
+    "capgemini": {
+        "python": 25,
+        "sql": 12,
+        "devops": 6,
+        "docker": 6,
+        "json": 4,
+        "aws": 4,
+        "eks": 4,
+        "http": 4,
+        "oop": 3,
+        "linux": 3,
+        "less": 2
+    },
+    "cognizant": {
+        "python": 22,
+        "hadoop": 4,
+        "aws": 3,
+        "devops": 3,
+        "ui": 3,
+        "switching": 3,
+        "routing": 3,
+        "rest": 3,
+        "scala": 3,
+        "html/css": 2,
+        "docker": 1,
+        "agile": 1,
+        "numpy": 1,
+        "linux": 1,
+        "angular": 1,
+        "react": 1,
+        "shell": 1,
+        "java": 1
+    },
+    "resume library": {
+        "python": 24,
+        "sql": 10,
+        "aws": 8,
+        "agile": 4,
+        "docker": 3,
+        "kubernetes": 3,
+        "node.js": 3,
+        "devops": 3,
+        "r": 3,
+        "tensorflow": 3,
+        "kanban": 2,
+        "django": 1,
+        "flask": 1,
+        "grpc": 1,
+        "postgresql": 1,
+        "less": 1,
+        "java": 1
+    },
+    "primus global services inc.,": {
+        "python": 29,
+        "kubernetes": 10,
+        "docker": 6,
+        "rest": 3,
+        "github": 3,
+        "circleci": 2,
+        "devops": 2,
+        "ui": 2,
+        "windows": 1
+    },
+    "clifyx, inc": {
+        "python": 20,
+        "aws": 13,
+        "jenkins": 6,
+        "sql": 6,
+        "kubernetes": 5,
+        "java": 3,
+        "docker": 3,
+        "rancher": 3,
+        "react": 1,
+        "go": 1
+    },
+    "captech": {
+        "sql": 12,
+        "c#": 12,
+        "c++": 12,
+        "c": 12,
+        "aws": 12,
+        "python": 8,
+        "fairness": 5,
+        "github": 3,
+        "terraform": 2,
+        "cloudformation": 2
+    },
+    "cynet systems": {
+        "python": 14,
+        "box": 6,
+        "typescript": 6,
+        "javascript": 6,
+        "sql": 6,
+        "devops": 4,
+        "agile": 4,
+        "java": 4,
+        "c++": 3,
+        "react": 3,
+        "mongodb": 2,
+        "sqlite": 2,
+        "c#": 2,
+        "css": 2,
+        "postgresql": 2,
+        "kubernetes": 1
+    },
+    "ampcus incorporated": {
+        "python": 22,
+        "devops": 7,
+        "soap": 6,
+        "git": 6,
+        "github": 6,
+        "linux": 5,
+        "jenkins": 4,
+        "django": 4,
+        "shell": 3,
+        "aws": 3,
+        "mongodb": 2,
+        "agile": 2,
+        "snmp": 2,
+        "grafana": 1,
+        "nosql": 1,
+        "cassandra": 1
+    },
+    "guidehouse": {
+        "fortran": 27,
+        "servicenow": 23,
+        "python": 22,
+        "scheme": 9,
+        "shell": 9,
+        "numpy": 6,
+        "scipy": 5,
+        "ui": 3,
+        "angular": 3,
+        "r": 3
+    },
+    "jpmc candidate experience page": {
+        "agile": 18,
+        "python": 13,
+        "java": 13,
+        "aws": 3,
+        "sql": 3,
+        "html/css": 1
+    },
+    "skiltrek": {
+        "python": 13,
+        "agile": 11,
+        "sql": 9,
+        "oop": 6,
+        "rest": 3,
+        "jira": 3,
+        "ui": 3,
+        "sdlc": 2,
+        "react": 1
+    },
+    "zortech solutions": {
+        "python": 24,
+        "django": 10,
+        "agile": 6,
+        "rest": 4,
+        "linux": 4,
+        "java": 4,
+        "shell": 3,
+        "aws": 3,
+        "kubernetes": 3,
+        "sql": 3,
+        "bash": 3,
+        "git": 3,
+        "unix": 2,
+        "nosql": 2,
+        "json": 2,
+        "mongodb": 2,
+        "mysql": 2,
+        "docker": 1,
+        "hadoop": 1
+    },
+    "kpg99 inc": {
+        "python": 12,
+        "aws": 11,
+        "graphql": 4,
+        "agile": 3,
+        "scrum": 3,
+        "less": 2,
+        "devops": 1,
+        "cisco": 1,
+        "nosql": 1
+    },
+    "erias ventures, llc": {
+        "line": 10,
+        "kubernetes": 6,
+        "linux": 6,
+        "python": 6,
+        "ui": 6,
+        "ruby": 4,
+        "mongodb": 3,
+        "rest": 3,
+        "docker": 3,
+        "bandwidth": 3,
+        "angular": 3,
+        "prometheus": 2,
+        "grafana": 2,
+        "npm": 2,
+        "go": 1,
+        "django": 1,
+        "flask": 1,
+        "swagger": 1,
+        "aws": 1,
+        "json": 1,
+        "xml": 1,
+        "jira": 1,
+        "git": 1,
+        "agile": 1,
+        "rancher": 1
+    },
+    "bny mellon": {
+        "python": 17,
+        "java": 6,
+        "javascript": 6,
+        "docker": 4,
+        "sql": 4,
+        "scala": 3,
+        "elasticsearch": 3,
+        "gitlab": 3,
+        "agile": 2,
+        "mongodb": 2,
+        "rest": 2,
+        "c++": 1,
+        "redis": 1,
+        "grpc": 1,
+        "ux": 1,
+        "react": 1,
+        "ui": 1,
+        "angular": 1,
+        "css": 1,
+        "nexus": 1,
+        "jira": 1,
+        "scrum": 1,
+        "line": 1
+    },
+    "aptask": {
+        "python": 30,
+        "rest": 7,
+        "pandas": 5,
+        "sql": 5,
+        "shell": 3,
+        "aws": 3,
+        "javascript": 3,
+        "agile": 3,
+        "numpy": 3,
+        "c#": 3,
+        "flask": 3,
+        "splunk": 2,
+        "ruby": 2,
+        "angular": 2,
+        "sdlc": 2,
+        "django": 2,
+        "react": 1,
+        "linux": 1
+    },
+    "technology partners": {
+        "python": 12,
+        "aws": 7,
+        "java": 5,
+        "julia": 5,
+        "r": 5,
+        "sql": 4,
+        "go": 3,
+        "http": 3,
+        "django": 3,
+        "html": 3,
+        "css": 3,
+        "accuracy": 3,
+        "docker": 3,
+        "git": 2,
+        "javascript": 2,
+        "windows": 1,
+        "devops": 1
+    },
+    "ekodus inc.": {
+        "python": 15,
+        "graphql": 6,
+        "ui": 6,
+        "aws": 6,
+        "agile": 6,
+        "devops": 4,
+        "react": 4,
+        "java": 4,
+        "scrum": 3,
+        "sql": 3,
+        "hadoop": 3,
+        "redis": 3,
+        "go": 3,
+        "opencv": 3,
+        "safe": 2,
+        "git": 2,
+        "pandas": 1,
+        "tableau": 1
+    },
+    "the cypress group": {
+        "python": 11,
+        "agile": 7,
+        "sql": 5,
+        "php": 3,
+        "postgresql": 3,
+        "aws": 3,
+        "git": 3,
+        "foundation": 3,
+        "accuracy": 2,
+        "django": 1
+    },
+    "stellent it": {
+        "python": 14,
+        "sql": 10,
+        "pl/sql": 7,
+        "oop": 4,
+        "aws": 4,
+        "t-sql": 3,
+        "agile": 3,
+        "skype": 2
+    },
+    "cgi": {
+        "python": 55,
+        "aws": 25,
+        "agile": 16,
+        "sql": 13,
+        "django": 3,
+        "r": 3,
+        "bitbucket": 3,
+        "flask": 2,
+        "mysql": 2,
+        "git": 2
+    },
+    "verticalmove, inc": {
+        "swift": 6,
+        "agile": 3,
+        "sql": 3,
+        "kubernetes": 3,
+        "gcp": 3,
+        "cvs": 1
+    },
+    "webilent technology, inc.": {
+        "aws": 55,
+        "python": 33,
+        "c": 6,
+        "cloudwatch": 6,
+        "django": 6,
+        "shell": 6,
+        "terraform": 5,
+        "css3": 5
+    },
+    "freedom financial": {
+        "sql": 12,
+        "python": 4
+    },
+    "applab systems inc": {
+        "python": 16,
+        "tableau": 11,
+        "java": 6,
+        "linux": 3,
+        "terraform": 3,
+        "sql": 3,
+        "pandas": 3,
+        "scrum": 3,
+        "agile": 3,
+        "aks": 2,
+        "aws": 2
+    },
+    "emonics llc": {
+        "python": 19,
+        "aws": 6,
+        "git": 6,
+        "jira": 6,
+        "sql": 6,
+        "pl/sql": 3,
+        "java": 2,
+        "maven": 2,
+        "terraform": 2
+    },
+    "futran solutions": {
+        "python": 28,
+        "aws": 18,
+        "terraform": 8,
+        "shell": 4,
+        "jenkins": 3,
+        "devops": 3,
+        "agile": 3,
+        "django": 3,
+        "css3": 3,
+        "pandas": 3,
+        "java": 2,
+        "puppet": 1
+    },
+    "infosys limited": {
+        "python": 20,
+        "agile": 8,
+        "sql": 3,
+        "ui": 3,
+        "css3": 3,
+        "rest": 2,
+        "jboss": 2,
+        "angular": 2,
+        "django": 2,
+        "flask": 2,
+        "bootstrap": 2,
+        "unix": 1,
+        "shell": 1,
+        "gcp": 1,
+        "javascript": 1,
+        "line": 1
+    },
+    "the judge group": {
+        "python": 11,
+        "agile": 10,
+        "gcp": 10,
+        "scrum": 3,
+        "ios": 3,
+        "android": 3,
+        "ruby": 3,
+        "kubernetes": 3,
+        "github": 3,
+        "devops": 3,
+        "ionic": 2,
+        "mysql": 2,
+        "gke": 2,
+        "terraform": 2
+    },
+    "mitchell martin inc.": {
+        "python": 18,
+        "sql": 9,
+        "typescript": 3,
+        "aws": 2,
+        "r": 2,
+        "java": 1
+    },
+    "collabera": {
+        "python": 23,
+        "agile": 8,
+        "angular": 7,
+        "rest": 4,
+        "ui": 4,
+        "css": 3,
+        "linux": 3,
+        "sql": 2,
+        "mongodb": 2,
+        "shell": 1
+    },
+    "matlen silver": {
+        "python": 19,
+        "c": 6,
+        "java": 4,
+        "pandas": 3,
+        "numpy": 3,
+        "flask": 3,
+        "sql": 3,
+        "shell": 3,
+        "django": 3,
+        "rest": 3,
+        "agile": 3,
+        "git": 2,
+        "scrum": 2,
+        "angular": 1,
+        "routing": 1,
+        "linux": 1,
+        "cisco": 1
+    },
+    "two95 international inc.": {
+        "python": 16,
+        "scala": 8,
+        "sql": 6,
+        "linux": 6,
+        "java": 3,
+        "aws": 3,
+        "pandas": 3,
+        "foundation": 3
+    },
+    "capb infotek": {
+        "python": 18,
+        "aws": 9,
+        "java": 9,
+        "hadoop": 5,
+        "sql": 4,
+        "css3": 3,
+        "html5": 3,
+        "javascript": 3,
+        "spring": 3,
+        "rest": 3,
+        "flask": 1,
+        "devops": 1,
+        "eks": 1
+    },
+    "captivation software": {
+        "linux": 16,
+        "kubernetes": 12,
+        "spring": 12,
+        "docker": 10,
+        "python": 9,
+        "git": 4,
+        "nosql": 4,
+        "apache": 4,
+        "ansible": 3,
+        "gitlab": 3,
+        "java": 3,
+        "mongodb": 2,
+        "canvas": 2,
+        "jenkins": 2,
+        "elasticsearch": 2,
+        "kibana": 2,
+        "influxdb": 2,
+        "go": 1,
+        "pytorch": 1,
+        "prometheus": 1,
+        "grafana": 1,
+        "rook": 1,
+        "devops": 1,
+        "jira": 1
+    },
+    "get it recruit - information technology": {
+        "python": 33,
+        "agile": 9,
+        "http": 8,
+        "rest": 3,
+        "datadog": 3,
+        "sentry": 3,
+        "nosql": 3,
+        "docker": 3,
+        "aws": 3,
+        "dns": 2,
+        "foundation": 1,
+        "phishing": 1
+    },
+    "hos": {
+        "python": 24,
+        "agile": 4
+    },
+    "morgan stanley": {
+        "python": 7,
+        "aws": 6,
+        "java": 3,
+        "c++": 3,
+        "foundation": 3,
+        "terraform": 2,
+        "sentry": 2,
+        "devops": 1,
+        "safe": 1
+    },
+    "vitol": {
+        "python": 26,
+        "rest": 7,
+        "sql": 3,
+        "typescript": 3,
+        "java": 3,
+        "react": 2,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "nucleusteq": {
+        "spring": 8,
+        "java": 6,
+        "hadoop": 6,
+        "python": 5,
+        "sql": 5,
+        "agile": 5,
+        "gcp": 3,
+        "batch": 3,
+        "jboss": 2,
+        "aws": 2
+    },
+    "amazon": {
+        "python": 3,
+        "lean": 3,
+        "sql": 2,
+        "launchpad": 1
+    },
+    "deloitte": {
+        "aws": 20,
+        "sql": 9,
+        "python": 6,
+        "agile": 6,
+        "angular": 6,
+        "node.js": 3,
+        "nosql": 2,
+        "git": 1
+    },
+    "patterned learning ai - tech recruitment & staffing": {
+        "python": 37,
+        "django": 21,
+        "react": 7,
+        "mysql": 5,
+        "rest": 3,
+        "agile": 2,
+        "flask": 2,
+        "mongodb": 2,
+        "aws": 1
+    },
+    "locks global staffing llc": {
+        "python": 25,
+        "zoom": 9,
+        "django": 6
+    },
+    "hireclout": {
+        "python": 18,
+        "apache": 9,
+        "gcp": 6,
+        "latency": 6,
+        "mongodb": 6,
+        "elasticsearch": 3
+    },
+    "econosoft": {
+        "python": 8,
+        "sql": 4,
+        "aws": 4,
+        "c#": 3,
+        "java": 3,
+        "devops": 3,
+        "hadoop": 3,
+        "git": 1
+    },
+    "suncap technology, inc.": {
+        "python": 6,
+        "docker": 6,
+        "angular": 3,
+        "puppet": 3,
+        "linux": 3,
+        "java": 3,
+        "ruby": 3,
+        "http": 3,
+        "nosql": 2,
+        "aws": 1,
+        "git": 1,
+        "jenkins": 1
+    },
+    "motek technologies": {
+        "c++": 6,
+        "python": 5,
+        "sql": 5,
+        "rest": 5,
+        "numpy": 2,
+        "scikit-learn": 2,
+        "django": 2,
+        "linux": 2,
+        "mysql": 2,
+        "tensorflow": 1,
+        "docker": 1,
+        "aws": 1,
+        "devops": 1
+    },
+    "kforce": {
+        "python": 10,
+        "java": 6,
+        "aws": 6,
+        "scrum": 3,
+        "less": 1
+    },
+    "harnham": {
+        "python": 30,
+        "django": 9,
+        "aws": 7,
+        "docker": 6,
+        "react": 5,
+        "devops": 5,
+        "kubernetes": 3
+    },
+    "lancesoft inc": {
+        "python": 21,
+        "agile": 8,
+        "sql": 4,
+        "aws": 2,
+        "cloudformation": 2,
+        "ethernet": 2,
+        "teamcity": 1,
+        "jenkins": 1,
+        "uml": 1
+    },
+    "northrop grumman": {
+        "agile": 17,
+        "python": 14,
+        "devops": 7,
+        "matlab": 3,
+        "kanban": 3,
+        "scrum": 3,
+        "qt": 2,
+        "ux": 1,
+        "ui": 1
+    },
+    "innova solutions": {
+        "python": 9,
+        "mysql": 5,
+        "sql": 4,
+        "linux": 4,
+        "php": 3,
+        "ui": 3,
+        "couchbase": 3,
+        "scrum": 2,
+        "apache": 2,
+        "line": 2,
+        "aws": 2
+    },
+    "makro technologies inc.": {
+        "python": 22,
+        "agile": 6,
+        "rest": 4,
+        "aws": 4,
+        "angular": 3,
+        "flask": 2,
+        "sql": 1
+    },
+    "canopyone": {
+        "python": 16,
+        "accuracy": 6,
+        "django": 4,
+        "sql": 3,
+        "gitlab": 3,
+        "unix": 3,
+        "swagger": 3,
+        "raml": 3,
+        "apache": 2,
+        "snmp": 2,
+        "websocket": 2,
+        "css3": 2,
+        "nosql": 1,
+        "centos": 1,
+        "git": 1,
+        "aws": 1,
+        "ansible": 1,
+        "skype": 1
+    },
+    "cognizant technology solutions": {
+        "python": 13,
+        "routing": 6,
+        "switching": 6,
+        "voip": 3,
+        "box": 3,
+        "jira": 3,
+        "pl/sql": 3,
+        "c": 2,
+        "java": 1,
+        "selenium": 1,
+        "jenkins": 1
+    },
+    "cvs health": {
+        "cvs": 24,
+        "python": 13,
+        "sql": 6,
+        "apache": 6,
+        "java": 3,
+        "linux": 3,
+        "shell": 3,
+        "ansible": 3,
+        "servicenow": 1,
+        "relay": 1
+    },
+    "fullstack labs": {
+        "python": 12,
+        "accuracy": 9,
+        "agile": 6
+    },
+    "donato technologies, inc.": {
+        "python": 15,
+        "aws": 6,
+        "sql": 6,
+        "java": 3,
+        "angular": 1
+    },
+    "jpmorgan chase & co.": {
+        "agile": 6,
+        "java": 6,
+        "python": 6,
+        "aws": 4,
+        "javascript": 3,
+        "react": 3,
+        "sql": 3,
+        "scikit-learn": 3,
+        "scrum": 2
+    },
+    "purple drive technologies": {
+        "python": 13,
+        "sql": 6,
+        "aws": 3,
+        "git": 3,
+        "docker": 2,
+        "flask": 1,
+        "node.js": 1,
+        "matplotlib": 1
+    },
+    "chase- candidate experience page": {
+        "spring": 9,
+        "python": 8,
+        "agile": 5,
+        "aws": 4,
+        "java": 3,
+        "javascript": 3,
+        "scrum": 3,
+        "react": 3,
+        "sql": 3,
+        "mongodb": 3,
+        "jenkins": 3,
+        "rest": 3,
+        "subversion": 3,
+        "kubernetes": 3,
+        "cassandra": 3,
+        "apache": 2,
+        "pandas": 1,
+        "numpy": 1
+    },
+    "callibus inc": {
+        "python": 15,
+        "accuracy": 15,
+        "tableau": 6,
+        "apache": 6
+    },
+    "jpmorgan chase & co": {
+        "python": 9,
+        "agile": 9,
+        "devops": 7,
+        "java": 4,
+        "selenium": 3,
+        "jenkins": 3,
+        "splunk": 3,
+        "scrum": 3,
+        "sql": 3,
+        "sdlc": 2,
+        "django": 2,
+        "mysql": 2,
+        "gradle": 2,
+        "chef": 2,
+        "puppet": 2,
+        "groovy": 2,
+        "box": 2,
+        "datadog": 2,
+        "linux": 2,
+        "react": 1,
+        "line": 1,
+        "docker": 1
+    },
+    "steneral consulting": {
+        "python": 32,
+        "aws": 15,
+        "react": 6,
+        "sql": 6,
+        "json": 4,
+        "linux": 3,
+        "flask": 2,
+        "git": 2,
+        "go": 1,
+        "jquery": 1,
+        "agile": 1,
+        "line": 1
+    },
+    "securepro-inc": {
+        "python": 18
+    },
+    "burtch works": {
+        "windows": 9,
+        "python": 9,
+        "css3": 7,
+        "rest": 7,
+        "html": 7,
+        "java": 7,
+        "django": 6,
+        "agile": 5,
+        "pl/sql": 5,
+        "angular": 5,
+        "xamarin": 4,
+        "batch": 3,
+        "c#": 3,
+        "sql": 3,
+        "css": 1
+    },
+    "ea team inc.": {
+        "python": 8,
+        "aws": 7,
+        "sql": 6,
+        "powershell": 6,
+        "pandas": 3,
+        "hadoop": 3,
+        "ansible": 3,
+        "git": 2,
+        "scala": 1,
+        "r": 1,
+        "jenkins": 1
+    },
+    "wise skulls": {
+        "python": 27,
+        "docker": 4,
+        "aks": 4,
+        "kubernetes": 4,
+        "grafana": 4,
+        "sql": 4,
+        "agile": 4,
+        "latency": 3,
+        "openshift": 3,
+        "prometheus": 3,
+        "perl": 3,
+        "linux": 3,
+        "kanban": 2
+    },
+    "apptad inc": {
+        "python": 15,
+        "linux": 10,
+        "xml": 3,
+        "agile": 2,
+        "sdlc": 2,
+        "devops": 1
+    },
+    "software technology inc.": {
+        "aws": 30,
+        "python": 18,
+        "django": 5,
+        "rest": 5,
+        "sql": 4,
+        "devops": 4,
+        "linux": 4,
+        "scheme": 3,
+        "agile": 3,
+        "eclipse": 3,
+        "shell": 3,
+        "css3": 2,
+        "docker": 2,
+        "kubernetes": 2
+    },
+    "vaco technology": {
+        "python": 21,
+        "sql": 5,
+        "pandas": 2,
+        "numpy": 2,
+        "accuracy": 2
+    },
+    "nr consulting llc": {
+        "python": 9,
+        "devops": 5,
+        "apache": 4,
+        "saltstack": 3,
+        "github": 3,
+        "linux": 3,
+        "agile": 3,
+        "git": 2,
+        "css": 2
+    },
+    "hophr": {
+        "git": 8,
+        "line": 2,
+        "python": 2
+    },
+    "ivy tech solutions inc": {
+        "sql": 12,
+        "python": 11,
+        "javascript": 3,
+        "windows": 3,
+        "apache": 2,
+        "bitbucket": 2
+    },
+    "iconma, llc": {
+        "python": 11,
+        "hadoop": 10,
+        "sql": 6,
+        "agile": 5,
+        "sdlc": 3,
+        "javascript": 3,
+        "ui": 3,
+        "java": 2,
+        "unix": 2
+    },
+    "motion recruitment partners llc": {
+        "python": 4,
+        "devops": 3,
+        "aws": 3,
+        "github": 3,
+        "c++": 1
+    },
+    "vetro tech inc": {
+        "python": 24,
+        "flask": 6,
+        "javascript": 6
+    },
+    "akina, inc.": {
+        "linux": 8,
+        "java": 7,
+        "shell": 5,
+        "unix": 4,
+        "swagger": 3,
+        "ansible": 3,
+        "git": 2,
+        "agile": 2,
+        "spring": 2,
+        "eclipse": 2,
+        "python": 2,
+        "kubernetes": 2,
+        "go": 1,
+        "pytorch": 1,
+        "prometheus": 1,
+        "grafana": 1
+    },
+    "associates systems llc": {
+        "linux": 12,
+        "shell": 6,
+        "batch": 6,
+        "ansible": 4,
+        "gitlab": 4,
+        "agile": 4,
+        "less": 3,
+        "docker": 3,
+        "devops": 3,
+        "python": 2,
+        "openshift": 2,
+        "kanban": 2,
+        "sql": 2,
+        "matlab": 2
+    },
+    "booz allen hamilton": {
+        "agile": 12,
+        "python": 7,
+        "kubernetes": 5,
+        "splunk": 4,
+        "rest": 3,
+        "soap": 3,
+        "linux": 3,
+        "spring": 3,
+        "java": 3,
+        "cassandra": 3,
+        "git": 2,
+        "docker": 2
+    },
+    "cititec talent": {
+        "python": 39,
+        "devops": 9,
+        "aws": 6
+    },
+    "apex 2000": {
+        "python": 8,
+        "sql": 6,
+        "agile": 6,
+        "pl/sql": 3,
+        "sdlc": 3,
+        "lean": 3,
+        "java": 1
+    },
+    "crossroads technologies": {
+        "angular": 12,
+        "django": 6,
+        "python": 3,
+        "android": 3,
+        "ios": 3,
+        "postgresql": 3,
+        "openstack": 3,
+        "kubernetes": 3
+    },
+    "consultnet": {
+        "python": 36,
+        "agile": 9,
+        "flask": 3,
+        "javascript": 3,
+        "aws": 2,
+        "sql": 2,
+        "redis": 2,
+        "ui": 1,
+        "react": 1,
+        "postgresql": 1
+    },
+    "arrow electronics": {
+        "python": 12,
+        "css": 8,
+        "javascript": 8,
+        "jquery": 6,
+        "crystal": 5,
+        "laravel": 5,
+        "line": 2
+    },
+    "envision technology solutions": {
+        "python": 12,
+        "aws": 8,
+        "sql": 3
+    },
+    "randstad usa": {
+        "python": 17,
+        "java": 3,
+        "agile": 1,
+        "sql": 1,
+        "go": 1
+    },
+    "bank of america corporation": {
+        "python": 34,
+        "java": 7,
+        "agile": 4,
+        "css3": 3,
+        "apache": 3,
+        "ui": 2,
+        "javascript": 2,
+        "scala": 2,
+        "foundation": 1,
+        "unix": 1
+    },
+    "advanced knowledge tech llc": {
+        "python": 15,
+        "sql": 9,
+        "rest": 3,
+        "nosql": 3,
+        "aws": 2,
+        "angular": 1
+    },
+    "tekfortune inc.": {
+        "python": 9,
+        "django": 6,
+        "flask": 6,
+        "pandas": 6,
+        "sql": 6,
+        "html5": 6,
+        "react": 4,
+        "angular": 4,
+        "javascript": 3
+    },
+    "bcforward": {
+        "python": 8,
+        "hadoop": 4,
+        "javascript": 3,
+        "ui": 3,
+        "sql": 3,
+        "devops": 3,
+        "aws": 3,
+        "kubernetes": 3,
+        "render": 2,
+        "java": 1,
+        "agile": 1,
+        "sdlc": 1,
+        "unix": 1
+    },
+    "ascii group llc": {
+        "python": 15,
+        "agile": 6,
+        "aws": 6,
+        "terraform": 6,
+        "fireeye": 5,
+        "sql": 4,
+        "go": 3,
+        "dns": 3,
+        "yaml": 3,
+        "kibana": 2,
+        "linux": 2,
+        "soc": 1
+    },
+    "radley james": {
+        "python": 17,
+        "sql": 2
+    },
+    "selby jennings": {
+        "python": 11,
+        "unix": 3
+    },
+    "creative cove inc.": {
+        "python": 9,
+        "javascript": 3,
+        "hadoop": 3,
+        "c++": 3,
+        "linux": 3,
+        "windows": 3
+    },
+    "pyramid consulting, inc": {
+        "python": 16,
+        "sql": 10,
+        "pyramid": 7,
+        "angular": 3,
+        "pl/sql": 2,
+        "flask": 2
+    },
+    "clevelcrossing": {
+        "linux": 8,
+        "shell": 8,
+        "python": 6
+    },
+    "tek ninjas consulting services": {
+        "python": 21,
+        "linux": 10,
+        "django": 3,
+        "flask": 3,
+        "javascript": 3,
+        "skype": 2
+    },
+    "inherent technologies": {
+        "python": 16,
+        "java": 10,
+        "mongodb": 10,
+        "linux": 4,
+        "sdlc": 3,
+        "routing": 3,
+        "dns": 3,
+        "javascript": 3,
+        "html": 3,
+        "xml": 3,
+        "bootstrap": 3,
+        "jquery": 3,
+        "unix": 3,
+        "shell": 3,
+        "clustering": 3,
+        "soap": 2,
+        "rest": 2,
+        "nosql": 1
+    },
+    "elajika inc": {
+        "python": 4,
+        "agile": 3,
+        "jira": 3,
+        "eclipse": 3,
+        "less": 1
+    },
+    "mhk tech inc.": {
+        "python": 12,
+        "oop": 6,
+        "docker": 4,
+        "latency": 2,
+        "agile": 2,
+        "soap": 1,
+        "java": 1,
+        "git": 1
+    },
+    "accion labs": {
+        "python": 17,
+        "git": 6,
+        "linux": 6,
+        "jira": 2,
+        "github": 2,
+        "rest": 1,
+        "flask": 1
+    },
+    "jefferson frank": {
+        "mysql": 13,
+        "aws": 8
+    },
+    "superprof": {},
+    "matrix resources": {
+        "sql": 12,
+        "python": 8,
+        "windows": 4,
+        "batch": 3,
+        "jenkins": 3
+    },
+    "smart techlink": {
+        "sql": 18,
+        "python": 14,
+        "apache": 8,
+        "postgresql": 6
+    },
+    "itbms inc.": {
+        "sql": 11,
+        "python": 7,
+        "apache": 4,
+        "postgresql": 3,
+        "hadoop": 3,
+        "go": 1,
+        "git": 1,
+        "nosql": 1
+    },
+    "cogent infotech corporation": {
+        "python": 8,
+        "sql": 4,
+        "java": 3,
+        "dynatrace": 3,
+        "docker": 3,
+        "kubernetes": 3,
+        "nosql": 3,
+        "mongodb": 3,
+        "openshift": 2
+    },
+    "accenture": {
+        "python": 6,
+        "ux": 3,
+        "ui": 3
+    },
+    "infinite computer solutions (ics)": {
+        "python": 3,
+        "java": 3,
+        "aws": 1
+    },
+    "siriusxm": {
+        "python": 11,
+        "aws": 10,
+        "redis": 8,
+        "xml": 7,
+        "sql": 5,
+        "java": 4,
+        "grafana": 3,
+        "postgresql": 3,
+        "ansible": 3,
+        "terraform": 3,
+        "json": 3,
+        "rest": 3,
+        "scala": 3,
+        "django": 2,
+        "throughput": 2,
+        "agile": 2,
+        "gcp": 2,
+        "devops": 1,
+        "go": 1
+    },
+    "confidential": {
+        "python": 5,
+        "nosql": 5,
+        "agile": 4,
+        "docker": 2,
+        "aws": 2,
+        "sql": 1,
+        "shell": 1
+    },
+    "walmart": {
+        "spring": 7,
+        "rest": 3,
+        "mockito": 3,
+        "java": 2,
+        "shell": 2,
+        "sql": 2,
+        "jenkins": 2,
+        "line": 1
+    },
+    "testingxperts": {
+        "git": 3,
+        "python": 1
+    },
+    "acquire me": {
+        "python": 6,
+        "chef": 6,
+        "line": 3
+    },
+    "randstad technologies": {
+        "python": 13,
+        "sql": 4,
+        "unix": 4,
+        "shell": 4,
+        "git": 4,
+        "jira": 3,
+        "agile": 3,
+        "jenkins": 3,
+        "java": 1
+    },
+    "kyyba, inc": {
+        "python": 12,
+        "aws": 6,
+        "sql": 3,
+        "apache": 1
+    },
+    "span.io": {
+        "python": 4,
+        "flask": 2,
+        "django": 2,
+        "shell": 2,
+        "react": 2,
+        "angular": 2,
+        "mqtt": 2,
+        "rust": 2,
+        "fossil": 2,
+        "box": 1
+    },
+    "cognizant united states, cognizant technology solutions": {
+        "ui": 3,
+        "switching": 3,
+        "routing": 3,
+        "python": 2
+    },
+    "xoriant corporation": {
+        "python": 9,
+        "react": 6,
+        "postgresql": 6,
+        "rest": 4,
+        "ruby": 2
+    },
+    "unlearn.ai": {
+        "python": 6,
+        "less": 2
+    },
+    "hired recruiters": {
+        "python": 17,
+        "react": 14,
+        "django": 5,
+        "javascript": 3,
+        "css": 3,
+        "sass": 3,
+        "sql": 2,
+        "docker": 2,
+        "ruby": 2,
+        "ui": 2,
+        "git": 2
+    },
+    "atria group llc": {
+        "python": 6,
+        "hadoop": 3,
+        "linux": 3,
+        "shell": 3,
+        "sql": 3,
+        "django": 2,
+        "html": 1,
+        "css": 1,
+        "javascript": 1,
+        "github": 1
+    },
+    "quantrics enterprises inc.": {
+        "python": 6,
+        "canvas": 4
+    },
+    "imgix": {
+        "python": 6,
+        "rest": 6
+    },
+    "sysmind llc": {
+        "python": 11,
+        "django": 3,
+        "flask": 2
+    },
+    "lore tech solutions": {
+        "java": 6,
+        "python": 3
+    },
+    "telus international": {
+        "kubernetes": 10,
+        "java": 6,
+        "docker": 6,
+        "rancher": 6
+    },
+    "caci": {
+        "devops": 2,
+        "elasticsearch": 2,
+        "sql": 2,
+        "tableau": 2,
+        "agile": 1,
+        "python": 1
+    },
+    "innova solutions usa": {
+        "python": 14,
+        "mysql": 5,
+        "linux": 4,
+        "php": 3,
+        "ui": 3,
+        "couchbase": 3,
+        "sql": 3,
+        "scrum": 2,
+        "apache": 2,
+        "line": 2
+    },
+    "hash technologies": {
+        "python": 6,
+        "javascript": 3,
+        "sql": 3,
+        "aws": 1
+    },
+    "han it staffing": {
+        "python": 12,
+        "postgresql": 9,
+        "scala": 6,
+        "json": 5,
+        "hadoop": 5,
+        "metal": 5,
+        "sql": 4,
+        "agile": 3,
+        "rest": 3,
+        "apache": 3,
+        "foundation": 3,
+        "cuda": 3,
+        "docker": 1,
+        "aws": 1
+    },
+    "willard powell": {
+        "python": 26,
+        "java": 24,
+        "linux": 22,
+        "c": 21,
+        "cassandra": 1
+    },
+    "ampcus, inc": {
+        "python": 4,
+        "linux": 3,
+        "shell": 3,
+        "devops": 1,
+        "grafana": 1,
+        "flask": 1
+    },
+    "plaxonic": {
+        "aws": 11,
+        "python": 11,
+        "agile": 3,
+        "sql": 1,
+        "java": 1
+    },
+    "gelfand, rennert & feldman, llc": {
+        "sql": 10,
+        "matplotlib": 6,
+        "scikit-learn": 6,
+        "json": 4,
+        "python": 2,
+        "sdlc": 2
+    },
+    "ccube": {
+        "aws": 6,
+        "sql": 6,
+        "python": 6
+    },
+    "jpmorgan chase": {
+        "spring": 9,
+        "agile": 5,
+        "python": 4,
+        "aws": 3,
+        "sql": 3,
+        "apache": 2,
+        "subversion": 2,
+        "cassandra": 1
+    },
+    "phoenix recruitment llc": {
+        "python": 18,
+        "django": 15,
+        "react": 11,
+        "mysql": 4,
+        "rest": 3,
+        "aws": 2
+    },
+    "verimatrix": {
+        "python": 2,
+        "java": 2,
+        "aws": 2,
+        "linux": 2,
+        "docker": 2,
+        "git": 2,
+        "apache": 2,
+        "cloudformation": 2,
+        "soap": 2,
+        "rest": 2,
+        "sql": 2,
+        "nosql": 2
+    },
+    "jobs for humanity": {
+        "tableau": 16,
+        "c": 3,
+        "python": 3,
+        "unix": 2
+    },
+    "system edge (usa) l.l.c.": {
+        "aws": 20,
+        "typescript": 6,
+        "graphql": 6,
+        "sql": 2,
+        "github": 2,
+        "docker": 2,
+        "apache": 2,
+        "python": 2
+    },
+    "servicenow": {
+        "servicenow": 8,
+        "python": 7,
+        "linux": 6,
+        "docker": 6,
+        "kubernetes": 6,
+        "agile": 4,
+        "c#": 4,
+        "react": 4,
+        "devops": 2,
+        "gitlab": 2,
+        "git": 2
+    },
+    "hexaware technologies": {
+        "python": 14,
+        "aws": 14,
+        "java": 6,
+        "apache": 6,
+        "hadoop": 6,
+        "logstash": 4,
+        "cloudwatch": 4,
+        "rest": 4,
+        "graphql": 4,
+        "nosql": 4,
+        "hibernate": 4,
+        "devops": 4,
+        "ping": 4,
+        "batch": 4,
+        "unix": 4
+    },
+    "apptad inc.": {
+        "aws": 13,
+        "python": 12,
+        "sql": 9,
+        "gitlab": 5,
+        "agile": 4,
+        "apache": 3,
+        "unix": 3,
+        "github": 3,
+        "batch": 2,
+        "devops": 1
+    },
+    "e-it": {
+        "python": 9,
+        "aws": 8,
+        "pandas": 3,
+        "java": 3,
+        "sql": 3,
+        "rest": 1
+    },
+    "lorven technologies": {
+        "aws": 12,
+        "agile": 8,
+        "spring": 7,
+        "scrum": 7,
+        "java": 6,
+        "rest": 6,
+        "python": 5,
+        "nosql": 3,
+        "angular": 3,
+        "html": 3,
+        "css": 3,
+        "openshift": 2,
+        "ant": 2,
+        "terraform": 2,
+        "safe": 2,
+        "jira": 2,
+        "sdlc": 2,
+        "git": 1,
+        "batch": 1,
+        "gradle": 1
+    },
+    "pyramid consulting, inc.": {
+        "aws": 10,
+        "agile": 8,
+        "python": 5,
+        "angular": 3,
+        "devops": 3,
+        "pyramid": 2,
+        "sql": 1,
+        "react": 1
+    },
+    "raps consulting inc": {
+        "python": 8,
+        "aws": 4,
+        "nosql": 3,
+        "go": 2,
+        "devops": 2,
+        "c#": 2
+    },
+    "pyramid consulting": {
+        "python": 10,
+        "sql": 7,
+        "agile": 6,
+        "pandas": 3,
+        "scipy": 3,
+        "unix": 3,
+        "bash": 3,
+        "angular": 3,
+        "t-sql": 2,
+        "aws": 2,
+        "pyramid": 1
+    },
+    "inspyr solutions": {
+        "python": 18,
+        "agile": 2,
+        "docker": 2,
+        "kubernetes": 2,
+        "unix": 1,
+        "javascript": 1,
+        "sql": 1,
+        "nosql": 1
+    },
+    "stellar professionals": {
+        "python": 5,
+        "devops": 4,
+        "aws": 4,
+        "django": 3,
+        "sql": 3,
+        "css3": 2
+    },
+    "expedite technology solutions": {
+        "python": 19,
+        "django": 6,
+        "javascript": 4,
+        "angular": 3,
+        "rest": 3,
+        "html": 3,
+        "postgresql": 3,
+        "linux": 2,
+        "soap": 2,
+        "postman": 2,
+        "aws": 2,
+        "mysql": 2,
+        "tensorflow": 1
+    },
+    "ittconnect": {
+        "python": 7,
+        "aws": 7,
+        "pl/sql": 3,
+        "rest": 3,
+        "scrum": 3,
+        "neo4j": 3,
+        "sql": 3,
+        "java": 2
+    },
+    "advocate aurora health": {
+        "python": 22,
+        "sql": 12,
+        "aws": 6,
+        "agile": 6,
+        "rest": 3,
+        "git": 2,
+        "scrum": 1
+    },
+    "techtammina llc": {
+        "python": 11,
+        "sql": 10,
+        "t-sql": 4,
+        "windows": 4,
+        "pandas": 3,
+        "numpy": 3,
+        "soap": 2,
+        "rest": 2
+    },
+    "brilliant infotech": {
+        "python": 9,
+        "boosting": 5,
+        "clustering": 3,
+        "tensorflow": 3,
+        "bootstrap": 3,
+        "django": 3,
+        "aws": 3,
+        "nosql": 2,
+        "matplotlib": 2,
+        "pandas": 2,
+        "r": 2,
+        "scipy": 2,
+        "scikit-learn": 2,
+        "regularization": 2,
+        "agile": 2,
+        "flask": 1,
+        "dash": 1,
+        "github": 1
+    },
+    "algo capital group": {
+        "python": 11,
+        "c++": 6,
+        "linux": 3,
+        "numpy": 2
+    },
+    "amvotech solutions inc": {},
+    "alldus": {
+        "python": 12,
+        "flask": 6
+    },
+    "advanced us technology group": {
+        "aws": 18,
+        "python": 14,
+        "sql": 6,
+        "devops": 6
+    },
+    "drw": {
+        "python": 14,
+        "linux": 8,
+        "java": 3,
+        "c": 3
+    },
+    "1872 consulting": {
+        "python": 16,
+        "angular": 6,
+        "react": 6,
+        "agile": 5,
+        "django": 3,
+        "flask": 3,
+        "rest": 3,
+        "less": 3,
+        "scrum": 2,
+        "mysql": 2,
+        "devops": 2
+    },
+    "mmi": {
+        "python": 11,
+        "java": 5,
+        "sql": 4,
+        "perl": 3,
+        "linux": 3,
+        "ansible": 2,
+        "go": 2,
+        "hadoop": 1,
+        "github": 1,
+        "tornado": 1,
+        "jenkins": 1,
+        "git": 1,
+        "c": 1,
+        "c++": 1
+    },
+    "tellus solutions": {
+        "python": 6,
+        "r": 3,
+        "plotly": 3,
+        "perl": 2,
+        "throughput": 2,
+        "javascript": 2,
+        "sql": 1
+    },
+    "virtualvocations": {
+        "python": 3,
+        "ruby": 3
+    },
+    "technology navigators": {
+        "python": 9,
+        "sql": 6,
+        "linux": 3,
+        "shell": 2,
+        "metal": 1
+    },
+    "raytheon technologies": {
+        "python": 15,
+        "aws": 13,
+        "agile": 5,
+        "django": 3,
+        "flask": 3,
+        "mysql": 2,
+        "devops": 2,
+        "sql": 2,
+        "safe": 2,
+        "rest": 1,
+        "nosql": 1,
+        "git": 1,
+        "javascript": 1,
+        "docker": 1
+    },
+    "proit inc.": {
+        "python": 9,
+        "aws": 8,
+        "sdlc": 3,
+        "devops": 3,
+        "jenkins": 3,
+        "javascript": 2,
+        "postgresql": 1,
+        "agile": 1
+    },
+    "wipro limited": {
+        "python": 3,
+        "json": 3,
+        "docker": 3,
+        "git": 3,
+        "linux": 3,
+        "rest": 2,
+        "trace": 2,
+        "cassandra": 1,
+        "apache": 1,
+        "teamcity": 1,
+        "foundation": 1,
+        "throughput": 1
+    },
+    "konviere corporation": {},
+    "#twiceasnice recruiting": {
+        "python": 18,
+        "git": 4
+    },
+    "hallmark": {
+        "sql": 12,
+        "python": 6,
+        "rest": 2
+    },
+    "sohumsystems": {
+        "rest": 12,
+        "git": 6,
+        "selenium": 6,
+        "appium": 6
+    },
+    "sirius xm radio, inc.": {
+        "agile": 8,
+        "python": 8,
+        "batch": 6,
+        "sql": 6
+    },
+    "american century companies, inc.": {
+        "aws": 22,
+        "agile": 10,
+        "sdlc": 6,
+        "devops": 4,
+        "python": 2
+    },
+    "turing": {
+        "python": 2,
+        "aws": 1
+    },
+    "capital solutions group": {
+        "python": 8,
+        "malware": 3,
+        "json": 3,
+        "redis": 1,
+        "nginx": 1,
+        "rest": 1,
+        "selenium": 1
+    },
+    "cantada": {
+        "signal": 6,
+        "python": 2
+    },
+    "applied insight limited": {
+        "python": 12,
+        "rest": 12,
+        "docker": 6,
+        "agile": 6,
+        "git": 6,
+        "devops": 1
+    },
+    "parallel partners": {
+        "python": 18,
+        "java": 11,
+        "aws": 11,
+        "perl": 6,
+        "git": 5,
+        "linux": 3,
+        "unix": 3,
+        "batch": 3,
+        "terraform": 3,
+        "agile": 3,
+        "spring": 2,
+        "eclipse": 2,
+        "shell": 2,
+        "devops": 1
+    },
+    "latitude, inc.": {
+        "linux": 5,
+        "agile": 5,
+        "python": 4,
+        "sql": 2,
+        "neo4j": 2,
+        "batch": 2,
+        "dask": 2,
+        "java": 1,
+        "rest": 1
+    },
+    "vrk it vision inc.": {
+        "aws": 11,
+        "python": 7,
+        "angular": 3,
+        "nosql": 3,
+        "rest": 3,
+        "linux": 2,
+        "sql": 2,
+        "kotlin": 1,
+        "github": 1,
+        "devops": 1
+    },
+    "latitude inc": {
+        "c++": 8,
+        "python": 8,
+        "agile": 6,
+        "linux": 6
+    },
+    "shiftcode analytics inc.": {
+        "python": 5,
+        "aws": 5,
+        "agile": 3,
+        "sql": 3,
+        "react": 3,
+        "sdlc": 2
+    },
+    "fidelity investments careers": {
+        "python": 12,
+        "sql": 8,
+        "java": 4,
+        "c#": 4,
+        "linux": 4,
+        "pandas": 2,
+        "windows": 2,
+        "go": 2,
+        "nosql": 2,
+        "less": 1,
+        "devops": 1
+    },
+    "ceres group": {
+        "python": 18,
+        "pandas": 9,
+        "linux": 6,
+        "sql": 4,
+        "jenkins": 2
+    },
+    "blacktree technical group, inc.": {
+        "python": 6,
+        "c++": 6,
+        "github": 2
+    },
+    "intone networks": {
+        "sql": 10,
+        "python": 8,
+        "tableau": 3,
+        "linux": 3,
+        "unix": 3,
+        "agile": 2,
+        "java": 2,
+        "splunk": 2
+    },
+    "roberts recruiting, llc": {
+        "aws": 5,
+        "python": 4
+    },
+    "utilidata": {
+        "python": 4,
+        "nexus": 1,
+        "numpy": 1
+    },
+    "mindteck": {
+        "aws": 6,
+        "unix": 6,
+        "apache": 6,
+        "nosql": 4,
+        "jenkins": 4,
+        "agile": 4
+    },
+    "recruiting from scratch": {
+        "python": 10
+    },
+    "veritis group inc": {
+        "python": 4,
+        "aws": 2
+    },
+    "synkriom inc": {
+        "python": 4,
+        "r": 2
+    },
+    "edvenswa tech pvt ltd": {
+        "python": 14,
+        "sql": 6,
+        "go": 2,
+        "react": 2,
+        "ruby": 2,
+        "java": 2
+    },
+    "target": {
+        "hadoop": 3,
+        "go": 3,
+        "typescript": 3,
+        "linux": 2
+    },
+    "primus global services, inc": {
+        "python": 6,
+        "powershell": 6
+    },
+    "concord usa": {
+        "python": 12,
+        "openshift": 4,
+        "aws": 2
+    },
+    "resource logistics, inc.": {
+        "python": 12,
+        "aws": 11,
+        "cloudformation": 3,
+        "devops": 2,
+        "agile": 2,
+        "java": 1,
+        "angular": 1
+    },
+    "next level business services, inc.": {
+        "python": 26,
+        "r": 12
+    },
+    "sa technologies inc.": {
+        "python": 9,
+        "java": 4,
+        "ui": 3,
+        "agile": 3,
+        "jenkins": 3,
+        "ant": 3,
+        "maven": 3,
+        "xml": 2,
+        "jython": 2,
+        "weblogic": 2,
+        "sdlc": 2
+    },
+    "buki": {
+        "c": 3,
+        "python": 2
+    },
+    "pacific northwest national laboratory": {
+        "python": 10,
+        "scala": 3,
+        "mongodb": 3,
+        "numpy": 3,
+        "agile": 2,
+        "scrum": 2,
+        "aws": 2,
+        "splunk": 1
+    },
+    "datafactz": {
+        "python": 2
+    },
+    "telnet inc.": {
+        "python": 9,
+        "django": 3,
+        "flask": 3,
+        "css": 3,
+        "jenkins": 3,
+        "jira": 3,
+        "sql": 3,
+        "aws": 2,
+        "kubernetes": 2
+    },
+    "gallup": {
+        "python": 8,
+        "aws": 4,
+        "java": 2,
+        "django": 2,
+        "flask": 2,
+        "scikit-learn": 2,
+        "jira": 2
+    },
+    "elementary robotics": {
+        "python": 10,
+        "redis": 10,
+        "fastapi": 5,
+        "postgresql": 5,
+        "docker": 5,
+        "aws": 5,
+        "less": 1
+    },
+    "dataaxxis": {
+        "sql": 28,
+        "python": 16,
+        "git": 8,
+        "jira": 8,
+        "numpy": 3,
+        "pandas": 2
+    },
+    "mavinsys": {
+        "python": 3,
+        "angular": 2,
+        "css": 1
+    },
+    "randstad north america, inc.": {
+        "python": 8
+    },
+    "synkriom": {
+        "python": 4,
+        "ui": 3,
+        "typescript": 3
+    },
+    "agile tech labs": {
+        "python": 9,
+        "sql": 5,
+        "unix": 3,
+        "shell": 3,
+        "agile": 3,
+        "apache": 2
+    },
+    "wipro": {
+        "python": 14,
+        "nosql": 6,
+        "rest": 6,
+        "tableau": 4,
+        "git": 4,
+        "agile": 4
+    },
+    "verdant infotech solutions": {
+        "python": 11,
+        "django": 4,
+        "line": 4,
+        "ui": 4,
+        "angular": 4,
+        "react": 4,
+        "apache": 3,
+        "tomcat": 3,
+        "sql": 3,
+        "go": 3,
+        "oop": 3,
+        "nosql": 2,
+        "json": 2,
+        "flask": 1,
+        "linux": 1,
+        "windows": 1,
+        "powershell": 1
+    },
+    "veterans sourcing group, llc": {
+        "python": 10,
+        "rest": 5,
+        "java": 5,
+        "docker": 3,
+        "kubernetes": 3,
+        "react": 3,
+        "ui": 3,
+        "agile": 2
+    },
+    "consultadd inc.": {
+        "python": 10
+    },
+    "zenotis": {
+        "python": 14,
+        "django": 12,
+        "linux": 6,
+        "sql": 6,
+        "bash": 6,
+        "git": 6,
+        "agile": 4,
+        "docker": 2
+    },
+    "brown brothers harriman & co.": {
+        "python": 22,
+        "django": 18,
+        "plotly": 18,
+        "agile": 6,
+        "javascript": 6,
+        "sql": 4,
+        "dash": 4,
+        "foundation": 1
+    },
+    "ghritachi inc": {
+        "sql": 5,
+        "python": 5,
+        "maven": 3,
+        "django": 2,
+        "flask": 2,
+        "pandas": 2
+    },
+    "akkodis": {
+        "python": 9,
+        "aws": 7,
+        "mysql": 6,
+        "sql": 5,
+        "agile": 2,
+        "django": 2,
+        "json": 2,
+        "devops": 1
+    },
+    "aptino": {
+        "python": 12,
+        "aws": 8,
+        "typescript": 6,
+        "java": 2,
+        "rest": 2,
+        "spring": 2
+    },
+    "tekshapers inc": {
+        "django": 12,
+        "rest": 5,
+        "angular": 4,
+        "java": 3,
+        "terraform": 3,
+        "jasmine": 3,
+        "cucumber": 3,
+        "selenium": 3,
+        "sql": 3,
+        "react": 1,
+        "agile": 1,
+        "jira": 1,
+        "python": 1
+    },
+    "swift technologies inc": {
+        "sql": 3,
+        "python": 1
+    },
+    "spanco solutions": {
+        "python": 8,
+        "java": 5,
+        "agile": 3,
+        "oop": 2,
+        "sql": 2,
+        "perl": 2,
+        "pl/sql": 1,
+        "spring": 1,
+        "sdlc": 1,
+        "t-sql": 1
+    },
+    "sciprex": {
+        "python": 5,
+        "angular": 3,
+        "agile": 2,
+        "css": 1
+    },
+    "initech software services ltd": {
+        "aws": 6
+    },
+    "experienced recruiting partners": {
+        "python": 18,
+        "sql": 6,
+        "grpc": 6,
+        "aws": 4,
+        "devops": 4,
+        "linux": 4
+    },
+    "steneral consulting inc": {
+        "aws": 8,
+        "python": 7,
+        "sql": 6,
+        "c#": 4,
+        "selenium": 3,
+        "nosql": 3,
+        "java": 3,
+        "agile": 3,
+        "angular": 3,
+        "jmeter": 2,
+        "apache": 2,
+        "javascript": 2,
+        "shell": 2,
+        "sdlc": 2,
+        "go": 1,
+        "jenkins": 1,
+        "ui": 1,
+        "vault": 1
+    },
+    "piper companies": {
+        "python": 13,
+        "bash": 4,
+        "go": 3,
+        "linux": 3,
+        "windows": 3,
+        "javascript": 2,
+        "github": 2,
+        "openstack": 1
+    },
+    "ion group": {
+        "python": 30,
+        "agile": 8,
+        "django": 3,
+        "java": 1
+    },
+    "elite hedge fund": {
+        "python": 11,
+        "gpt": 10,
+        "react": 1
+    },
+    "maven": {
+        "go": 3,
+        "java": 2
+    },
+    "thurn partners": {
+        "python": 5
+    },
+    "gelfand rennert & feldman": {
+        "sql": 10,
+        "matplotlib": 6,
+        "scikit-learn": 6,
+        "json": 4,
+        "python": 2,
+        "sdlc": 2
+    },
+    "it minds llc": {
+        "python": 7,
+        "java": 3,
+        "django": 3,
+        "aws": 2
+    },
+    "atlantic partners corporation": {
+        "aws": 7,
+        "python": 3,
+        "rad": 1,
+        "sql": 1,
+        "linux": 1
+    },
+    "psrtek": {
+        "python": 13,
+        "aws": 7,
+        "devops": 3,
+        "sql": 3,
+        "accuracy": 2
+    },
+    "tti of usa, inc.": {
+        "spring": 15,
+        "nosql": 5,
+        "devops": 5,
+        "agile": 5,
+        "scrum": 5,
+        "python": 4,
+        "java": 4,
+        "sql": 2
+    },
+    "talener": {
+        "python": 16,
+        "devops": 11,
+        "aws": 7,
+        "kubernetes": 4,
+        "sdlc": 3,
+        "terraform": 3,
+        "docker": 1
+    },
+    "ally": {
+        "python": 8,
+        "dash": 6,
+        "javascript": 6,
+        "devops": 6,
+        "git": 4,
+        "aws": 2
+    },
+    "compunnel software": {
+        "python": 16,
+        "sql": 9,
+        "spring": 4,
+        "rest": 3,
+        "agile": 3,
+        "svn": 3,
+        "r": 3,
+        "numpy": 2,
+        "mvc": 2,
+        "aws": 2,
+        "linux": 2,
+        "django": 1,
+        "java": 1
+    },
+    "cloudious llc": {
+        "python": 16,
+        "hadoop": 6
+    },
+    "empower professionals": {
+        "python": 18,
+        "ansible": 8,
+        "unix": 6,
+        "shell": 6,
+        "agile": 6,
+        "cg": 2
+    },
+    "intersources inc.": {
+        "python": 11,
+        "agile": 1,
+        "svn": 1
+    },
+    "tms": {
+        "python": 28,
+        "agile": 6,
+        "numpy": 5,
+        "rest": 4,
+        "spring": 4,
+        "svn": 3,
+        "git": 3,
+        "mvc": 2
+    },
+    "vanguard": {
+        "aws": 9,
+        "sql": 3,
+        "github": 3,
+        "react": 3,
+        "agile": 3,
+        "python": 3,
+        "go": 3,
+        "nosql": 3,
+        "devops": 3,
+        "accuracy": 2
+    },
+    "clifyx": {
+        "python": 8,
+        "spring": 2,
+        "line": 2,
+        "agile": 1,
+        "numpy": 1,
+        "rest": 1,
+        "mvc": 1
+    },
+    "insight global, llc": {
+        "python": 14,
+        "oop": 3,
+        "fastapi": 3,
+        "hadoop": 3,
+        "sql": 3
+    },
+    "apex systems": {
+        "python": 12,
+        "sql": 6,
+        "pandas": 6
+    },
+    "compunnel inc.": {
+        "less": 7,
+        "gcp": 6,
+        "java": 3,
+        "javascript": 3,
+        "angular": 3,
+        "aws": 3,
+        "agile": 3,
+        "python": 1
+    },
+    "tek ninjas": {
+        "python": 23,
+        "spring": 6,
+        "pandas": 4,
+        "numpy": 4,
+        "sql": 4,
+        "flask": 4,
+        "bash": 3,
+        "shell": 3,
+        "apache": 3,
+        "elasticsearch": 3,
+        "agile": 2,
+        "scrum": 1
+    },
+    "usm": {
+        "perl": 7,
+        "unix": 6,
+        "java": 4,
+        "windows": 3,
+        "python": 2,
+        "sdlc": 2,
+        "line": 1
+    },
+    "miracle software systems, inc": {
+        "python": 10,
+        "kubernetes": 9,
+        "graphql": 7,
+        "aks": 1
+    },
+    "phasorsoft llc": {
+        "python": 6,
+        "fastapi": 3,
+        "sql": 3,
+        "linux": 3,
+        "docker": 3
+    },
+    "proteam solutions": {
+        "sql": 12,
+        "nosql": 4
+    },
+    "addison group": {
+        "aws": 8,
+        "python": 6,
+        "flask": 3,
+        "sql": 3,
+        "agile": 2,
+        "javascript": 2,
+        "ruby": 1
+    },
+    "netresolute inc": {
+        "python": 10,
+        "scrum": 2,
+        "agile": 2,
+        "css3": 2,
+        "git": 2,
+        "sql": 2
+    },
+    "ayr global it solutions inc": {
+        "python": 13,
+        "java": 6,
+        "linux": 3,
+        "rest": 3,
+        "spring": 3,
+        "django": 2,
+        "nosql": 2,
+        "mvc": 2,
+        "jquery": 2,
+        "hadoop": 2,
+        "ui": 1,
+        "json": 1,
+        "jupyter": 1,
+        "jenkins": 1
+    },
+    "tektalent inc": {
+        "python": 9,
+        "ui": 7,
+        "javascript": 6,
+        "sql": 6,
+        "git": 5,
+        "devops": 4,
+        "rest": 4,
+        "angular": 3,
+        "linux": 3,
+        "shell": 3,
+        "debian": 3,
+        "ubuntu": 3,
+        "perl": 2
+    },
+    "comcast": {
+        "python": 10,
+        "agile": 9,
+        "c": 3,
+        "c++": 3
+    },
+    "clifyx.com": {
+        "python": 6,
+        "flask": 3,
+        "aws": 2,
+        "tableau": 1
+    },
+    "iq inc.": {
+        "python": 13,
+        "django": 7,
+        "trace": 3,
+        "batch": 3,
+        "qt": 2,
+        "linux": 1,
+        "agile": 1
+    },
+    "yinzcam, inc.": {
+        "django": 30,
+        "python": 6,
+        "ui": 6,
+        "xml": 6,
+        "json": 4,
+        "r": 3
+    },
+    "scientific research corporation": {
+        "python": 18,
+        "mysql": 3,
+        "postgresql": 3
+    },
+    "lokesh": {
+        "aws": 16,
+        "python": 10,
+        "sql": 6,
+        "agile": 3,
+        "r": 3,
+        "fly": 1
+    },
+    "effone software inc": {
+        "python": 22,
+        "r": 10,
+        "flask": 6,
+        "javascript": 4,
+        "scikit-learn": 4
+    },
+    "sonsoft inc": {
+        "python": 12,
+        "foundation": 6
+    },
+    "nucamp": {
+        "python": 10,
+        "sql": 4
+    },
+    "convene technologies": {
+        "python": 5,
+        "rest": 3,
+        "ansible": 3,
+        "git": 3,
+        "erlang": 1
+    },
+    "visionaire partners": {
+        "python": 6,
+        "react": 5,
+        "aws": 3
+    },
+    "millenniumsoft": {
+        "python": 3
+    },
+    "m3bi, llc.": {
+        "python": 1
+    },
+    "intel": {
+        "python": 4,
+        "sql": 4
+    },
+    "nr consulting": {
+        "shell": 3,
+        "python": 1
+    },
+    "comcentric": {
+        "sql": 5,
+        "python": 5
+    },
+    "multus medical": {
+        "c++": 5,
+        "python": 4,
+        "javascript": 3,
+        "rest": 3,
+        "aws": 3,
+        "docker": 3,
+        "mongodb": 3,
+        "render": 3,
+        "git": 2
+    },
+    "cogent infotech": {
+        "java": 3
+    },
+    "judge group llc the": {
+        "python": 7,
+        "sql": 6,
+        "windows": 3,
+        "batch": 3,
+        "less": 2,
+        "jenkins": 2
+    },
+    "centene corporation": {
+        "python": 7,
+        "sql": 3
+    },
+    "brillio": {
+        "python": 8,
+        "react": 3,
+        "javascript": 3
+    },
+    "agreeya solutions": {
+        "python": 6,
+        "linux": 3,
+        "scrum": 2
+    },
+    "american express": {
+        "agile": 4,
+        "rest": 2,
+        "javascript": 2,
+        "kotlin": 1,
+        "ui": 1,
+        "nosql": 1,
+        "safe": 1
+    },
+    "resolvit, llc.": {
+        "python": 5
+    },
+    "eteam": {
+        "django": 3,
+        "postgresql": 3,
+        "docker": 3,
+        "git": 3,
+        "puppet": 3
+    },
+    "whopper technologies": {
+        "python": 3
+    },
+    "tequent inc": {
+        "linux": 6,
+        "switching": 3,
+        "react": 3,
+        "ansible": 3,
+        "go": 2
+    },
+    "encora digital inc": {
+        "django": 13,
+        "python": 3,
+        "json": 3,
+        "jquery": 3,
+        "karma": 3,
+        "aws": 2
+    },
+    "advinow medical": {
+        "python": 8,
+        "django": 8,
+        "git": 5,
+        "docker": 1,
+        "datadog": 1
+    },
+    "career guidant": {
+        "soap": 4,
+        "java": 3,
+        "spring": 3,
+        "nosql": 3,
+        "python": 3,
+        "sql": 2,
+        "render": 1,
+        "ui": 1,
+        "sdlc": 1,
+        "waterfall": 1,
+        "agile": 1
+    },
+    "mindwave solutions": {
+        "java": 3,
+        "postgresql": 3,
+        "unix": 2,
+        "aws": 1
+    },
+    "renaissance learning": {
+        "sql": 6,
+        "python": 3,
+        "aws": 2,
+        "apache": 2,
+        "docker": 2,
+        "agile": 2,
+        "devops": 2
+    },
+    "tmedia business solution": {
+        "python": 5,
+        "rest": 3,
+        "nosql": 3
+    },
+    "hire it people, inc": {
+        "python": 3,
+        "devops": 3,
+        "gitlab": 3
+    },
+    "codesbright": {
+        "python": 12,
+        "django": 3,
+        "agile": 3,
+        "css": 3,
+        "html": 3,
+        "javascript": 2
+    },
+    "thirdeye data": {
+        "python": 10,
+        "dash": 6,
+        "plotly": 5,
+        "sql": 5
+    },
+    "helix tech it solution": {
+        "python": 8,
+        "react": 3,
+        "mysql": 3,
+        "sql": 2,
+        "c++": 1,
+        "java": 1
+    },
+    "harbor ucla medical center - lundquist institute": {
+        "python": 1,
+        "pytorch": 1
+    },
+    "plai labs": {
+        "django": 7,
+        "python": 6,
+        "flask": 3,
+        "rest": 3,
+        "postgresql": 3,
+        "gcp": 3,
+        "sql": 2,
+        "ios": 1,
+        "devops": 1
+    },
+    "e-solutions": {
+        "python": 5,
+        "fastapi": 3,
+        "agile": 3,
+        "gcp": 3,
+        "rest": 3,
+        "soap": 2
+    },
+    "hikinex": {
+        "agile": 3,
+        "javascript": 3,
+        "nosql": 3
+    },
+    "gradient effects llc": {
+        "shell": 1,
+        "linux": 1
+    },
+    "kibo": {
+        "django": 6,
+        "python": 4,
+        "agile": 4,
+        "rest": 3
+    },
+    "103": {
+        "react": 4,
+        "python": 3,
+        "django": 3,
+        "rest": 3,
+        "kubernetes": 1,
+        "terraform": 1,
+        "apache": 1,
+        "node.js": 1,
+        "aws": 1,
+        "cypress": 1
+    },
+    "redolent infotech pvt. ltd.": {
+        "django": 13,
+        "python": 8,
+        "devops": 3,
+        "rest": 2,
+        "kubernetes": 2,
+        "sonarqube": 1
+    },
+    "shein technology llc": {
+        "elasticsearch": 3,
+        "agile": 3,
+        "devops": 3,
+        "apache": 2,
+        "gcp": 2,
+        "batch": 1,
+        "hadoop": 1
+    },
+    "arete associates": {
+        "box": 1
+    },
+    "veracity software inc": {
+        "react": 5,
+        "python": 4,
+        "django": 3,
+        "rest": 3,
+        "kubernetes": 1,
+        "terraform": 1,
+        "apache": 1,
+        "node.js": 1,
+        "aws": 1,
+        "cypress": 1
+    },
+    "reli. - 4.8": {
+        "python": 3,
+        "pandas": 1
+    },
+    "emonics academy - 4.6": {
+        "java": 3,
+        "python": 2
+    },
+    "teksystems c/o allegis group": {
+        "python": 4,
+        "oop": 3,
+        "aws": 3,
+        "sql": 3
+    },
+    "resource informatics group, inc": {
+        "aws": 4,
+        "python": 3,
+        "java": 1,
+        "devops": 1
+    },
+    "sony playstation": {
+        "c#": 4,
+        "python": 1,
+        "c++": 1,
+        "ui": 1,
+        "javascript": 1,
+        "line": 1
+    },
+    "get it recruit - educational services": {
+        "python": 6,
+        "zoom": 2
+    },
+    "search solutions, llc": {
+        "python": 3,
+        "nosql": 3,
+        "javascript": 2,
+        "rest": 2,
+        "devops": 2,
+        "aws": 2,
+        "hadoop": 2,
+        "html": 2,
+        "django": 2
+    },
+    "triunity software": {
+        "python": 3,
+        "django": 3,
+        "rest": 3,
+        "react": 3,
+        "kubernetes": 3,
+        "apache": 3,
+        "node.js": 3,
+        "terraform": 1,
+        "aws": 1,
+        "cypress": 1
+    },
+    "executive staff recruiters / esr healthcare": {
+        "java": 8,
+        "spring": 6,
+        "python": 5,
+        "devops": 4
+    },
+    "springbok": {
+        "firebase": 5,
+        "python": 4,
+        "linux": 3,
+        "webrtc": 3,
+        "json": 2
+    },
+    "resource informatics group": {
+        "aws": 4,
+        "python": 3,
+        "java": 1,
+        "devops": 1
+    },
+    "datapeople": {
+        "python": 4,
+        "sql": 3,
+        "aws": 3,
+        "docker": 3
+    },
+    "hirerocket": {
+        "aws": 2,
+        "python": 1
+    },
+    "platinum resource group": {
+        "python": 14,
+        "c#": 12,
+        "sql": 6
+    },
+    "yourator": {
+        "django": 9,
+        "python": 6,
+        "git": 6,
+        "aws": 4,
+        "safe": 3,
+        "rest": 3
+    },
+    "agile staffing groups": {
+        "python": 4,
+        "unix": 3,
+        "shell": 3,
+        "sql": 3,
+        "postgresql": 2,
+        "nosql": 1,
+        "mongodb": 1,
+        "docker": 1,
+        "jest": 1,
+        "nginx": 1
+    },
+    "startechs inc.": {
+        "react": 5,
+        "devops": 4,
+        "typescript": 3,
+        "python": 3,
+        "aws": 3,
+        "django": 3,
+        "latency": 3,
+        "jira": 2
+    },
+    "clickjobz": {
+        "python": 4,
+        "aws": 3,
+        "nosql": 3
+    },
+    "valintry": {
+        "python": 10,
+        "flask": 3,
+        "nosql": 3,
+        "sql": 3,
+        "rest": 2,
+        "linux": 2
+    },
+    "agile datapro": {
+        "agile": 4,
+        "python": 4,
+        "sql": 2
+    },
+    "millenniumsoft inc": {
+        "python": 5
+    },
+    "ibm": {
+        "ui": 5,
+        "python": 4,
+        "shell": 3,
+        "yarn": 2,
+        "safe": 1
+    },
+    "myome": {
+        "python": 9,
+        "aws": 3,
+        "devops": 2
+    },
+    "world wide technology": {
+        "python": 14,
+        "linux": 6,
+        "windows": 3,
+        "sql": 3,
+        "git": 3,
+        "tcp/ip": 3,
+        "django": 2,
+        "rest": 2
+    },
+    "socialify world, inc": {
+        "python": 10,
+        "flask": 3,
+        "javascript": 3
+    },
+    "nitor infotech": {
+        "python": 6,
+        "sql": 5,
+        "devops": 3,
+        "graphql": 3,
+        "nosql": 3,
+        "django": 2,
+        "mysql": 2,
+        "apache": 2,
+        "java": 1,
+        "aws": 1,
+        "kubernetes": 1
+    },
+    "matchpoint solutions": {
+        "kubernetes": 8,
+        "python": 6,
+        "devops": 4,
+        "terraform": 4,
+        "shell": 4,
+        "gitlab": 2
+    },
+    "assemblyai": {
+        "python": 4,
+        "zoom": 1,
+        "nat": 1,
+        "batch": 1
+    },
+    "wallarm": {
+        "python": 9,
+        "ruby": 4,
+        "linux": 3,
+        "http": 3,
+        "kubernetes": 2,
+        "devops": 1,
+        "react": 1,
+        "c": 1,
+        "aws": 1,
+        "redis": 1
+    },
+    "signin solutions inc.": {
+        "python": 4,
+        "django": 3,
+        "pyramid": 3,
+        "json": 3,
+        "mysql": 3,
+        "encryption": 3,
+        "flask": 2
+    },
+    "intelliswift inc": {
+        "ios": 4,
+        "android": 4,
+        "go": 1
+    },
+    "ample, inc.": {
+        "python": 3,
+        "linux": 3,
+        "github": 3,
+        "jenkins": 1,
+        "docker": 1,
+        "c": 1,
+        "c++": 1
+    },
+    "ideahelix, inc": {
+        "devops": 3,
+        "python": 3,
+        "shell": 3,
+        "terraform": 2
+    },
+    "quality it source, llc": {
+        "sql": 7,
+        "numpy": 3,
+        "opencv": 3,
+        "scipy": 3,
+        "matplotlib": 3,
+        "pl/sql": 3,
+        "t-sql": 3,
+        "python": 1
+    },
+    "datafold": {
+        "python": 3,
+        "sql": 3,
+        "linux": 3,
+        "datadog": 1
+    },
+    "built with django": {
+        "python": 3,
+        "aws": 3
+    },
+    "central business solutions inc.": {
+        "ruby": 3,
+        "css": 3,
+        "javascript": 3,
+        "react": 2,
+        "ui": 1,
+        "python": 1,
+        "django": 1,
+        "java": 1,
+        "rest": 1,
+        "ember.js": 1
+    },
+    "ragns": {
+        "python": 6,
+        "aws": 6,
+        "java": 6,
+        "php": 6,
+        "android": 6,
+        "linux": 3,
+        "shell": 3,
+        "sql": 3,
+        "ui": 3,
+        "ios": 3,
+        "angular": 3
+    },
+    "droisys inc": {
+        "python": 10,
+        "linux": 6,
+        "windows": 2
+    },
+    "resiliency llc": {
+        "c": 9,
+        "python": 2
+    },
+    "us it solutions inc": {
+        "python": 5,
+        "git": 3,
+        "redis": 3,
+        "docker": 2,
+        "kubernetes": 1,
+        "swarm": 1
+    },
+    "global energy monitor": {
+        "django": 4,
+        "postgresql": 1,
+        "bootstrap": 1,
+        "css": 1
+    },
+    "business integra incorporated": {
+        "python": 6,
+        "flask": 3,
+        "jenkins": 3,
+        "git": 3,
+        "sql": 2,
+        "rest": 1
+    },
+    "zealtech, inc.": {
+        "python": 5,
+        "sql": 3,
+        "aws": 3,
+        "rest": 2
+    },
+    "tectammina": {
+        "python": 3,
+        "angular": 3,
+        "agile": 3,
+        "javascript": 2
+    },
+    "appic solutions": {
+        "python": 8,
+        "fastapi": 7,
+        "switching": 2
+    },
+    "element 6 solutions": {
+        "python": 5,
+        "jira": 4,
+        "agile": 2,
+        "bash": 2,
+        "linux": 2
+    },
+    "bepc inc": {
+        "python": 4,
+        "r": 3,
+        "aws": 3
+    },
+    "ivy tech solutions": {
+        "python": 12,
+        "spring": 8,
+        "angular": 6,
+        "nosql": 4,
+        "sql": 4,
+        "java": 3,
+        "docker": 1
+    },
+    "betsol": {
+        "python": 3,
+        "agile": 3,
+        "shell": 3,
+        "linux": 3,
+        "rest": 3
+    },
+    "western union": {
+        "aws": 3,
+        "agile": 1
+    },
+    "criterion systems, inc.": {
+        "python": 2,
+        "agile": 2,
+        "aws": 2,
+        "pandas": 1,
+        "devops": 1
+    },
+    "hireitpeople": {
+        "python": 5,
+        "ruby": 2
+    },
+    "sapphire digital": {
+        "agile": 6,
+        "accuracy": 3,
+        "python": 3,
+        "django": 3,
+        "tornado": 3,
+        "sql": 3,
+        "javascript": 3,
+        "git": 3,
+        "shell": 3,
+        "unix": 3,
+        "aws": 3
+    },
+    "coding dojo": {
+        "foundation": 3,
+        "python": 3,
+        "angular": 3,
+        "sql": 3
+    },
+    "devcare solutions": {
+        "python": 11,
+        "sql": 8,
+        "devops": 6
+    },
+    "stellar solutions, inc.": {
+        "python": 8,
+        "django": 5,
+        "sql": 3,
+        "javascript": 2
+    },
+    "canopyone.com": {
+        "python": 9,
+        "accuracy": 3,
+        "sql": 3,
+        "gitlab": 3,
+        "apache": 2,
+        "snmp": 2,
+        "websocket": 2,
+        "skype": 1,
+        "django": 1,
+        "nosql": 1,
+        "centos": 1,
+        "git": 1,
+        "aws": 1,
+        "ansible": 1
+    },
+    "business integra inc": {
+        "kubernetes": 5,
+        "java": 3,
+        "docker": 3,
+        "rancher": 3,
+        "python": 1
+    },
+    "leidos holding": {
+        "python": 8,
+        "agile": 3,
+        "git": 1
+    },
+    "apex-2000": {
+        "java": 7,
+        "kubernetes": 5,
+        "rancher": 4,
+        "python": 3,
+        "docker": 3
+    },
+    "bramkas inc": {
+        "python": 13,
+        "git": 3,
+        "docker": 2,
+        "kubernetes": 2,
+        "gitlab": 2,
+        "go": 1
+    },
+    "captech ventures, inc": {
+        "python": 8,
+        "aws": 8,
+        "github": 3,
+        "terraform": 2,
+        "cloudformation": 2,
+        "fairness": 1
+    },
+    "caci international": {
+        "python": 4
+    },
+    "pure integration - consulting": {
+        "nosql": 3,
+        "devops": 3,
+        "java": 2,
+        "scala": 1,
+        "aws": 1
+    },
+    "unison systems inc.": {
+        "shell": 5,
+        "python": 3,
+        "bash": 3,
+        "aws": 2,
+        "pl/sql": 1
+    },
+    "kidztopros": {
+        "python": 9
+    },
+    "coding dojo inc": {
+        "python": 8,
+        "json": 3,
+        "kotlin": 3,
+        "kibana": 1,
+        "cloudwatch": 1
+    },
+    "clientsolv technologies": {
+        "agile": 4,
+        "xml": 3,
+        "android": 3,
+        "ios": 3,
+        "scrum": 2,
+        "python": 1
+    },
+    "tanisha systems, inc": {
+        "kubernetes": 5,
+        "python": 4,
+        "java": 3,
+        "docker": 3,
+        "rancher": 3
+    },
+    "vrddhi solutions llc": {
+        "nosql": 3,
+        "devops": 2,
+        "shell": 2,
+        "python": 1,
+        "scala": 1,
+        "aws": 1
+    },
+    "bramkas. inc -": {
+        "python": 10,
+        "aws": 4,
+        "linux": 2,
+        "bash": 1,
+        "devops": 1
+    },
+    "access data consulting corp": {},
+    "kgs technology group inc": {
+        "python": 7,
+        "c++": 3,
+        "agile": 2
+    },
+    "clifyx inc": {
+        "python": 3,
+        "rest": 3,
+        "agile": 3,
+        "ansible": 2,
+        "linux": 2
+    },
+    "citizens financial group, inc.": {
+        "python": 3,
+        "scikit-learn": 3,
+        "sql": 3,
+        "agile": 2,
+        "line": 2,
+        "hadoop": 1,
+        "aws": 1
+    },
+    "willard powell, inc.": {
+        "python": 2,
+        "hadoop": 1,
+        "cassandra": 1,
+        "java": 1,
+        "agile": 1,
+        "scrum": 1
+    },
+    "prime vector consulting services llc": {
+        "python": 4,
+        "sql": 3
+    },
+    "mastech": {
+        "python": 12,
+        "linux": 3,
+        "hadoop": 3,
+        "aws": 3
+    },
+    "smart tech": {
+        "python": 5,
+        "aws": 5,
+        "xml": 3,
+        "json": 3,
+        "devops": 3,
+        "jenkins": 1,
+        "sql": 1
+    },
+    "travelers": {
+        "python": 3,
+        "eks": 1
+    },
+    "apn consulting, inc": {
+        "aws": 18,
+        "shell": 3
+    },
+    "resolvit": {
+        "python": 4
+    },
+    "the travelers companies, inc": {
+        "sql": 2,
+        "safe": 2,
+        "mongodb": 1
+    },
+    "falconsmartit": {
+        "aws": 15,
+        "python": 8,
+        "rest": 3,
+        "terraform": 3,
+        "cloudwatch": 2,
+        "http": 2,
+        "postman": 2,
+        "swagger": 2,
+        "json": 2,
+        "yaml": 2,
+        "batch": 2,
+        "splunk": 2,
+        "jenkins": 2,
+        "agile": 2,
+        "javascript": 1,
+        "git": 1,
+        "jira": 1
+    },
+    "golance": {},
+    "falcon smart it (falconsmartit)": {
+        "aws": 9,
+        "python": 5,
+        "rest": 2,
+        "terraform": 2,
+        "cloudwatch": 1,
+        "http": 1,
+        "postman": 1,
+        "swagger": 1,
+        "json": 1,
+        "yaml": 1,
+        "batch": 1,
+        "splunk": 1,
+        "jenkins": 1,
+        "agile": 1
+    },
+    "emergent365 inc": {
+        "agile": 6,
+        "python": 4
+    },
+    "izealinc.com": {
+        "docker": 8,
+        "python": 5,
+        "devops": 4,
+        "jenkins": 2,
+        "sonarqube": 2,
+        "aws": 2,
+        "typescript": 2,
+        "cloudformation": 1
+    },
+    "contriva inc.": {
+        "python": 13,
+        "mysql": 6,
+        "aws": 6,
+        "html": 3,
+        "css": 3,
+        "xml": 3,
+        "django": 3,
+        "flask": 3
+    },
+    "ascendion inc.": {
+        "batch": 3,
+        "java": 3,
+        "python": 3,
+        "safe": 3,
+        "nosql": 2
+    },
+    "k-tek resourcing llc": {
+        "aws": 3,
+        "sql": 3,
+        "python": 3
+    },
+    "10types": {
+        "r": 3,
+        "python": 1
+    },
+    "sapear limited": {
+        "aws": 6,
+        "sql": 5,
+        "python": 3
+    },
+    "people center": {
+        "batch": 6,
+        "agile": 4,
+        "nosql": 3,
+        "java": 2,
+        "python": 2,
+        "shell": 1
+    },
+    "crackajack solutions": {
+        "aws": 10,
+        "python": 5,
+        "sql": 5,
+        "batch": 2
+    },
+    "jpmorgan chase bank, n.a.": {
+        "python": 4,
+        "agile": 4,
+        "hadoop": 3,
+        "aws": 3,
+        "sql": 2
+    },
+    "siri infosolutions inc": {
+        "aws": 3,
+        "sql": 3,
+        "python": 3
+    },
+    "tanishasystems": {
+        "tableau": 6,
+        "hadoop": 3,
+        "sql": 3,
+        "line": 2
+    },
+    "iron global": {
+        "macos": 9,
+        "ios": 3,
+        "vpn": 2,
+        "bash": 1,
+        "python": 1
+    },
+    "kaygen, inc.": {
+        "aws": 12,
+        "typescript": 3,
+        "graphql": 3,
+        "github": 3,
+        "apache": 3,
+        "sql": 1,
+        "docker": 1
+    },
+    "artemis consulting, inc.": {
+        "python": 9,
+        "django": 6,
+        "agile": 5,
+        "rest": 3,
+        "elasticsearch": 2,
+        "mysql": 2
+    },
+    "millennium": {
+        "aws": 9,
+        "python": 6,
+        "devops": 4,
+        "agile": 3,
+        "pandas": 3,
+        "numpy": 3,
+        "django": 3,
+        "sql": 3,
+        "docker": 2,
+        "kubernetes": 1
+    },
+    "induci inc": {
+        "python": 8,
+        "css3": 2,
+        "mercurial": 2,
+        "svn": 1
+    },
+    "siblings software": {
+        "python": 3,
+        "encryption": 2
+    },
+    "ers search": {
+        "python": 3,
+        "git": 2,
+        "java": 1,
+        "c++": 1,
+        "spring": 1,
+        "nosql": 1,
+        "linux": 1
+    },
+    "acceler8 talent": {
+        "c++": 6,
+        "python": 6,
+        "windows": 4
+    },
+    "analytic partners": {
+        "agile": 7,
+        "scrum": 2,
+        "go": 2,
+        "python": 2,
+        "javascript": 2,
+        "pandas": 1,
+        "mysql": 1
+    },
+    "novacomp: servicios en tecnolog\u00edas de informaci\u00f3n": {
+        "python": 3,
+        "aws": 3,
+        "postgresql": 3,
+        "avro": 2
+    },
+    "luxoft": {
+        "python": 4,
+        "aws": 3
+    },
+    "lynk markets": {
+        "java": 4,
+        "spring": 4,
+        "agile": 3
+    },
+    "ibusiness funding": {
+        "python": 4,
+        "json": 3,
+        "aws": 3
+    },
+    "ventures unlimited": {
+        "sql": 5,
+        "python": 5,
+        "agile": 3,
+        "apache": 3
+    },
+    "chenmed, llc": {
+        "sql": 4
+    },
+    "interactive resources - ir": {},
+    "siemens": {
+        "python": 1,
+        "pandas": 1,
+        "go": 1
+    },
+    "codeforce360": {
+        "python": 5
+    },
+    "captivea": {
+        "python": 11
+    },
+    "leidos inc": {
+        "agile": 9,
+        "javascript": 4,
+        "react": 2,
+        "git": 1,
+        "docker": 1,
+        "kubernetes": 1,
+        "ansible": 1,
+        "wsdl": 1,
+        "apache": 1,
+        "java": 1
+    },
+    "spire law": {
+        "python": 5,
+        "docker": 3,
+        "aws": 3,
+        "github": 3,
+        "optics": 3,
+        "django": 2,
+        "dash": 2
+    },
+    "aon risk services inc": {
+        "python": 9,
+        "rest": 3,
+        "bottle": 2,
+        "javascript": 2
+    },
+    "teacheron": {},
+    "thought storm": {
+        "hadoop": 3,
+        "python": 1
+    },
+    "dba web technologies": {
+        "python": 3,
+        "angular": 2,
+        "react": 2,
+        "mongodb": 2,
+        "devops": 2
+    },
+    "britecore": {
+        "python": 6,
+        "aws": 4,
+        "jira": 3,
+        "mysql": 3,
+        "cloudwatch": 2,
+        "ubuntu": 2,
+        "shell": 2
+    },
+    "denken solutions, inc.": {
+        "aws": 33,
+        "python": 13,
+        "cloudformation": 3,
+        "cloudwatch": 3,
+        "r": 1,
+        "c": 1
+    },
+    "concept software & services inc": {
+        "python": 7,
+        "django": 6
+    },
+    "kr3 information systems, inc.": {
+        "python": 4,
+        "angular": 3
+    },
+    "conflux systems": {
+        "python": 2,
+        "flask": 1,
+        "nosql": 1,
+        "apache": 1
+    },
+    "petadata": {
+        "aws": 5,
+        "python": 2,
+        "unix": 2,
+        "go": 2
+    },
+    "careerbuilder-us": {},
+    "chick-fil-a, inc.": {
+        "aws": 9,
+        "agile": 8,
+        "python": 6,
+        "devops": 4,
+        "kubernetes": 3
+    },
+    "intercontinental exchange, inc.": {
+        "python": 5,
+        "agile": 2,
+        "docker": 2,
+        "kubernetes": 2,
+        "unix": 1
+    },
+    "dovel technologies, llc": {
+        "aws": 3
+    },
+    "agama solutions": {
+        "python": 4
+    },
+    "merican inc": {
+        "aws": 9,
+        "python": 6,
+        "cloudwatch": 1
+    },
+    "hexacorp": {
+        "java": 1,
+        "python": 1,
+        "devops": 1,
+        "aws": 1
+    },
+    "unicom technologies inc": {
+        "python": 6,
+        "jupyter": 3,
+        "unix": 2
+    },
+    "anthem, inc": {
+        "html": 3,
+        "sql": 3,
+        "less": 2
+    },
+    "key infotek llc": {
+        "python": 6
+    },
+    "infotech spectrum": {
+        "python": 8,
+        "aws": 7,
+        "sql": 6,
+        "java": 5
+    },
+    "cirruslabs": {
+        "sql": 3
+    },
+    "referall, llc": {
+        "python": 3,
+        "agile": 3,
+        "foundation": 3,
+        "linux": 3,
+        "shell": 3,
+        "aws": 2,
+        "batch": 1,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "digital dhara llc": {
+        "python": 6,
+        "agile": 3,
+        "scrum": 2,
+        "aws": 1
+    },
+    "asb solutions group inc.": {
+        "aws": 3,
+        "sql": 2,
+        "python": 2
+    },
+    "app dynamic systems llc": {
+        "python": 16,
+        "aws": 4,
+        "devops": 3
+    },
+    "seven hills group technologies inc.": {
+        "python": 5,
+        "aws": 4,
+        "shell": 4,
+        "sql": 3,
+        "numpy": 3,
+        "batch": 2
+    },
+    "chick-fil-a": {
+        "aws": 9,
+        "agile": 8,
+        "python": 7,
+        "devops": 3,
+        "kubernetes": 3
+    },
+    "ziras technologies, inc.": {
+        "python": 7,
+        "numpy": 3,
+        "aws": 3,
+        "react": 3,
+        "agile": 3,
+        "rest": 1
+    },
+    "sam's club": {
+        "wire": 3,
+        "java": 3,
+        "docker": 3,
+        "openstack": 1
+    },
+    "intercontinental exchange": {
+        "python": 6
+    },
+    "sibitalent corp": {
+        "python": 5,
+        "cisco": 5,
+        "devops": 4,
+        "terraform": 3,
+        "agile": 2,
+        "github": 2,
+        "django": 1
+    },
+    "talendica": {
+        "elasticsearch": 7,
+        "ruby": 3,
+        "git": 3,
+        "kibana": 2
+    },
+    "visa": {
+        "python": 4,
+        "mysql": 3,
+        "shell": 2
+    },
+    "kr3 information systems inc": {
+        "angular": 9,
+        "java": 6,
+        "python": 4,
+        "ui": 3,
+        "jenkins": 3,
+        "spring": 2,
+        "nosql": 2
+    },
+    "calendly": {
+        "react": 3,
+        "typescript": 3,
+        "python": 3,
+        "docker": 2
+    },
+    "tmv global inc.": {
+        "aws": 4,
+        "ui": 3,
+        "devops": 3,
+        "java": 1
+    },
+    "sam.startechsinc": {
+        "shell": 3,
+        "aws": 3,
+        "sql": 2,
+        "python": 1
+    },
+    "yoh services": {
+        "encryption": 3,
+        "windows": 2,
+        "shell": 2
+    },
+    "jph group inc": {
+        "python": 4,
+        "linux": 3,
+        "windows": 3,
+        "aws": 3,
+        "rest": 3,
+        "postgresql": 2,
+        "sql": 1
+    },
+    "makrotech": {
+        "agile": 6,
+        "python": 4,
+        "angular": 3,
+        "aws": 2,
+        "sql": 1
+    },
+    "everite solutions inc": {
+        "devops": 3,
+        "java": 3,
+        "python": 2
+    },
+    "dexian signature": {
+        "linux": 6,
+        "shell": 5,
+        "python": 4,
+        "perl": 4,
+        "unix": 3,
+        "sdlc": 3,
+        "ansible": 3,
+        "agile": 2
+    },
+    "emonics": {
+        "python": 4
+    },
+    "ksoftwareassociates": {
+        "python": 11,
+        "jquery": 2,
+        "github": 2,
+        "aws": 2,
+        "agile": 2,
+        "scrum": 2,
+        "go": 1,
+        "skype": 1
+    },
+    "altres": {
+        "tableau": 1
+    },
+    "elasticsearch inc.": {
+        "elasticsearch": 9,
+        "python": 3,
+        "java": 3,
+        "kibana": 3,
+        "kubernetes": 2,
+        "linux": 1,
+        "less": 1
+    },
+    "the college of idaho": {
+        "spring": 1,
+        "python": 1,
+        "line": 1
+    },
+    "tandym group": {
+        "python": 9,
+        "signal": 1
+    },
+    "srimatrix inc.": {
+        "python": 6,
+        "sql": 6,
+        "hadoop": 3
+    },
+    "hitachi solutions america": {
+        "python": 9,
+        "fastapi": 3,
+        "devops": 2,
+        "react": 1,
+        "angular": 1
+    },
+    "work": {
+        "python": 5,
+        "angular": 3,
+        "django": 3,
+        "fastapi": 3,
+        "pandas": 2,
+        "linux": 2,
+        "docker": 2
+    },
+    "surge technology solutions inc": {
+        "aws": 6,
+        "jenkins": 2,
+        "devops": 2
+    },
+    "opt nation": {
+        "latency": 1,
+        "python": 1
+    },
+    "photon": {
+        "python": 9,
+        "apache": 2,
+        "nosql": 2,
+        "devops": 2
+    },
+    "orc middleware test company": {
+        "python": 10,
+        "linux": 6
+    },
+    "stellent it llc": {
+        "docker": 9,
+        "jenkins": 7,
+        "jira": 6,
+        "bash": 3,
+        "github": 3,
+        "python": 2,
+        "skype": 1
+    },
+    "calsoft labs": {
+        "aws": 4,
+        "python": 1
+    },
+    "blue.cloud": {
+        "python": 4
+    },
+    "velvetech": {
+        "python": 9,
+        "ui": 5,
+        "kubernetes": 3,
+        "tornado": 3,
+        "gitlab": 2,
+        "docker": 2,
+        "angular": 2,
+        "java": 2,
+        "sql": 1,
+        "agile": 1,
+        "scrum": 1,
+        "github": 1,
+        "devops": 1
+    },
+    "transmarket group": {
+        "linux": 3,
+        "python": 1,
+        "pandas": 1,
+        "sql": 1
+    },
+    "umanist staffing llc": {
+        "xml": 4,
+        "swift": 4,
+        "agile": 4,
+        "sdlc": 4,
+        "python": 4
+    },
+    "neuberger berman": {
+        "python": 3,
+        "sql": 1,
+        "tableau": 1,
+        "lean": 1
+    },
+    "university of chicago (uc)": {
+        "javascript": 6,
+        "docker": 3,
+        "python": 2,
+        "sqlite": 2,
+        "postgresql": 2,
+        "gcp": 2,
+        "ui": 1,
+        "bootstrap": 1,
+        "nexus": 1
+    },
+    "hcl technologies ltd.": {
+        "gcp": 3,
+        "python": 3,
+        "sql": 3,
+        "git": 3,
+        "jenkins": 3,
+        "shell": 3
+    },
+    "infomn": {
+        "sql": 6,
+        "python": 3
+    },
+    "cerebra consulting": {
+        "agile": 1
+    },
+    "eleventh hire inc": {
+        "c": 3,
+        "perl": 2
+    },
+    "avatar securities": {
+        "routing": 3,
+        "c++": 3,
+        "python": 1
+    },
+    "oxford knight": {
+        "python": 5
+    },
+    "sv tech systems inc": {
+        "python": 6,
+        "c": 3,
+        "perl": 2,
+        "less": 1
+    },
+    "iquest solutions corporation": {
+        "fly": 6,
+        "c#": 3,
+        "angular": 1,
+        "react": 1
+    },
+    "appetize": {
+        "python": 3,
+        "accuracy": 1
+    },
+    "tower research capital llc": {
+        "c++": 4,
+        "latency": 2,
+        "bash": 2,
+        "shell": 2,
+        "linux": 2
+    },
+    "intellisys technology": {
+        "unix": 2
+    },
+    "tek hire solutions": {
+        "python": 4
+    },
+    "bank of america": {
+        "python": 6,
+        "sql": 5,
+        "agile": 3,
+        "waterfall": 3
+    },
+    "absolute": {
+        "python": 14,
+        "less": 6,
+        "django": 2
+    },
+    "the nerdery": {
+        "python": 6,
+        "git": 3,
+        "rest": 1
+    },
+    "keyo": {
+        "python": 7,
+        "flask": 3,
+        "foundation": 1
+    },
+    "spoton: corporate": {
+        "python": 3,
+        "box": 1
+    },
+    "fox point recruitment llc": {
+        "aws": 10,
+        "python": 8,
+        "nosql": 2
+    },
+    "tcg digital": {
+        "aws": 7,
+        "spring": 7,
+        "java": 5,
+        "python": 5,
+        "maven": 3,
+        "json": 3,
+        "xml": 3,
+        "nosql": 1,
+        "docker": 1
+    },
+    "united airlines": {
+        "aws": 20,
+        "windows": 3,
+        "linux": 3,
+        "powershell": 3,
+        "bash": 3,
+        "java": 3,
+        "eks": 2,
+        "foundation": 1,
+        "devops": 1
+    },
+    "myticas consulting": {
+        "python": 7,
+        "django": 7,
+        "sql": 3,
+        "mysql": 2
+    },
+    "dsmh llc": {
+        "python": 4,
+        "less": 3,
+        "sql": 3,
+        "aws": 3
+    },
+    "computer enterprises, inc. (cei)": {
+        "python": 3,
+        "agile": 3,
+        "jenkins": 2,
+        "git": 2
+    },
+    "hitachi careers": {
+        "python": 9,
+        "fastapi": 3,
+        "devops": 2,
+        "react": 1,
+        "angular": 1
+    },
+    "ginas tech jobs": {
+        "python": 7,
+        "agile": 3,
+        "sql": 3
+    },
+    "egen solutions": {
+        "python": 3,
+        "rest": 3,
+        "agile": 1
+    },
+    "epitec": {
+        "python": 6,
+        "mysql": 3,
+        "css": 2,
+        "agile": 2,
+        "firewall": 2,
+        "go": 1,
+        "rest": 1
+    },
+    "softstandard solutions": {
+        "python": 5,
+        "git": 3,
+        "aws": 2,
+        "jira": 2,
+        "agile": 1,
+        "bitbucket": 1
+    },
+    "connect talent solutions": {
+        "agile": 6,
+        "scrum": 5,
+        "sql": 3,
+        "svn": 3,
+        "mysql": 2,
+        "go": 1,
+        "python": 1,
+        "postgresql": 1,
+        "linux": 1
+    },
+    "zenetex": {
+        "powershell": 18,
+        "sql": 3,
+        "cisco": 2,
+        "routing": 2,
+        "switching": 2,
+        "firewall": 2,
+        "windows": 1
+    },
+    "soujanyag": {
+        "python": 9
+    },
+    "learning dollars": {
+        "apache": 1,
+        "heroku": 1
+    },
+    "entegee": {
+        "python": 5,
+        "linux": 3
+    },
+    "kaygen": {
+        "python": 11,
+        "sdlc": 3,
+        "less": 2,
+        "postgresql": 1,
+        "agile": 1
+    },
+    "riskspan, inc": {
+        "sql": 3
+    },
+    "django": {
+        "django": 5,
+        "chef": 3
+    },
+    "tekinspirations.com": {
+        "aws": 5,
+        "python": 4,
+        "agile": 3,
+        "scrum": 3,
+        "line": 1
+    },
+    "wellsky": {
+        "python": 5,
+        "react": 3
+    },
+    "it minds l.l.c.": {
+        "python": 1
+    },
+    "humana": {
+        "python": 8,
+        "sql": 4
+    },
+    "alphosoft": {
+        "sql": 3
+    },
+    "teema": {
+        "python": 3,
+        "docker": 3,
+        "nginx": 2,
+        "pandas": 2,
+        "numpy": 2,
+        "php": 2,
+        "laravel": 2,
+        "graphql": 2
+    },
+    "phelps dunbar": {
+        "python": 1
+    },
+    "dxc technology": {
+        "sql": 2,
+        "c": 2
+    },
+    "sw complete": {
+        "python": 9,
+        "rest": 5,
+        "django": 5,
+        "flask": 5,
+        "json": 4,
+        "postgresql": 3,
+        "ui": 3,
+        "mongodb": 2,
+        "swagger": 1,
+        "docker": 1,
+        "xml": 1,
+        "jira": 1,
+        "git": 1,
+        "agile": 1
+    },
+    "ops consulting": {
+        "agile": 5,
+        "devops": 4,
+        "linux": 3,
+        "java": 2,
+        "docker": 2,
+        "kubernetes": 2,
+        "sql": 2,
+        "scrum": 2,
+        "jira": 2
+    },
+    "booz allen hamilton, inc.": {
+        "python": 4,
+        "splunk": 4,
+        "rest": 3,
+        "soap": 3,
+        "linux": 3,
+        "git": 2,
+        "docker": 2,
+        "kubernetes": 2
+    },
+    "wyetech": {
+        "shell": 5,
+        "java": 4,
+        "unix": 4,
+        "agile": 3,
+        "git": 2,
+        "spring": 2,
+        "eclipse": 2
+    },
+    "dcca": {
+        "python": 9,
+        "git": 3,
+        "devops": 3,
+        "javascript": 1,
+        "rest": 1,
+        "agile": 1
+    },
+    "acclaim technical services": {
+        "ats": 3,
+        "c++": 1
+    },
+    "booker dimaio, llc": {
+        "java": 4,
+        "python": 4,
+        "spring": 3,
+        "sql": 3,
+        "bash": 3,
+        "git": 3,
+        "splunk": 1,
+        "ui": 1,
+        "saltstack": 1,
+        "apache": 1,
+        "agile": 1,
+        "jira": 1
+    },
+    "arsiem": {
+        "python": 1,
+        "linux": 1
+    },
+    "bae systems": {
+        "linux": 3,
+        "python": 2,
+        "javascript": 1,
+        "angular": 1,
+        "css": 1,
+        "signal": 1,
+        "routing": 1,
+        "gitlab": 1,
+        "docker": 1
+    },
+    "bu_is, rtx": {
+        "signal": 4,
+        "tcp/ip": 4,
+        "python": 2,
+        "ansible": 1,
+        "javascript": 1,
+        "git": 1
+    },
+    "booker dimaio": {
+        "java": 4,
+        "python": 4,
+        "spring": 3,
+        "sql": 3,
+        "bash": 3,
+        "git": 2,
+        "splunk": 1,
+        "ui": 1,
+        "saltstack": 1,
+        "apache": 1,
+        "agile": 1,
+        "jira": 1
+    },
+    "legato, llc": {
+        "python": 6,
+        "django": 4,
+        "rest": 4
+    },
+    "next step systems": {
+        "java": 5,
+        "python": 5,
+        "spring": 4,
+        "bash": 4,
+        "sql": 3,
+        "git": 2,
+        "splunk": 2,
+        "ui": 2,
+        "apache": 2,
+        "saltstack": 1,
+        "agile": 1,
+        "jira": 1
+    },
+    "take2 consulting": {
+        "splunk": 5,
+        "rest": 3,
+        "soap": 3,
+        "linux": 2,
+        "kibana": 2,
+        "kubernetes": 2,
+        "python": 1
+    },
+    "link llc": {
+        "java": 6,
+        "python": 6,
+        "kubernetes": 3,
+        "hibernate": 3,
+        "mongodb": 2
+    },
+    "eitr technologies, llc": {
+        "python": 1,
+        "git": 1
+    },
+    "nisus technologies corporation": {
+        "python": 8,
+        "java": 6,
+        "xml": 4,
+        "jupyter": 2,
+        "javascript": 2,
+        "sql": 2,
+        "perl": 2
+    },
+    "proobject": {
+        "java": 6,
+        "shell": 5,
+        "unix": 4,
+        "linux": 4,
+        "javascript": 4,
+        "aws": 3,
+        "agile": 2,
+        "eclipse": 2,
+        "python": 2,
+        "css": 2,
+        "node.js": 2,
+        "gitlab": 2,
+        "docker": 2,
+        "git": 2,
+        "spring": 1,
+        "sql": 1,
+        "postgresql": 1
+    },
+    "gliacell technologies": {
+        "jira": 3,
+        "thread": 3,
+        "python": 2,
+        "selenium": 2,
+        "java": 2,
+        "aws": 1,
+        "spring": 1,
+        "mongodb": 1,
+        "docker": 1,
+        "kubernetes": 1,
+        "git": 1,
+        "maven": 1
+    },
+    "applied insight": {
+        "django": 6,
+        "flask": 6,
+        "json": 5,
+        "python": 4,
+        "rest": 3,
+        "postgresql": 3,
+        "ui": 3,
+        "mongodb": 3,
+        "xml": 2,
+        "git": 2,
+        "agile": 2,
+        "devops": 1
+    },
+    "akina": {
+        "linux": 10,
+        "windows": 5,
+        "unix": 2,
+        "ansible": 2,
+        "saltstack": 2,
+        "jira": 1
+    },
+    "farfield systems": {
+        "javascript": 2,
+        "python": 2,
+        "linux": 2,
+        "git": 1
+    },
+    "hackajob": {
+        "python": 13,
+        "django": 3,
+        "flask": 3,
+        "gitlab": 3
+    },
+    "ameriinfovets, inc.": {
+        "aws": 12,
+        "linux": 11,
+        "windows": 7,
+        "shell": 6,
+        "python": 5,
+        "cloudwatch": 3,
+        "ansible": 3,
+        "tcp/ip": 2,
+        "subnetting": 2,
+        "cloudformation": 2,
+        "java": 1
+    },
+    "valiantiq inc": {
+        "python": 6,
+        "aws": 4,
+        "sql": 3,
+        "box": 3,
+        "agile": 2,
+        "java": 2,
+        "switching": 2,
+        "less": 1
+    },
+    "sigma solve inc": {
+        "python": 1
+    },
+    "career soft solutions": {
+        "python": 3,
+        "foundation": 3,
+        "aws": 2,
+        "git": 2,
+        "rest": 2,
+        "agile": 2
+    },
+    "dash techology": {
+        "python": 10,
+        "django": 3,
+        "flask": 3,
+        "javascript": 3
+    },
+    "metrea aerospace": {
+        "python": 7,
+        "linux": 5,
+        "docker": 4
+    },
+    "clevelcrossing - jobboard": {
+        "linux": 3,
+        "shell": 3,
+        "python": 2
+    },
+    "mediafly": {
+        "python": 2,
+        "kotlin": 1,
+        "scala": 1
+    },
+    "the johns hopkins university": {
+        "r": 3
+    },
+    "avid practice": {
+        "python": 3,
+        "powershell": 3
+    },
+    "biogensys": {
+        "python": 3,
+        "sdlc": 3,
+        "sql": 3,
+        "agile": 3
+    },
+    "t. rowe price": {
+        "python": 7,
+        "aws": 3
+    },
+    "binarybees consulting pvt ltd": {
+        "python": 1
+    },
+    "techperm incorporated": {
+        "shell": 5,
+        "jira": 5,
+        "unix": 3,
+        "ansible": 3,
+        "sql": 3,
+        "python": 3,
+        "devops": 3,
+        "aws": 2
+    },
+    "isite technologies": {
+        "python": 4,
+        "django": 3,
+        "flask": 2
+    },
+    "bvs": {
+        "python": 4,
+        "java": 3,
+        "aws": 3,
+        "pl/sql": 3,
+        "sql": 1
+    },
+    "techmorgonite software solutions llc": {
+        "python": 4,
+        "django": 4,
+        "flask": 4,
+        "graphql": 4,
+        "elasticsearch": 4,
+        "aws": 3
+    },
+    "epsilon": {
+        "devops": 4,
+        "batch": 3,
+        "sdlc": 3,
+        "agile": 3
+    },
+    "tive": {
+        "python": 7,
+        "teamcity": 5,
+        "sql": 3,
+        "aws": 3,
+        "agile": 2,
+        "scrum": 2,
+        "datadog": 2,
+        "cloudformation": 2,
+        "docker": 2,
+        "batch": 1
+    },
+    "connexion systems & engineering": {
+        "python": 4,
+        "javascript": 3,
+        "throughput": 3,
+        "aws": 1
+    },
+    "phaxis llc": {
+        "python": 3
+    },
+    "liberty mutual insurance": {
+        "python": 3
+    },
+    "northeastern university": {},
+    "atrium works": {
+        "throughput": 3,
+        "python": 3,
+        "javascript": 2
+    },
+    "misicom, inc.": {
+        "python": 4,
+        "agile": 3,
+        "rest": 3,
+        "soap": 3,
+        "jira": 1
+    },
+    "anveta, inc": {
+        "tableau": 16,
+        "sql": 3,
+        "ada": 2,
+        "javascript": 2,
+        "skype": 1
+    },
+    "infovision inc.": {
+        "c": 7,
+        "python": 4
+    },
+    "sirius xm radio": {
+        "aws": 10,
+        "xml": 7,
+        "python": 5,
+        "java": 4,
+        "json": 3,
+        "rest": 3,
+        "scala": 3,
+        "throughput": 2,
+        "agile": 2,
+        "gcp": 2,
+        "go": 1
+    },
+    "humanity": {
+        "nosql": 5,
+        "python": 3,
+        "sql": 3,
+        "unix": 2,
+        "ubuntu": 2,
+        "ada": 2
+    },
+    "adroit software inc.": {
+        "nosql": 3,
+        "hadoop": 3,
+        "unix": 3,
+        "agile": 2
+    },
+    "tive inc": {
+        "python": 7,
+        "teamcity": 5,
+        "sql": 3,
+        "aws": 3,
+        "agile": 2,
+        "scrum": 2,
+        "datadog": 2,
+        "cloudformation": 2,
+        "docker": 2,
+        "batch": 1
+    },
+    "pyxai": {
+        "javascript": 3,
+        "agile": 2,
+        "mysql": 2
+    },
+    "eaton vance": {
+        "aws": 3,
+        "foundation": 2,
+        "terraform": 1,
+        "sentry": 1
+    },
+    "makro technologies inc": {
+        "sql": 11,
+        "python": 7,
+        "git": 5,
+        "pandas": 4,
+        "ui": 4,
+        "jira": 3,
+        "devops": 2,
+        "java": 2,
+        "graphql": 1,
+        "numpy": 1,
+        "angular": 1
+    },
+    "full spectrum": {
+        "devops": 5,
+        "linux": 4,
+        "python": 3,
+        "docker": 3,
+        "sdlc": 2,
+        "agile": 2
+    },
+    "infovision": {
+        "c": 11,
+        "python": 10,
+        "git": 3
+    },
+    "akselos": {
+        "python": 8,
+        "ui": 3,
+        "line": 1
+    },
+    "strategic employment partners (sep)": {
+        "aws": 6,
+        "python": 3
+    },
+    "infovision, inc.": {
+        "c": 4,
+        "python": 4
+    },
+    "worldhire": {
+        "python": 4,
+        "react": 3,
+        "http": 3,
+        "dns": 1,
+        "rest": 1,
+        "aws": 1,
+        "angular": 1,
+        "datadog": 1,
+        "sentry": 1
+    },
+    "virtusa": {
+        "python": 6,
+        "sql": 4,
+        "aws": 4,
+        "jupyter": 3,
+        "flask": 3,
+        "django": 3,
+        "nosql": 3,
+        "gitlab": 2,
+        "gcp": 2,
+        "kubernetes": 2,
+        "unix": 2,
+        "shell": 2
+    },
+    "immersive gaze": {
+        "python": 3,
+        "java": 3,
+        "sdlc": 3,
+        "agile": 2
+    },
+    "my resource assistant": {},
+    "saviance technologies": {
+        "flask": 3,
+        "twisted": 3,
+        "agile": 3,
+        "python": 2,
+        "django": 2,
+        "docker": 1
+    },
+    "flagship pioneering, inc.": {
+        "agile": 6,
+        "python": 2
+    },
+    "dizer corp": {
+        "sql": 4,
+        "python": 1
+    },
+    "salary $100-120k doe": {
+        "python": 3,
+        "css3": 3,
+        "javascript": 3,
+        "sql": 3,
+        "linux": 3,
+        "line": 3,
+        "soap": 3
+    },
+    "innova people": {
+        "python": 6,
+        "sql": 3
+    },
+    "sullivan and cogliano": {
+        "python": 11,
+        "mongodb": 2,
+        "nosql": 2,
+        "aws": 2
+    },
+    "the ai institute": {
+        "kubernetes": 3,
+        "c++": 3,
+        "python": 3,
+        "grafana": 3,
+        "prometheus": 3
+    },
+    "tekleaders, inc": {
+        "python": 7,
+        "css3": 3
+    },
+    "tiledb, inc.": {
+        "python": 17,
+        "numpy": 4,
+        "c": 3,
+        "c++": 2
+    },
+    "openmind technologies inc": {
+        "python": 4,
+        "java": 2,
+        "c++": 2,
+        "redis": 2,
+        "grpc": 2,
+        "react": 2,
+        "ux": 1,
+        "agile": 1
+    },
+    "advent global solutions, inc.": {
+        "tableau": 15,
+        "sql": 3,
+        "ada": 3,
+        "javascript": 2
+    },
+    "memfault": {
+        "python": 4,
+        "metal": 1,
+        "docker": 1,
+        "5g": 1
+    },
+    "american family insurance": {
+        "aws": 4,
+        "python": 3,
+        "less": 2,
+        "c#": 1
+    },
+    "w.r. rosato & associates, llc": {
+        "sql": 3,
+        "python": 1
+    },
+    "compuplus international inc": {
+        "agile": 3
+    },
+    "amazon robotics llc": {
+        "python": 3
+    },
+    "intellectsoft": {
+        "python": 3,
+        "c++": 3,
+        "fly": 2,
+        "linux": 2,
+        "android": 1
+    },
+    "atika technologies": {
+        "java": 6,
+        "postscript": 3,
+        "python": 2
+    },
+    "geisel software": {
+        "c++": 6,
+        "python": 4,
+        "linux": 4,
+        "rtos": 2,
+        "agile": 2,
+        "android": 1,
+        "fly": 1
+    },
+    "incendia partners inc.": {
+        "python": 3,
+        "flask": 3,
+        "javascript": 3,
+        "react": 3,
+        "sql": 3
+    },
+    "infineon technologies ag": {},
+    "infineon technologies": {},
+    "mintmesh": {
+        "python": 3,
+        "nosql": 3,
+        "javascript": 1,
+        "html": 1,
+        "git": 1
+    },
+    "iknowvate technologies": {
+        "python": 3,
+        "javascript": 3
+    },
+    "comerica incorporated": {
+        "aws": 1
+    },
+    "galaxe.solutions, inc.": {
+        "python": 3,
+        "mongodb": 1,
+        "css3": 1
+    },
+    "emergent software": {
+        "aws": 5,
+        "python": 1
+    },
+    "logging-in.com llc": {
+        "python": 7,
+        "pandas": 3,
+        "numpy": 3,
+        "flask": 3,
+        "sql": 3,
+        "git": 2,
+        "agile": 2,
+        "ui": 1,
+        "angular": 1
+    },
+    "software guidance & assistance": {
+        "python": 5,
+        "sql": 3,
+        "agile": 2
+    },
+    "proj\u00e9 general job board": {
+        "python": 7,
+        "agile": 7,
+        "graphql": 3,
+        "apollo": 3,
+        "relay": 3,
+        "sql": 2,
+        "docker": 2,
+        "jest": 2,
+        "aws": 2,
+        "angular": 1,
+        "vue.js": 1
+    },
+    "burnalong": {
+        "python": 5,
+        "react": 2,
+        "aws": 2,
+        "django": 1,
+        "flask": 1,
+        "javascript": 1
+    },
+    "ledgent technology": {
+        "python": 16,
+        "django": 5
+    },
+    "chewy": {
+        "aws": 3,
+        "python": 2,
+        "agile": 1,
+        "github": 1,
+        "react": 1
+    },
+    "sysmind": {
+        "java": 12,
+        "python": 11,
+        "agile": 5,
+        "sql": 3,
+        "windows": 3
+    },
+    "nityo infotech": {
+        "sql": 4,
+        "agile": 3,
+        "python": 3,
+        "scala": 3,
+        "nosql": 3,
+        "kubernetes": 3,
+        "docker": 3,
+        "java": 1
+    },
+    "gigamon": {
+        "agile": 3,
+        "python": 3,
+        "go": 3
+    },
+    "aqua information systems, inc.": {
+        "python": 1
+    },
+    "varsity tutors, a nerdy company": {
+        "python": 4
+    },
+    "k anand corporation": {
+        "python": 7,
+        "sql": 3,
+        "react": 1,
+        "ruby": 1,
+        "java": 1
+    },
+    "africashore": {
+        "python": 9,
+        "cvs": 4,
+        "sql": 2,
+        "java": 2,
+        "tornado": 1,
+        "django": 1,
+        "flask": 1,
+        "agile": 1,
+        "scrum": 1,
+        "ui": 1,
+        "mysql": 1
+    },
+    "ai signal research, inc (asri)": {
+        "agile": 3,
+        "signal": 1,
+        "c": 1
+    },
+    "insync staffing": {
+        "gcp": 4,
+        "aws": 4,
+        "postgresql": 3,
+        "python": 1,
+        "sql": 1
+    },
+    "hexaquestglobal": {
+        "linux": 7,
+        "ubuntu": 3,
+        "kubernetes": 3,
+        "dhcp": 3,
+        "routing": 3,
+        "bash": 2,
+        "unix": 2,
+        "jenkins": 2,
+        "mysql": 2,
+        "docker": 2,
+        "rust": 1,
+        "gcp": 1,
+        "postgresql": 1,
+        "swarm": 1,
+        "prometheus": 1
+    },
+    "adaptive technology insights": {
+        "gcp": 5,
+        "sql": 3,
+        "python": 3,
+        "terraform": 2
+    },
+    "technology partners careers": {
+        "python": 4,
+        "latency": 3,
+        "grpc": 2,
+        "terraform": 2,
+        "kubernetes": 2,
+        "go": 1,
+        "gcp": 1
+    },
+    "spar information systems llc": {
+        "python": 5,
+        "xml": 3,
+        "git": 2,
+        "selenium": 2,
+        "docker": 2,
+        "javascript": 2,
+        "json": 2,
+        "aws": 1,
+        "sql": 1
+    },
+    "aqua it": {},
+    "diversity resource staffing. inc": {
+        "line": 3,
+        "sql": 3,
+        "matlab": 2,
+        "r": 2
+    },
+    "enterprise rent-a-car": {
+        "python": 4
+    },
+    "strategic staffing solutions": {
+        "python": 8,
+        "less": 3
+    },
+    "technology partners inc": {
+        "apache": 4,
+        "go": 3,
+        "docker": 3,
+        "nosql": 2,
+        "kubernetes": 2,
+        "python": 1,
+        "grpc": 1,
+        "aws": 1
+    },
+    "sonitalent corp": {
+        "python": 5,
+        "sql": 3,
+        "windows": 3,
+        "angular": 2,
+        "git": 2,
+        "asp.net": 1
+    },
+    "belcan": {
+        "python": 4
+    },
+    "avance consulting services": {
+        "hibernate": 3,
+        "java": 2,
+        "soap": 2,
+        "xml": 2,
+        "cvs": 2,
+        "pl/sql": 2,
+        "go": 1
+    },
+    "q2 holdings, inc.": {
+        "python": 4,
+        "sql": 3,
+        "agile": 3
+    },
+    "apex informatics": {
+        "aws": 7,
+        "python": 4,
+        "c#": 3,
+        "javascript": 3,
+        "sql": 2,
+        "mysql": 2,
+        "postgresql": 2
+    },
+    "karmacheck": {
+        "karma": 7,
+        "javascript": 3,
+        "aws": 3
+    },
+    "akt llc": {},
+    "southern new hampshire university": {
+        "devops": 6,
+        "python": 5,
+        "sql": 3,
+        "django": 1,
+        "web2py": 1,
+        "flask": 1
+    },
+    "simio cloud": {
+        "python": 17,
+        "django": 3,
+        "github": 2,
+        "sql": 2,
+        "kubernetes": 2,
+        "flask": 2
+    },
+    "fidelity investments": {
+        "sql": 2
+    },
+    "merchants fleet management": {
+        "sql": 1,
+        "python": 1
+    },
+    "nexzentek": {
+        "python": 6,
+        "flask": 3,
+        "mysql": 3,
+        "emacs": 2
+    },
+    "proquo technologies": {
+        "python": 4
+    },
+    "ea team inc": {
+        "python": 7,
+        "pandas": 4,
+        "django": 3,
+        "fastapi": 3,
+        "linux": 2,
+        "docker": 2,
+        "rest": 1
+    },
+    "keasis inc": {
+        "python": 3,
+        "github": 3,
+        "plotly": 3,
+        "javascript": 3,
+        "html": 3,
+        "jenkins": 3
+    },
+    "1st-recruit llc": {
+        "python": 4,
+        "django": 3,
+        "linux": 3,
+        "sql": 2,
+        "bash": 2,
+        "git": 2
+    },
+    "first soft solutions llc": {
+        "agile": 6,
+        "python": 5
+    },
+    "magnus technology solutions inc": {
+        "python": 3,
+        "django": 3,
+        "javascript": 3,
+        "css": 3,
+        "sql": 2
+    },
+    "ty software": {
+        "python": 3,
+        "jira": 1,
+        "agile": 1,
+        "sdlc": 1
+    },
+    "princeton it services, inc": {
+        "python": 11,
+        "rest": 4,
+        "windows": 3,
+        "linux": 3,
+        "flask": 2
+    },
+    "smart it frame llc": {
+        "python": 12,
+        "sql": 8,
+        "line": 1,
+        "javascript": 1
+    },
+    "cloud bc labs": {
+        "python": 6,
+        "apache": 6,
+        "nosql": 3,
+        "cassandra": 3,
+        "rest": 2,
+        "sql": 2,
+        "javascript": 1
+    },
+    "norgate technology inc": {
+        "python": 13,
+        "django": 3,
+        "flask": 2
+    },
+    "zencon group": {
+        "python": 5,
+        "react": 4,
+        "django": 3,
+        "javascript": 3,
+        "html5": 3,
+        "agile": 3,
+        "html": 2,
+        "css3": 2
+    },
+    "nivid technologies.": {},
+    "synchrony systems": {
+        "python": 2,
+        "apache": 1
+    },
+    "psrtek llc": {
+        "python": 2,
+        "hadoop": 1,
+        "java": 1
+    },
+    "aegistech inc.": {
+        "python": 5,
+        "linux": 1,
+        "unix": 1
+    },
+    "flexon technologies": {
+        "postgresql": 3,
+        "agile": 2,
+        "c++": 1,
+        "python": 1,
+        "kubernetes": 1
+    },
+    "tekshapers": {
+        "python": 1
+    },
+    "pacific consulting": {
+        "hadoop": 5,
+        "python": 4,
+        "sql": 3,
+        "java": 1,
+        "agile": 1,
+        "sdlc": 1,
+        "unix": 1
+    },
+    "ehub global": {
+        "python": 2
+    },
+    "inficare staffing": {
+        "python": 5,
+        "pandas": 3,
+        "flask": 3,
+        "unix": 3,
+        "shell": 3,
+        "jenkins": 3,
+        "fastapi": 2,
+        "ansible": 1,
+        "docker": 1
+    },
+    "sulekha.com client - virtusa": {
+        "python": 6,
+        "django": 3,
+        "flask": 2
+    },
+    "edgeall inc": {
+        "python": 4
+    },
+    "lotus suites usa": {
+        "python": 11,
+        "java": 10,
+        "less": 3,
+        "docker": 3,
+        "devops": 2,
+        "agile": 2,
+        "kubernetes": 2
+    },
+    "arthur grand technologies inc": {
+        "c": 3,
+        "sql": 3,
+        "pandas": 3,
+        "python": 2
+    },
+    "precision technologies corp": {
+        "python": 3,
+        "django": 3,
+        "fastapi": 3,
+        "pandas": 2,
+        "linux": 1,
+        "docker": 1
+    },
+    "infojini inc": {
+        "python": 2
+    },
+    "ana-data consulting inc": {
+        "java": 5,
+        "hibernate": 3,
+        "python": 2,
+        "scipy": 1,
+        "rest": 1,
+        "apigee": 1
+    },
+    "valuemomentum": {
+        "python": 13,
+        "django": 11,
+        "rest": 7,
+        "agile": 3,
+        "less": 3
+    },
+    "pan asia resources pte ltd.": {
+        "sql": 3,
+        "python": 3
+    },
+    "wizcom corporation": {
+        "selenium": 3,
+        "python": 2
+    },
+    "post-active-us-it-job": {
+        "python": 3,
+        "ui": 3
+    },
+    "rms it solutions inc": {
+        "python": 9,
+        "django": 4,
+        "line": 3,
+        "apache": 3,
+        "tomcat": 3,
+        "sql": 3,
+        "nosql": 2,
+        "json": 2,
+        "flask": 1,
+        "linux": 1,
+        "windows": 1,
+        "powershell": 1
+    },
+    "wingsoft consulting llc": {
+        "python": 3,
+        "django": 3,
+        "flask": 1,
+        "devops": 1
+    },
+    "bamm": {
+        "agile": 3,
+        "css": 3,
+        "c#": 2
+    },
+    "itechedge": {
+        "python": 1
+    },
+    "e-solutions it service pvt ltd": {
+        "python": 9,
+        "unix": 3,
+        "shell": 3,
+        "django": 1,
+        "flask": 1,
+        "agile": 1
+    },
+    "ateeca inc": {
+        "python": 3,
+        "javascript": 3
+    },
+    "in": {
+        "python": 5
+    },
+    "shiftcode analytics, inc.": {
+        "python": 13,
+        "sql": 10,
+        "spring": 9,
+        "java": 6,
+        "scrum": 3,
+        "devops": 3,
+        "gradle": 3,
+        "safe": 2,
+        "git": 2,
+        "skype": 1,
+        "tableau": 1
+    },
+    "pgim ireland": {
+        "python": 7,
+        "graphql": 5,
+        "ui": 5,
+        "rest": 4,
+        "devops": 3,
+        "aws": 3,
+        "safe": 3,
+        "scrum": 2,
+        "git": 2,
+        "pandas": 1,
+        "tableau": 1,
+        "react": 1
+    },
+    "ae talents inc": {
+        "aws": 7,
+        "java": 6,
+        "devops": 5,
+        "agile": 4,
+        "apigee": 4,
+        "scrum": 3,
+        "python": 3,
+        "scala": 3,
+        "spring": 3,
+        "rest": 3,
+        "docker": 3,
+        "jenkins": 3,
+        "hadoop": 3,
+        "sql": 2,
+        "windows": 2,
+        "jira": 1,
+        "cloudformation": 1
+    },
+    "tbricks": {
+        "aws": 16,
+        "python": 9,
+        "agile": 5,
+        "rest": 3,
+        "terraform": 3,
+        "cloudwatch": 2,
+        "http": 2,
+        "postman": 2,
+        "swagger": 2,
+        "json": 2,
+        "yaml": 2,
+        "batch": 2,
+        "splunk": 2,
+        "jenkins": 2,
+        "javascript": 1,
+        "git": 1,
+        "jira": 1
+    },
+    "righttalents": {
+        "python": 7,
+        "sql": 3,
+        "gitlab": 3,
+        "apache": 3
+    },
+    "combined computer resources": {
+        "python": 3,
+        "devops": 2
+    },
+    "ayr global it solutions": {
+        "python": 4,
+        "scala": 4,
+        "hadoop": 3,
+        "unix": 3,
+        "shell": 3,
+        "java": 2,
+        "agile": 1,
+        "sql": 1
+    },
+    "harveynash": {
+        "graphql": 6,
+        "ui": 5,
+        "pandas": 3,
+        "devops": 3,
+        "python": 3,
+        "scrum": 2,
+        "aws": 2,
+        "safe": 2,
+        "git": 2,
+        "tableau": 1,
+        "react": 1,
+        "java": 1
+    },
+    "sandia national laboratories": {
+        "agile": 7,
+        "go": 3,
+        "uml": 2,
+        "sql": 2,
+        "nosql": 2,
+        "typescript": 2
+    },
+    "amentum": {
+        "python": 4,
+        "c#": 1,
+        "c++": 1
+    },
+    "valmar management": {
+        "python": 5,
+        "aws": 3,
+        "django": 3,
+        "accuracy": 3
+    },
+    "diverse team, llc": {
+        "python": 6,
+        "go": 1
+    },
+    "sysmind - 3.9": {
+        "python": 9,
+        "perl": 6,
+        "agile": 4,
+        "sdlc": 2
+    },
+    "odoo, inc.": {
+        "python": 3,
+        "postgresql": 2
+    },
+    "lseg (london stock exchange group)": {
+        "python": 6,
+        "sdlc": 2,
+        "docker": 2,
+        "java": 1
+    },
+    "techfetch.com - on demand tech workforce hiring platform": {
+        "python": 4,
+        "aws": 3,
+        "mysql": 3,
+        "django": 3,
+        "numpy": 2,
+        "rest": 2
+    },
+    "mrinetwork": {
+        "python": 1
+    },
+    "phaxis": {
+        "python": 6,
+        "pandas": 3,
+        "c#": 3,
+        "flask": 1
+    },
+    "oakridge staffing": {
+        "python": 1
+    },
+    "oho group ltd": {
+        "python": 11,
+        "flask": 3,
+        "fastapi": 2,
+        "aws": 1
+    },
+    "trioptus": {
+        "sql": 4
+    },
+    "ubicoapps technologies": {
+        "python": 7,
+        "go": 1
+    },
+    "first tek, inc.": {
+        "python": 8,
+        "sdlc": 3,
+        "rest": 3,
+        "shell": 2,
+        "devops": 2,
+        "agile": 2
+    },
+    "citigroup, inc.": {
+        "python": 8,
+        "rest": 2,
+        "xml": 1,
+        "agile": 1
+    },
+    "wsn": {
+        "java": 7,
+        "python": 6,
+        "apache": 3,
+        "accuracy": 2
+    },
+    "andr\u00e9": {
+        "python": 3,
+        "perl": 3,
+        "sdlc": 2,
+        "c++": 2,
+        "c": 1
+    },
+    "evolutioniq": {
+        "python": 3,
+        "apache": 2,
+        "avro": 2,
+        "gcp": 2,
+        "aws": 2,
+        "foundation": 1
+    },
+    "ltimindtree": {
+        "python": 6,
+        "encryption": 3
+    },
+    "enterprise solutions inc.": {
+        "python": 10
+    },
+    "baanyan software services inc": {
+        "python": 9,
+        "aws": 1,
+        "sql": 1
+    },
+    "consultadd inc": {
+        "python": 4,
+        "flask": 3,
+        "css3": 2
+    },
+    "digital janet": {
+        "python": 4,
+        "django": 3,
+        "linux": 3,
+        "sql": 2,
+        "bash": 2,
+        "git": 2
+    },
+    "caspian one | fintech": {
+        "python": 6,
+        "foundation": 3,
+        "sql": 2
+    },
+    "deviqon": {
+        "python": 11,
+        "docker": 4,
+        "go": 3,
+        "linux": 2,
+        "kubernetes": 2,
+        "rest": 1
+    },
+    "vst consulting": {
+        "python": 1
+    },
+    "psg global solutions careers": {
+        "hadoop": 3,
+        "python": 1,
+        "agile": 1
+    },
+    "veracity software inc.": {
+        "clustering": 3,
+        "r": 3,
+        "python": 3,
+        "sql": 3
+    },
+    "violetink": {
+        "django": 13,
+        "rest": 3,
+        "sql": 3
+    },
+    "trendalytics": {
+        "python": 6,
+        "django": 3,
+        "flask": 3,
+        "agile": 1,
+        "sql": 1,
+        "kubernetes": 1
+    },
+    "remoteworker us": {
+        "python": 11,
+        "pandas": 2,
+        "numpy": 2
+    },
+    "the astor group": {
+        "agile": 3,
+        "java": 3,
+        "c#": 3
+    },
+    "plaxonic technologies": {
+        "django": 20,
+        "rest": 3,
+        "sql": 3,
+        "javascript": 2,
+        "python": 1
+    },
+    "chabeztech llc": {
+        "python": 7,
+        "react": 3
+    },
+    "robot insight technologies": {
+        "git": 3,
+        "sql": 3,
+        "xml": 3,
+        "devops": 3,
+        "linux": 3
+    },
+    "citigroup": {},
+    "networkcprinc": {
+        "python": 3,
+        "xml": 3,
+        "sql": 3,
+        "twisted": 2,
+        "json": 2
+    },
+    "jconnect infotech inc": {
+        "mysql": 15,
+        "django": 13,
+        "python": 12,
+        "mongodb": 9,
+        "foundation": 1
+    },
+    "totem llc": {
+        "python": 5,
+        "shell": 2,
+        "devops": 2,
+        "sdlc": 2,
+        "aws": 2
+    },
+    "lab49 consulting ltd.": {
+        "python": 18,
+        "agile": 5,
+        "django": 3,
+        "java": 2
+    },
+    "career developers, inc.": {
+        "python": 3
+    },
+    "echelon recruitment": {
+        "python": 9
+    },
+    "cb/i digital inc.": {
+        "docker": 2,
+        "python": 2
+    },
+    "tekshapers software solutions pvt ltd": {
+        "python": 3,
+        "mysql": 3
+    },
+    "jane street": {
+        "python": 8,
+        "ocaml": 1
+    },
+    "datadog": {
+        "python": 10,
+        "datadog": 6,
+        "tornado": 3,
+        "pypy": 2,
+        "javascript": 2,
+        "ruby": 1,
+        "cython": 1
+    },
+    "s force it solutions llc": {
+        "python": 15,
+        "latency": 3,
+        "behave": 3,
+        "pandas": 3,
+        "numpy": 3,
+        "django": 3,
+        "flask": 3,
+        "git": 3,
+        "svn": 3,
+        "css3": 3,
+        "html5": 3
+    },
+    "roy talman & associates, inc.": {
+        "c++": 3,
+        "python": 1
+    },
+    "amaze systems inc": {
+        "python": 10,
+        "encryption": 3
+    },
+    "avature": {},
+    "eleven recruiting": {
+        "python": 2,
+        "react": 1,
+        "javascript": 1,
+        "typescript": 1
+    },
+    "oliver bernard": {
+        "python": 2,
+        "aws": 2,
+        "flask": 1,
+        "kubernetes": 1,
+        "rest": 1
+    },
+    "sulekha.com client - eliassen group": {
+        "java": 6,
+        "spring": 6,
+        "nosql": 2,
+        "devops": 2,
+        "agile": 2,
+        "scrum": 2,
+        "sql": 1
+    },
+    "openteq inc": {
+        "python": 9,
+        "sql": 3,
+        "aws": 2
+    },
+    "barings": {
+        "python": 5,
+        "sql": 4,
+        "pandas": 3,
+        "agile": 2,
+        "scrum": 2,
+        "sdlc": 2
+    },
+    "vyzeinc.com": {
+        "python": 4,
+        "django": 4,
+        "agile": 3,
+        "react": 3,
+        "html5": 3,
+        "css3": 2,
+        "javascript": 1
+    },
+    "georgia it inc": {
+        "python": 6,
+        "agile": 3,
+        "c++": 2,
+        "perl": 2,
+        "sdlc": 2
+    },
+    "orion business innovation": {
+        "django": 3,
+        "python": 3,
+        "java": 3,
+        "jenkins": 1,
+        "git": 1
+    },
+    "flow traders": {
+        "python": 7,
+        "sql": 1,
+        "kubernetes": 1,
+        "linux": 1,
+        "git": 1,
+        "bitbucket": 1,
+        "bamboo": 1
+    },
+    "nagarro": {
+        "go": 1
+    },
+    "tiger advisory group": {
+        "python": 16
+    },
+    "quantitative systems": {
+        "python": 3,
+        "c++": 1
+    },
+    "useready": {
+        "django": 13,
+        "python": 8,
+        "rest": 6,
+        "aws": 4,
+        "jenkins": 2,
+        "git": 1
+    },
+    "nbcuniversal": {
+        "sql": 3,
+        "agile": 2,
+        "lean": 2,
+        "python": 2,
+        "aws": 1
+    },
+    "nlb services": {
+        "python": 9,
+        "rest": 3,
+        "agile": 3,
+        "shell": 2,
+        "devops": 2,
+        "sdlc": 2
+    },
+    "sulekha.com client - vericloud services inc": {
+        "go": 1
+    },
+    "euclid innovations": {
+        "sql": 8,
+        "git": 5,
+        "c#": 2
+    },
+    "pyramid it": {
+        "pyramid": 4,
+        "python": 4,
+        "ui": 3,
+        "selenium": 3,
+        "windows": 3,
+        "hudson": 3,
+        "less": 1
+    },
+    "hunter&talent": {
+        "python": 4,
+        "c++": 3,
+        "kong": 1
+    },
+    "vantage": {
+        "go": 1,
+        "gcp": 1,
+        "github": 1
+    },
+    "penguin random house": {
+        "python": 3,
+        "aws": 3,
+        "sql": 3,
+        "linux": 3,
+        "shell": 3,
+        "java": 1
+    },
+    "state university of new york at buffalo": {
+        "linux": 8,
+        "r": 4,
+        "python": 3,
+        "foundation": 3,
+        "sql": 2,
+        "php": 1
+    },
+    "tekreqs, inc.": {
+        "python": 4,
+        "chef": 3,
+        "c++": 2,
+        "unix": 2,
+        "agile": 1,
+        "flask": 1,
+        "sql": 1
+    },
+    "vignesh tech solutions": {
+        "accuracy": 3,
+        "python": 3,
+        "flask": 3
+    },
+    "accord technologies inc": {
+        "python": 6,
+        "sdlc": 3,
+        "typescript": 3,
+        "sql": 3
+    },
+    "quantumbricks": {
+        "angular": 3,
+        "shell": 3,
+        "jenkins": 3,
+        "python": 1,
+        "ansible": 1
+    },
+    "aidentified, llc": {
+        "python": 8,
+        "postgresql": 5,
+        "django": 3,
+        "elasticsearch": 3,
+        "git": 2,
+        "apache": 1,
+        "github": 1
+    },
+    "pareto solutions group, inc.": {
+        "python": 9,
+        "bitbucket": 2
+    },
+    "mindlance": {
+        "python": 3
+    },
+    "msit": {
+        "python": 10,
+        "javascript": 4,
+        "html5": 3,
+        "css": 2,
+        "html": 2,
+        "css3": 2,
+        "django": 1,
+        "flask": 1
+    },
+    "executive technocrats inc": {
+        "aws": 15,
+        "python": 6,
+        "devops": 3
+    },
+    "agama solutions inc": {
+        "python": 6,
+        "pandas": 3,
+        "numpy": 3,
+        "sql": 3,
+        "git": 2,
+        "ui": 1,
+        "angular": 1
+    },
+    "meta force it llc": {
+        "python": 4,
+        "aws": 3,
+        "devops": 3
+    },
+    "kastech software solutions group": {
+        "python": 5,
+        "jenkins": 3,
+        "agile": 3,
+        "aws": 2
+    },
+    "ascendion": {
+        "python": 11,
+        "aws": 4,
+        "devops": 3,
+        "safe": 3
+    },
+    "amazee global ventures inc": {
+        "python": 2,
+        "angular": 1,
+        "css": 1
+    },
+    "georgia it, inc.": {
+        "python": 4,
+        "ansible": 3,
+        "mysql": 3,
+        "jira": 3,
+        "agile": 3
+    },
+    "wave mobile technology, inc.": {
+        "python": 4
+    },
+    "centraprise": {
+        "python": 10,
+        "agile": 3,
+        "svn": 3
+    },
+    "mosaicpartners": {
+        "python": 4,
+        "linux": 2,
+        "rust": 2,
+        "apache": 1
+    },
+    "mindtree limited": {
+        "python": 6,
+        "sql": 2,
+        "agile": 2
+    },
+    "oc10": {
+        "python": 3
+    },
+    "go8it": {
+        "python": 4,
+        "flask": 3,
+        "javascript": 3,
+        "unix": 3,
+        "linux": 3,
+        "sql": 3
+    },
+    "federal soft systems": {
+        "python": 10,
+        "angular": 6,
+        "css": 4,
+        "mongodb": 4
+    },
+    "it engagements, inc.": {
+        "python": 6,
+        "agile": 4,
+        "hadoop": 3,
+        "devops": 2,
+        "scrum": 2,
+        "kanban": 2,
+        "java": 2,
+        "apache": 1,
+        "github": 1,
+        "eclipse": 1,
+        "gradle": 1
+    },
+    "manpowergroup": {
+        "python": 4,
+        "lean": 3,
+        "html": 2
+    },
+    "data inc": {
+        "foundation": 3,
+        "sql": 2,
+        "devops": 2,
+        "agile": 2,
+        "python": 1,
+        "kubernetes": 1
+    },
+    "allegis group": {
+        "python": 12,
+        "apache": 4,
+        "ansible": 4,
+        "jenkins": 4
+    },
+    "ltimindtree limited": {
+        "python": 6,
+        "sql": 2,
+        "agile": 2
+    },
+    "clearbridge technology group": {
+        "python": 10,
+        "java": 1,
+        "jira": 1
+    },
+    "1 point system": {
+        "python": 4,
+        "hadoop": 3,
+        "sql": 3,
+        "agile": 2
+    },
+    "axiom global technologies": {
+        "selenium": 3,
+        "java": 3,
+        "sql": 3
+    },
+    "jeevantechnologies.com": {
+        "python": 10,
+        "gcp": 2
+    },
+    "digital technology solutions": {
+        "matlab": 3,
+        "keras": 3,
+        "agile": 3
+    },
+    "ucore staffing & consulting": {
+        "python": 7,
+        "django": 3,
+        "html": 3,
+        "css": 3,
+        "c#": 2,
+        "javascript": 2,
+        "gitlab": 2,
+        "docker": 2,
+        "devops": 1
+    },
+    "matrix": {
+        "python": 3
+    },
+    "aplomb technologies": {
+        "python": 8,
+        "agile": 3,
+        "aws": 2
+    },
+    "softpath technologies llc": {
+        "python": 3,
+        "sql": 3,
+        "hadoop": 3,
+        "java": 1,
+        "agile": 1,
+        "sdlc": 1,
+        "unix": 1
+    },
+    "cloudlinux": {
+        "python": 5,
+        "shell": 3,
+        "aws": 3,
+        "linux": 2,
+        "ansible": 1,
+        "quasar": 1
+    },
+    "barings llc": {
+        "python": 5,
+        "sql": 4,
+        "pandas": 3,
+        "agile": 2,
+        "scrum": 2,
+        "sdlc": 2
+    },
+    "interex group": {
+        "aws": 16,
+        "python": 12,
+        "sdlc": 3,
+        "devops": 3,
+        "sql": 3,
+        "agile": 3,
+        "jira": 3,
+        "git": 2,
+        "flask": 2
+    },
+    "e solutions inc": {
+        "python": 6,
+        "sql": 3,
+        "aws": 3,
+        "jira": 2
+    },
+    "narvee tech inc": {
+        "aws": 4,
+        "python": 1
+    },
+    "lorven technologies inc.": {
+        "sql": 6,
+        "spring": 3,
+        "unix": 3,
+        "react": 3,
+        "sdlc": 3,
+        "gcp": 2,
+        "r": 1
+    },
+    "collabera llc": {
+        "angular": 5,
+        "python": 3,
+        "javascript": 3,
+        "css": 2,
+        "mongodb": 2
+    },
+    "cedent": {
+        "ansible": 6,
+        "terraform": 3,
+        "bash": 3,
+        "nessus": 3,
+        "shell": 3,
+        "python": 3,
+        "splunk": 3,
+        "firewall": 3,
+        "linux": 2,
+        "dns": 1,
+        "routing": 1,
+        "snmp": 1
+    },
+    "xpath solutions": {
+        "python": 36,
+        "agile": 2,
+        "docker": 1
+    },
+    "accuro group": {
+        "python": 12,
+        "mvc": 3,
+        "git": 3,
+        "css3": 3,
+        "html5": 3,
+        "devops": 2
+    },
+    "adept solutions inc.": {
+        "python": 4,
+        "sql": 4,
+        "unix": 3,
+        "windows": 3,
+        "xml": 2,
+        "javascript": 2,
+        "jquery": 2,
+        "aws": 2,
+        "c#": 1,
+        "xpath": 1,
+        "css": 1,
+        "shell": 1
+    },
+    "reperio human capital inc.": {
+        "aws": 3,
+        "python": 2,
+        "devops": 2,
+        "flask": 1,
+        "postgresql": 1,
+        "terraform": 1
+    },
+    "kimley-horn": {
+        "python": 12,
+        "angular": 3,
+        "javascript": 3,
+        "gcp": 2,
+        "bootstrap": 2,
+        "sql": 1,
+        "nosql": 1
+    },
+    "astral insights": {
+        "aws": 5,
+        "python": 3,
+        "javascript": 3,
+        "node.js": 3,
+        "mysql": 3,
+        "nosql": 3,
+        "mongodb": 3,
+        "scikit-learn": 2
+    },
+    "red hat": {
+        "kubernetes": 4,
+        "openshift": 3,
+        "agile": 3
+    },
+    "it-scient - 4.6": {
+        "python": 11,
+        "hadoop": 1,
+        "unix": 1,
+        "git": 1,
+        "r": 1
+    },
+    "actalent": {
+        "ui": 3,
+        "angular": 3,
+        "sql": 3,
+        "nosql": 3,
+        "agile": 2,
+        "python": 2
+    },
+    "insight enterprises inc": {
+        "python": 3,
+        "accuracy": 1,
+        "agile": 1
+    },
+    "extron electronics": {
+        "python": 4,
+        "devops": 3,
+        "flask": 1,
+        "sql": 1
+    },
+    "boston technology corporation": {
+        "python": 4
+    },
+    "comforcehealth": {
+        "python": 8,
+        "sql": 1,
+        "aws": 1
+    },
+    "norwin llc": {
+        "github": 3,
+        "devops": 1,
+        "agile": 1
+    },
+    "kynite": {
+        "python": 6,
+        "batch": 3,
+        "javascript": 3,
+        "aws": 3,
+        "sdlc": 2,
+        "agile": 2,
+        "scrum": 2,
+        "accuracy": 2
+    },
+    "miracle software systems, inc.": {
+        "graphql": 10,
+        "python": 9,
+        "kubernetes": 4
+    },
+    "vertical knowledge": {
+        "flask": 3,
+        "pandas": 3,
+        "sql": 3,
+        "linux": 3,
+        "aws": 3,
+        "ux": 3,
+        "ui": 2,
+        "python": 1
+    },
+    "hubbell power systems": {
+        "tableau": 17,
+        "assembly": 1,
+        "aws": 1
+    },
+    "national general insurance": {
+        "r": 6,
+        "sql": 3,
+        "python": 3
+    },
+    "tpa stream": {
+        "kubernetes": 3,
+        "react": 3,
+        "bash": 3,
+        "line": 3,
+        "http": 3,
+        "javascript": 2,
+        "postgresql": 2,
+        "flask": 2,
+        "python": 1,
+        "aws": 1
+    },
+    "elegantekllc.com": {
+        "graphql": 2,
+        "kubernetes": 2
+    },
+    "techdigital corporation": {
+        "python": 18,
+        "flask": 5,
+        "mysql": 3,
+        "emacs": 3,
+        "scipy": 3,
+        "agile": 3,
+        "scrum": 3,
+        "javascript": 2
+    },
+    "arthur grand technologies -": {
+        "devops": 3,
+        "python": 2,
+        "aws": 1,
+        "jenkins": 1
+    },
+    "acs solutions": {
+        "agile": 6,
+        "scrum": 3,
+        "jmeter": 2,
+        "java": 1,
+        "ui": 1,
+        "sql": 1
+    },
+    "fivesky": {
+        "aws": 2,
+        "python": 1,
+        "rest": 1,
+        "graphql": 1,
+        "jenkins": 1,
+        "terraform": 1
+    },
+    "alumni career site": {
+        "python": 6,
+        "devops": 6,
+        "agile": 4,
+        "sdlc": 3,
+        "selenium": 3,
+        "jenkins": 3,
+        "splunk": 3,
+        "scrum": 3,
+        "sql": 3,
+        "django": 2,
+        "mysql": 2,
+        "react": 1
+    },
+    "mantium": {
+        "python": 7,
+        "git": 2,
+        "docker": 2,
+        "kubernetes": 2,
+        "fastapi": 2,
+        "postgresql": 2,
+        "redis": 2,
+        "aws": 2
+    },
+    "the ohio state university wexner medical center": {
+        "mpi": 6,
+        "linux": 5,
+        "trac": 2,
+        "ethernet": 1,
+        "python": 1
+    },
+    "pyramid consulting group": {
+        "scrum": 3,
+        "postman": 1
+    },
+    "digi": {
+        "devops": 6,
+        "linux": 3,
+        "terraform": 3,
+        "soc": 2,
+        "cvs": 1
+    },
+    "cegedim": {
+        "agile": 2,
+        "python": 1
+    },
+    "loveseat inc.": {
+        "heroku": 3,
+        "react": 1,
+        "flutter": 1
+    },
+    "forcepoint": {
+        "linux": 3,
+        "agile": 2,
+        "scrum": 2,
+        "sed": 1,
+        "nosql": 1
+    },
+    "bdo usa": {
+        "linux": 3,
+        "java": 3,
+        "c++": 3,
+        "git": 1,
+        "devops": 1
+    },
+    "longevitylist": {
+        "python": 11,
+        "batch": 2
+    },
+    "paradigm information services, inc.": {
+        "c++": 3,
+        "git": 1,
+        "sql": 1
+    },
+    "ombu": {
+        "github": 3,
+        "python": 2,
+        "django": 1,
+        "http": 1,
+        "go": 1,
+        "java": 1
+    },
+    "reef technologies": {
+        "python": 5,
+        "html": 1,
+        "agile": 1
+    },
+    "kindercare education": {
+        "agile": 6,
+        "c++": 3
+    },
+    "genoa employment solutions inc": {},
+    "flexit inc": {},
+    "brown brothers harriman": {
+        "python": 11,
+        "django": 9,
+        "plotly": 9,
+        "agile": 3,
+        "javascript": 3,
+        "sql": 2,
+        "dash": 2
+    },
+    "netresolute": {
+        "python": 7,
+        "sql": 3,
+        "linux": 3,
+        "flask": 3,
+        "kubernetes": 2
+    },
+    "artech information system llc": {
+        "python": 7,
+        "mysql": 3,
+        "puppet": 3,
+        "agile": 1,
+        "devops": 1
+    },
+    "stoicsit llc": {
+        "django": 3,
+        "html": 3,
+        "ui": 3
+    },
+    "cerebra consulting inc": {
+        "python": 13,
+        "java": 11,
+        "aws": 3,
+        "kubernetes": 2,
+        "windows": 2
+    },
+    "idea evolver": {
+        "python": 4,
+        "agile": 2,
+        "sql": 1
+    },
+    "georgia it inc.": {
+        "python": 1
+    },
+    "ucrya": {
+        "unix": 4,
+        "scrum": 3,
+        "linux": 2,
+        "c": 1
+    },
+    "swift technologies": {
+        "python": 2
+    },
+    "quantum world technologies inc.": {
+        "aws": 17,
+        "python": 15,
+        "flask": 3,
+        "terraform": 3,
+        "docker": 2,
+        "cloudformation": 2,
+        "circleci": 2,
+        "eks": 1,
+        "kibana": 1
+    },
+    "infinity consulting solutions": {
+        "agile": 3,
+        "aws": 1,
+        "python": 1,
+        "java": 1
+    },
+    "redis labs": {
+        "redis": 24,
+        "python": 18,
+        "nosql": 6,
+        "safe": 3,
+        "c": 3,
+        "devops": 3
+    },
+    "pureintegration": {},
+    "apidel technologies": {
+        "spring": 18,
+        "rest": 3,
+        "aws": 2,
+        "http": 2,
+        "tcp/ip": 2,
+        "python": 1,
+        "ruby": 1
+    },
+    "new york technology partners": {
+        "java": 3,
+        "batch": 3,
+        "ui": 3,
+        "python": 1
+    },
+    "arete technologies, inc.": {
+        "python": 6,
+        "php": 4
+    },
+    "dotcom team, llc": {
+        "aws": 2,
+        "python": 1,
+        "jenkins": 1
+    },
+    "kane partners llc": {
+        "python": 2,
+        "sql": 2
+    },
+    "yochana it solutions inc": {
+        "python": 5,
+        "php": 3
+    },
+    "core software technologies": {
+        "c++": 3,
+        "python": 3,
+        "docker": 1,
+        "linux": 1
+    },
+    "mintex tech inc": {
+        "aws": 4,
+        "batch": 3,
+        "scala": 3,
+        "bamboo": 2
+    },
+    "marvica technologies llc": {
+        "python": 1
+    },
+    "sig": {
+        "windows": 3,
+        "python": 3,
+        "linux": 2
+    },
+    "ssi people": {
+        "java": 3,
+        "python": 3
+    },
+    "altimetrik": {},
+    "lancesoft, inc.": {
+        "python": 6
+    },
+    "latitude ai": {
+        "python": 6,
+        "safe": 3,
+        "aws": 3,
+        "gcp": 3,
+        "numpy": 3,
+        "c++": 2,
+        "kubernetes": 2,
+        "less": 1
+    },
+    "honorvet technologies": {
+        "ui": 3,
+        "sql": 3,
+        "agile": 1
+    },
+    "argo ai": {
+        "python": 3,
+        "pytorch": 3,
+        "tensorflow": 3
+    },
+    "vbeyond corporation": {
+        "sdlc": 3,
+        "pl/sql": 3,
+        "sql": 3,
+        "agile": 3,
+        "gitlab": 2
+    },
+    "seegrid corp.": {
+        "c++": 7
+    },
+    "it pros": {
+        "python": 8,
+        "line": 3,
+        "aws": 2,
+        "java": 2,
+        "zoom": 1
+    },
+    "valenz": {
+        "python": 4,
+        "sql": 2,
+        "flask": 2,
+        "foundation": 1
+    },
+    "diverse team": {
+        "python": 4,
+        "java": 1
+    },
+    "arthur grand technologies": {
+        "python": 7,
+        "flask": 3,
+        "javascript": 3
+    },
+    "ntt data": {
+        "sql": 7,
+        "python": 6,
+        "agile": 3,
+        "matlab": 3
+    },
+    "oxford solutions": {
+        "python": 11
+    },
+    "recruiterus2225": {},
+    "expedient": {
+        "python": 6,
+        "scikit-learn": 2,
+        "github": 2
+    },
+    "park university adjuncts": {
+        "python": 6,
+        "canvas": 2
+    },
+    "cgi group": {
+        "aws": 11,
+        "python": 4,
+        "r": 3,
+        "java": 3,
+        "fly": 2,
+        "agile": 1,
+        "sql": 1,
+        "cloudwatch": 1
+    },
+    "cgi technologies and solutions, inc.": {
+        "python": 7,
+        "java": 4,
+        "sql": 4,
+        "unix": 4,
+        "soapui": 3,
+        "jenkins": 2,
+        "agile": 1,
+        "jira": 1,
+        "aws": 1
+    },
+    "teacheron.com": {
+        "python": 4,
+        "skype": 1
+    },
+    "line of service:advisory": {},
+    "centralsquare technologies": {
+        "agile": 3,
+        "less": 2
+    },
+    "kesarweb": {
+        "python": 14,
+        "django": 3,
+        "flask": 2
+    },
+    "magnus technology solutions": {
+        "sql": 3,
+        "python": 2
+    },
+    "cynet systems inc": {
+        "python": 4,
+        "r": 3,
+        "scala": 3
+    },
+    "halvik": {
+        "python": 12,
+        "tornado": 2,
+        "css": 2,
+        "json": 2,
+        "sql": 2,
+        "agile": 2,
+        "linux": 2,
+        "shell": 2,
+        "routing": 1
+    },
+    "tektalent-inc": {
+        "sql": 2,
+        "python": 1
+    },
+    "technologyadvice": {
+        "python": 8,
+        "agile": 3,
+        "flask": 3,
+        "sql": 3,
+        "mysql": 3,
+        "aws": 3,
+        "ping": 2,
+        "slack": 1,
+        "safe": 1
+    },
+    "boss ai": {
+        "python": 10,
+        "linux": 3,
+        "sql": 3,
+        "nosql": 3,
+        "terraform": 3,
+        "kubernetes": 2
+    },
+    "vanderbilt university medical center": {
+        "python": 4,
+        "flask": 2,
+        "mercurial": 2,
+        "svn": 2,
+        "safe": 2,
+        "mysql": 1
+    },
+    "sial technology partners": {
+        "python": 8,
+        "apache": 3,
+        "sql": 3,
+        "agile": 2,
+        "scikit-learn": 2,
+        "rest": 1
+    },
+    "buckleigh williams": {
+        "sql": 3,
+        "python": 2,
+        "git": 2
+    },
+    "hub international limited": {
+        "javascript": 6,
+        "python": 3,
+        "agile": 3,
+        "django": 3,
+        "css": 3,
+        "ui": 2,
+        "rest": 2,
+        "java": 2,
+        "git": 1,
+        "nosql": 1
+    },
+    "schneider electric norge as": {},
+    "espressive": {
+        "python": 3,
+        "django": 3,
+        "agile": 1
+    },
+    "shiftcode analytics, inc": {
+        "python": 2,
+        "scikit-learn": 2
+    },
+    "avensia technologies llc": {
+        "python": 5,
+        "unix": 3,
+        "windows": 3,
+        "nagios": 3,
+        "shell": 2,
+        "chef": 1,
+        "hudson": 1
+    },
+    "company name": {
+        "python": 1,
+        "kubernetes": 1
+    },
+    "cloudrek inc": {
+        "aws": 8,
+        "docker": 5,
+        "python": 3,
+        "yaml": 3
+    },
+    "3pro": {
+        "devops": 3,
+        "python": 1
+    },
+    "spurcroft inc": {
+        "c#": 6,
+        "python": 3
+    },
+    "pattern learning ai - career & tech recruitment reimagined!": {
+        "python": 17,
+        "django": 3,
+        "aws": 2,
+        "agile": 2,
+        "flask": 2,
+        "mongodb": 2
+    },
+    "durlston partners": {
+        "python": 5
+    },
+    "royal & ross": {
+        "python": 10,
+        "sql": 3,
+        "aws": 1,
+        "docker": 1,
+        "kubernetes": 1
+    },
+    "pyramid consulting inc.": {
+        "python": 4,
+        "sql": 3,
+        "angular": 3,
+        "pyramid": 1
+    },
+    "icon information consultants": {
+        "python": 13,
+        "git": 6,
+        "linux": 4,
+        "jupyter": 3,
+        "sql": 3,
+        "devops": 1,
+        "postgresql": 1,
+        "mysql": 1
+    },
+    "oil states energy services": {
+        "c": 5,
+        "python": 3
+    },
+    "itsyntax inc": {
+        "python": 6,
+        "sql": 5,
+        "angular": 3,
+        "docker": 3
+    },
+    "vetjobs & military spouse jobs": {
+        "agile": 1
+    },
+    "odyssey": {
+        "python": 7,
+        "sql": 4,
+        "go": 3,
+        "docker": 3,
+        "git": 2
+    },
+    "southern staffing services group": {
+        "aws": 9,
+        "python": 7,
+        "rest": 5,
+        "angular": 3,
+        "sql": 2,
+        "github": 1,
+        "devops": 1
+    },
+    "uthealth": {
+        "c#": 3
+    },
+    "tekvalue it solutions": {
+        "python": 4,
+        "rest": 3,
+        "mongodb": 3,
+        "kubernetes": 3,
+        "r": 1
+    },
+    "hsk technologies, inc.": {
+        "python": 11,
+        "kubernetes": 7,
+        "devops": 4,
+        "oop": 3,
+        "uml": 3,
+        "gitlab": 3,
+        "terraform": 2,
+        "go": 1
+    },
+    "comtec information systems": {
+        "python": 8,
+        "docker": 6,
+        "aws": 5,
+        "yaml": 2
+    },
+    "rose international": {
+        "python": 13,
+        "pandas": 3,
+        "agile": 3,
+        "sql": 3,
+        "devops": 3,
+        "github": 3,
+        "aws": 2,
+        "javascript": 2
+    },
+    "suntek corporation inc": {
+        "python": 6,
+        "kubernetes": 3,
+        "rest": 3,
+        "django": 3,
+        "unix": 3,
+        "nosql": 3,
+        "json": 3,
+        "mysql": 2
+    },
+    "gatix e solution": {
+        "python": 4,
+        "aws": 3,
+        "java": 1,
+        "jira": 1
+    },
+    "softstandard solution": {
+        "python": 3,
+        "sql": 3,
+        "devops": 3,
+        "github": 3,
+        "aws": 2,
+        "javascript": 2,
+        "pandas": 1,
+        "agile": 1
+    },
+    "cognitive space": {
+        "python": 5,
+        "c++": 3,
+        "oop": 3,
+        "routing": 3,
+        "qos": 3,
+        "linux": 2,
+        "tcp/ip": 2,
+        "box": 1
+    },
+    "k-tek resourcing": {
+        "python": 30,
+        "powershell": 14,
+        "windows": 2
+    },
+    "vrn technologies": {
+        "gitlab": 3,
+        "git": 3,
+        "python": 2,
+        "docker": 1,
+        "apache": 1
+    },
+    "forsys inc": {
+        "python": 13,
+        "sql": 4,
+        "openshift": 3,
+        "numpy": 2,
+        "flask": 1
+    },
+    "cliently": {
+        "python": 7,
+        "mysql": 5,
+        "react": 3,
+        "javascript": 3,
+        "flask": 3,
+        "devops": 3,
+        "dns": 3,
+        "elasticsearch": 1
+    },
+    "saras america inc": {
+        "python": 7,
+        "git": 3,
+        "linux": 1
+    },
+    "arsenault": {
+        "python": 7,
+        "django": 2,
+        "flask": 2
+    },
+    "data intensity llc": {
+        "python": 11,
+        "bash": 3,
+        "metal": 3,
+        "linux": 3,
+        "erlang": 3,
+        "rest": 1
+    },
+    "usaa": {
+        "python": 5,
+        "sql": 2
+    },
+    "apex systems, inc": {
+        "ui": 4,
+        "scrum": 3,
+        "python": 2,
+        "ruby": 1,
+        "selenium": 1
+    },
+    "southwest research institute": {},
+    "mantech advanced systems international": {
+        "assembly": 3,
+        "subversion": 2,
+        "perl": 2
+    },
+    "lookout": {
+        "agile": 3,
+        "devops": 2,
+        "aws": 1,
+        "gcp": 1,
+        "ruby": 1
+    },
+    "brivo": {
+        "agile": 3,
+        "django": 2,
+        "rest": 2,
+        "python": 1,
+        "git": 1,
+        "devops": 1,
+        "foundation": 1
+    },
+    "innova unified management services pvt ltd": {
+        "python": 6,
+        "django": 6,
+        "scheme": 2
+    },
+    "dyno nobel": {
+        "python": 5,
+        "agile": 4,
+        "flask": 3,
+        "rest": 3,
+        "sql": 3,
+        "css3": 3,
+        "java": 1
+    },
+    "drive current": {
+        "python": 6,
+        "less": 3,
+        "django": 3,
+        "sql": 3,
+        "line": 2,
+        "mvc": 2,
+        "postgresql": 2,
+        "html": 2,
+        "agile": 1,
+        "angular": 1,
+        "javascript": 1
+    },
+    "arup laboratories": {
+        "python": 3
+    },
+    "ascential (ascential group ltd)": {
+        "python": 4,
+        "aws": 3,
+        "c": 3,
+        "scheme": 3
+    },
+    "pf carrus llc": {
+        "devops": 3,
+        "mongodb": 3,
+        "signal": 2,
+        "foundation": 1
+    },
+    "divishllc": {
+        "devops": 12,
+        "python": 5,
+        "aws": 4,
+        "terraform": 4,
+        "bash": 3,
+        "ansible": 2,
+        "saltstack": 2,
+        "elasticsearch": 2,
+        "go": 2,
+        "latency": 2,
+        "cloudformation": 1
+    },
+    "unisys": {
+        "python": 4,
+        "aws": 4,
+        "agile": 3,
+        "scrum": 3,
+        "postgresql": 3
+    },
+    "centraprise llc": {
+        "python": 2
+    },
+    "blue x technologies": {
+        "python": 12,
+        "nosql": 7,
+        "java": 5,
+        "sql": 4,
+        "aws": 3,
+        "node.js": 3,
+        "agile": 2,
+        "devops": 1
+    },
+    "fts international": {},
+    "delviom": {
+        "python": 23,
+        "aws": 11,
+        "angular": 4,
+        "java": 2
+    },
+    "data concepts": {
+        "python": 4
+    },
+    "anb sourcing llc": {
+        "python": 3
+    },
+    "neumeric technologies corporation": {
+        "python": 8,
+        "sql": 5,
+        "aws": 5,
+        "nosql": 4,
+        "devops": 3,
+        "node.js": 3,
+        "scala": 2,
+        "docker": 2
+    },
+    "rose it": {
+        "python": 5,
+        "aws": 4
+    },
+    "ferguson enterprises, llc": {
+        "c#": 4,
+        "python": 3,
+        "foundation": 1,
+        "sql": 1,
+        "nosql": 1,
+        "mongodb": 1
+    },
+    "script2it": {
+        "python": 7,
+        "aws": 4,
+        "rest": 2,
+        "devops": 2,
+        "javascript": 1,
+        "sql": 1,
+        "soap": 1,
+        "batch": 1
+    },
+    "capital one financial corporation": {
+        "agile": 4,
+        "shell": 2,
+        "nosql": 2,
+        "docker": 2,
+        "aws": 2,
+        "java": 1
+    },
+    "rapinno tech inc": {
+        "java": 2,
+        "nosql": 2
+    },
+    "dev technology group": {
+        "aws": 3,
+        "foundation": 2,
+        "jenkins": 2,
+        "devops": 1,
+        "agile": 1
+    },
+    "esr healthcare": {
+        "python": 4,
+        "bash": 3,
+        "sql": 3,
+        "ansible": 3,
+        "shell": 3
+    },
+    "digital alpha technologies, inc.": {
+        "aws": 12,
+        "apache": 3,
+        "python": 3,
+        "agile": 2
+    },
+    "pythonwise inc": {
+        "python": 9,
+        "django": 3,
+        "scrum": 3,
+        "agile": 3,
+        "react": 2,
+        "sql": 2,
+        "css3": 2,
+        "git": 2
+    },
+    "pythonwise": {
+        "python": 3
+    },
+    "devselect, llc": {
+        "python": 2,
+        "django": 2,
+        "rest": 1
+    },
+    "zoox": {
+        "python": 6
+    },
+    "oreva technologies, inc.": {
+        "python": 2,
+        "kubernetes": 1
+    },
+    "devselect": {
+        "python": 2,
+        "django": 2,
+        "rest": 1
+    },
+    "rapid it": {
+        "python": 3,
+        "nosql": 3,
+        "hadoop": 2,
+        "c#": 1
+    },
+    "trilogy equity partners": {
+        "mvc": 3,
+        "python": 2,
+        "agile": 1,
+        "heroku": 1,
+        "aws": 1,
+        "foundation": 1
+    },
+    "intellixaa": {
+        "python": 10,
+        "sdlc": 3,
+        "less": 2,
+        "hadoop": 2
+    },
+    "hireblox": {
+        "scrum": 3
+    },
+    "endpoint closing": {
+        "python": 3
+    },
+    "tiktok": {
+        "sql": 2,
+        "batch": 1
+    },
+    "corp to corp jobs": {
+        "python": 4
+    },
+    "flyhomes.com": {
+        "python": 7,
+        "ruby": 3,
+        "aws": 1,
+        "fly": 1
+    },
+    "wisestep-inc": {
+        "python": 9,
+        "pandas": 3,
+        "soap": 3,
+        "rest": 3,
+        "sql": 2,
+        "numpy": 1
+    },
+    "get it recruit - professional services": {
+        "python": 6,
+        "jenkins": 3,
+        "go": 1,
+        "mysql": 1,
+        "github": 1
+    },
+    "redefined corp": {
+        "python": 4
+    },
+    "blueprint": {
+        "python": 5,
+        "agile": 2
+    },
+    "data affect": {
+        "agile": 3,
+        "python": 1
+    },
+    "blankfactor": {
+        "python": 4,
+        "r": 2,
+        "devops": 2
+    },
+    "itech us, inc.": {
+        "java": 4,
+        "shell": 4,
+        "xcode": 4,
+        "ios": 4
+    },
+    "understanding recruitment": {
+        "python": 6,
+        "graphql": 4
+    },
+    "microvision": {
+        "python": 7,
+        "linux": 6,
+        "c++": 4,
+        "foundation": 3,
+        "opencv": 1
+    },
+    "business communication solutions": {
+        "python": 12,
+        "jenkins": 8,
+        "css": 4,
+        "html": 3,
+        "sql": 2
+    },
+    "university of wisconsin-madison - student jobs": {
+        "python": 1
+    },
+    "kforce - united states": {
+        "less": 1
+    },
+    "ensodata": {
+        "less": 1,
+        "python": 1
+    },
+    "beacon hill staffing group llc": {
+        "python": 9,
+        "react": 4,
+        "terraform": 3,
+        "aws": 3,
+        "fastapi": 2,
+        "mongodb": 1,
+        "graphql": 1
+    },
+    "uw-madison hci lab in computer sciences": {
+        "c++": 2
+    },
+    "arminus": {
+        "python": 4,
+        "sql": 3
+    },
+    "tartan solutions": {
+        "python": 6,
+        "kubernetes": 3,
+        "apache": 2,
+        "git": 2,
+        "ruby": 1,
+        "sql": 1
+    },
+    "direct recruiters inc.": {
+        "android": 9,
+        "java": 5,
+        "postgresql": 3,
+        "sql": 3,
+        "nosql": 3,
+        "kotlin": 3,
+        "xml": 3,
+        "python": 1,
+        "relay": 1,
+        "aws": 1,
+        "devops": 1
+    },
+    "syslogic": {
+        "python": 3,
+        "rest": 3,
+        "linux": 2,
+        "agile": 1,
+        "devops": 1
+    },
+    "codeworks, l.l.c.": {
+        "javascript": 3,
+        "python": 3,
+        "devops": 3,
+        "agile": 3
+    },
+    "arminus software llc": {
+        "python": 4,
+        "sql": 3
+    },
+    "syslogic, inc.": {
+        "agile": 3,
+        "python": 3,
+        "rest": 3,
+        "linux": 2,
+        "devops": 1
+    },
+    "damco solutions": {
+        "agile": 9,
+        "box": 4,
+        "go": 3,
+        "sdlc": 3,
+        "waterfall": 3,
+        "safe": 1
+    },
+    "systems pros inc.": {
+        "python": 3
+    },
+    "high 5": {
+        "python": 5,
+        "sql": 3,
+        "linux": 3,
+        "sdlc": 1
+    },
+    "true companies": {
+        "python": 6,
+        "tensorflow": 4,
+        "agile": 3
+    },
+    "codersdata llc": {
+        "python": 6,
+        "flask": 2,
+        "javascript": 2
+    }
+}

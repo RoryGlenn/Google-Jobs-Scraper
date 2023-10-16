@@ -6,7 +6,7 @@ def main() -> None:
     data to a file in the same directory.
 
     """
-    path = "results/Software Engineer in 2023-10-11/google_jobs_data_us_cities.json"
+    path = "results/Python Developer 2023-10-15/google_jobs_data.json"
     data = get_raw_data(path)
 
     path = path.split("/")
